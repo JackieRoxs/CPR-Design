@@ -1,0 +1,803 @@
+{
+    "anims": [
+        {
+            "key": "dock_heli",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/heli/heli_0131",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
