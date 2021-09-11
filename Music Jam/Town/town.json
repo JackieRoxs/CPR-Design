@@ -1,0 +1,2173 @@
+{
+	"textures": [
+		{
+			"image": "town-0.png?v=1.7.10-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 2036
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "town/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "town/treeleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 721
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 721
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 337,
+						"h": 721
+					}
+				},
+				{
+					"filename": "town/coffee/right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 380
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 380
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1,
+						"w": 181,
+						"h": 380
+					}
+				},
+				{
+					"filename": "town/umbrella",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 171
+					},
+					"frame": {
+						"x": 1862,
+						"y": 383,
+						"w": 162,
+						"h": 171
+					}
+				},
+				{
+					"filename": "town/door/gift0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 162
+					},
+					"frame": {
+						"x": 1862,
+						"y": 556,
+						"w": 155,
+						"h": 162
+					}
+				},
+				{
+					"filename": "town/door/gift0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 117,
+						"h": 162
+					},
+					"frame": {
+						"x": 1862,
+						"y": 720,
+						"w": 117,
+						"h": 162
+					}
+				},
+				{
+					"filename": "town/treeright",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 312,
+						"h": 571
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 312,
+						"h": 571
+					},
+					"frame": {
+						"x": 1523,
+						"y": 724,
+						"w": 312,
+						"h": 571
+					}
+				},
+				{
+					"filename": "town/danceclub/door0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 148
+					},
+					"frame": {
+						"x": 1837,
+						"y": 884,
+						"w": 125,
+						"h": 148
+					}
+				},
+				{
+					"filename": "town/coffee/door0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 155
+					},
+					"frame": {
+						"x": 1837,
+						"y": 1034,
+						"w": 119,
+						"h": 155
+					}
+				},
+				{
+					"filename": "town/door/gift_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 51,
+						"w": 85,
+						"h": 117
+					},
+					"frame": {
+						"x": 1958,
+						"y": 1034,
+						"w": 85,
+						"h": 117
+					}
+				},
+				{
+					"filename": "town/chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 96
+					},
+					"frame": {
+						"x": 1958,
+						"y": 1153,
+						"w": 83,
+						"h": 96
+					}
+				},
+				{
+					"filename": "town/coffee/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 119,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 119,
+						"h": 144
+					},
+					"frame": {
+						"x": 1837,
+						"y": 1191,
+						"w": 119,
+						"h": 144
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 41,
+						"w": 937,
+						"h": 596
+					},
+					"frame": {
+						"x": 1,
+						"y": 1297,
+						"w": 937,
+						"h": 596
+					}
+				},
+				{
+					"filename": "town/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 573,
+						"h": 1042
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 573,
+						"h": 1042
+					},
+					"frame": {
+						"x": 940,
+						"y": 963,
+						"w": 573,
+						"h": 1042
+					}
+				},
+				{
+					"filename": "town/treetop",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 529,
+						"h": 682
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 529,
+						"h": 682
+					},
+					"frame": {
+						"x": 1515,
+						"y": 1337,
+						"w": 529,
+						"h": 682
+					}
+				},
+				{
+					"filename": "town/danceclub/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 121,
+						"h": 112
+					},
+					"frame": {
+						"x": 1,
+						"y": 1895,
+						"w": 121,
+						"h": 112
+					}
+				},
+				{
+					"filename": "town/door/gift_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 53,
+						"w": 90,
+						"h": 140
+					},
+					"frame": {
+						"x": 124,
+						"y": 1895,
+						"w": 90,
+						"h": 140
+					}
+				},
+				{
+					"filename": "town/door/gift_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 181,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 53,
+						"w": 90,
+						"h": 140
+					},
+					"frame": {
+						"x": 124,
+						"y": 1895,
+						"w": 90,
+						"h": 140
+					}
+				},
+				{
+					"filename": "town/table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 111
+					},
+					"frame": {
+						"x": 216,
+						"y": 1895,
+						"w": 110,
+						"h": 111
+					}
+				},
+				{
+					"filename": "town/door/coffee_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 38,
+						"w": 98,
+						"h": 117
+					},
+					"frame": {
+						"x": 328,
+						"y": 1895,
+						"w": 98,
+						"h": 117
+					}
+				},
+				{
+					"filename": "town/door/coffee_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 38,
+						"w": 98,
+						"h": 117
+					},
+					"frame": {
+						"x": 328,
+						"y": 1895,
+						"w": 98,
+						"h": 117
+					}
+				},
+				{
+					"filename": "town/door/coffee_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 38,
+						"w": 99,
+						"h": 107
+					},
+					"frame": {
+						"x": 428,
+						"y": 1895,
+						"w": 99,
+						"h": 107
+					}
+				},
+				{
+					"filename": "town/stars",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 321,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 321,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 321,
+						"h": 229
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 241
+					},
+					"frame": {
+						"x": 324,
+						"y": 963,
+						"w": 289,
+						"h": 241
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 241
+					},
+					"frame": {
+						"x": 324,
+						"y": 963,
+						"w": 289,
+						"h": 241
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 241
+					},
+					"frame": {
+						"x": 615,
+						"y": 963,
+						"w": 289,
+						"h": 241
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 289,
+						"h": 241
+					},
+					"frame": {
+						"x": 615,
+						"y": 963,
+						"w": 289,
+						"h": 241
+					}
+				}
+			]
+		},
+		{
+			"image": "town-1.png?v=1.7.10-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1997,
+				"h": 1012
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "town/danceclub/dance0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/danceclub/dance0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1112,
+						"h": 637
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 46,
+						"w": 937,
+						"h": 591
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 937,
+						"h": 591
+					}
+				},
+				{
+					"filename": "town/gift_building",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 363,
+						"h": 417
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 363,
+						"h": 417
+					},
+					"frame": {
+						"x": 1,
+						"y": 594,
+						"w": 363,
+						"h": 417
+					}
+				},
+				{
+					"filename": "town/bushright",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 398,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 398,
+						"h": 379
+					},
+					"frame": {
+						"x": 366,
+						"y": 594,
+						"w": 398,
+						"h": 379
+					}
+				},
+				{
+					"filename": "town/bushleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 364
+					},
+					"frame": {
+						"x": 766,
+						"y": 594,
+						"w": 299,
+						"h": 364
+					}
+				},
+				{
+					"filename": "town/coffee/left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 513
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 513
+					},
+					"frame": {
+						"x": 940,
+						"y": 1,
+						"w": 425,
+						"h": 513
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 289,
+						"h": 238
+					},
+					"frame": {
+						"x": 1067,
+						"y": 516,
+						"w": 289,
+						"h": 238
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 289,
+						"h": 238
+					},
+					"frame": {
+						"x": 1067,
+						"y": 516,
+						"w": 289,
+						"h": 238
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 289,
+						"h": 237
+					},
+					"frame": {
+						"x": 1067,
+						"y": 756,
+						"w": 289,
+						"h": 237
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 289,
+						"h": 237
+					},
+					"frame": {
+						"x": 1067,
+						"y": 756,
+						"w": 289,
+						"h": 237
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 289,
+						"h": 237
+					},
+					"frame": {
+						"x": 1358,
+						"y": 516,
+						"w": 289,
+						"h": 237
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 289,
+						"h": 237
+					},
+					"frame": {
+						"x": 1358,
+						"y": 516,
+						"w": 289,
+						"h": 237
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 289,
+						"h": 234
+					},
+					"frame": {
+						"x": 1358,
+						"y": 755,
+						"w": 289,
+						"h": 234
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 289,
+						"h": 234
+					},
+					"frame": {
+						"x": 1358,
+						"y": 755,
+						"w": 289,
+						"h": 234
+					}
+				},
+				{
+					"filename": "town/forts",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 347,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 647
+					},
+					"frame": {
+						"x": 1649,
+						"y": 1,
+						"w": 347,
+						"h": 647
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 289,
+						"h": 234
+					},
+					"frame": {
+						"x": 1649,
+						"y": 650,
+						"w": 289,
+						"h": 234
+					}
+				},
+				{
+					"filename": "town/fountain/fountain0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 289,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 289,
+						"h": 234
+					},
+					"frame": {
+						"x": 1649,
+						"y": 650,
+						"w": 289,
+						"h": 234
+					}
+				},
+				{
+					"filename": "town/danceclub/doorlight",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 273,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 235,
+						"h": 173
+					},
+					"frame": {
+						"x": 1367,
+						"y": 1,
+						"w": 235,
+						"h": 173
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b13fdac5a7a5b8c5a921348ffb1aeebe:79bc652e16f6b610b219aa166ac700e1:b1b6ee8edb81a3ea5b84ae1efb2d28b8$"
+	}
+}
