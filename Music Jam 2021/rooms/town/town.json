@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "town-0.png?v=1.7.10-beta",
+			"image": "town-0.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2045,
