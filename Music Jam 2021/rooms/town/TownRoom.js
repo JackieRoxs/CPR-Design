@@ -204,6 +204,7 @@ class TownRoom extends RoomScene {
         _0x2a10dd['setOrigin'](0x84e + 0xabc + -4873.278176233211, -0xb2 * -0x2a + 0x41 * 0x8b + -16510.875740713203);
         const _0x389466 = this['add']['image'](-0x1b11 + -0x1684 + 14004.544799891411, -0x9f1 * -0x3 + 0x1 * -0x2531 + 2172.7160163703115, _0x26238f['RfLSd'], _0x26238f['pjLmM']);
         _0x389466['setOrigin'](-0x10 * -0x4c + -0xb * -0x347 + -10444.703040922503, -0x1cf1 + -0x712 + 9219.20280682592);
+            // The Water Fountain - Set Cords in bottom
         const _0x5640d7 = this['add']['sprite'](0x23da + -0xa9 * 0x2d + -678.8256931138133, -0x22be + -0x9e3 + 12112.769176783391, _0x26238f['RfLSd'], 'town/fountain/fountain0001');
         _0x5640d7['setOrigin'](0.450430138, 0.506143037);
         const _0x900448 = this['add']['image'](0x42b * 0x2 + 0x43a * -0x1 + -788.4810108050286, -0xa34 * -0x3 + -0x1 * 0x34c + -6783.13974627694, _0x26238f['RfLSd'], _0x26238f['nDDNV']);
