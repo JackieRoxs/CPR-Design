@@ -1,0 +1,1449 @@
+{
+	"textures": [
+		{
+			"image": "beacon@4x-0.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 1990
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beacon/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1958,
+						"h": 1270
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1958,
+						"h": 1270
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1958,
+						"h": 1270
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1961,
+						"y": 164,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 83,
+						"h": 149
+					},
+					"frame": {
+						"x": 1961,
+						"y": 327,
+						"w": 83,
+						"h": 149
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 83,
+						"h": 149
+					},
+					"frame": {
+						"x": 1961,
+						"y": 478,
+						"w": 83,
+						"h": 149
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1961,
+						"y": 629,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1961,
+						"y": 774,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1961,
+						"y": 919,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1064,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1961,
+						"y": 1209,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/platform1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1498,
+						"h": 716
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1498,
+						"h": 716
+					},
+					"frame": {
+						"x": 1,
+						"y": 1273,
+						"w": 1498,
+						"h": 716
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1273,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1273,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1273,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/stair_handle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 200
+					},
+					"frame": {
+						"x": 1805,
+						"y": 1273,
+						"w": 145,
+						"h": 200
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1482,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1482,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1482,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/off",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 172
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1691,
+						"w": 302,
+						"h": 172
+					}
+				}
+			]
+		},
+		{
+			"image": "beacon@4x-1.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1937,
+				"h": 1893
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beacon/background_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1838,
+						"y": 1,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 89,
+						"h": 143
+					},
+					"frame": {
+						"x": 1838,
+						"y": 164,
+						"w": 89,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1534,
+						"y": 210,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1534,
+						"y": 210,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1534,
+						"y": 210,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 89,
+						"h": 143
+					},
+					"frame": {
+						"x": 1838,
+						"y": 309,
+						"w": 89,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/telescope",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 338,
+						"h": 391
+					},
+					"spriteSourceSize": {
+						"x": 162,
+						"y": 203,
+						"w": 176,
+						"h": 188
+					},
+					"frame": {
+						"x": 1534,
+						"y": 419,
+						"w": 176,
+						"h": 188
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 108,
+						"h": 143
+					},
+					"frame": {
+						"x": 1712,
+						"y": 419,
+						"w": 108,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1822,
+						"y": 454,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1822,
+						"y": 454,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1822,
+						"y": 454,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1822,
+						"y": 454,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1822,
+						"y": 454,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 83,
+						"h": 143
+					},
+					"frame": {
+						"x": 1822,
+						"y": 454,
+						"w": 83,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/stairs_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 136
+					},
+					"frame": {
+						"x": 1712,
+						"y": 599,
+						"w": 195,
+						"h": 136
+					}
+				},
+				{
+					"filename": "beacon/floor_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1309,
+						"h": 593
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1309,
+						"h": 593
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1309,
+						"h": 593
+					}
+				},
+				{
+					"filename": "beacon/plat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1327,
+						"h": 327
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1327,
+						"h": 327
+					},
+					"frame": {
+						"x": 1,
+						"y": 1565,
+						"w": 1327,
+						"h": 327
+					}
+				},
+				{
+					"filename": "beacon/light/off/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 606,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 606,
+						"h": 406
+					},
+					"frame": {
+						"x": 1312,
+						"y": 970,
+						"w": 606,
+						"h": 406
+					}
+				},
+				{
+					"filename": "beacon/light/on/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 606,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 606,
+						"h": 406
+					},
+					"frame": {
+						"x": 1330,
+						"y": 1378,
+						"w": 606,
+						"h": 406
+					}
+				}
+			]
+		},
+		{
+			"image": "beacon@4x-2.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1989,
+				"h": 1900
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beacon/bulb0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 765,
+						"h": 718
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 765,
+						"h": 718
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 765,
+						"h": 718
+					}
+				},
+				{
+					"filename": "beacon/floor_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1309,
+						"h": 593
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1309,
+						"h": 593
+					},
+					"frame": {
+						"x": 1,
+						"y": 721,
+						"w": 1309,
+						"h": 593
+					}
+				},
+				{
+					"filename": "beacon/bulb0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 765,
+						"h": 718
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 765,
+						"h": 718
+					},
+					"frame": {
+						"x": 768,
+						"y": 1,
+						"w": 765,
+						"h": 718
+					}
+				},
+				{
+					"filename": "beacon/handles2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1327,
+						"h": 327
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1327,
+						"h": 327
+					},
+					"frame": {
+						"x": 1,
+						"y": 1316,
+						"w": 1327,
+						"h": 327
+					}
+				},
+				{
+					"filename": "beacon/light/off/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 658,
+						"h": 523
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 658,
+						"h": 523
+					},
+					"frame": {
+						"x": 1312,
+						"y": 721,
+						"w": 658,
+						"h": 523
+					}
+				},
+				{
+					"filename": "beacon/light/on/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 658,
+						"h": 523
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 658,
+						"h": 523
+					},
+					"frame": {
+						"x": 1330,
+						"y": 1246,
+						"w": 658,
+						"h": 523
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1535,
+						"y": 210,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1535,
+						"y": 210,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/jetpack/on_0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 302,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 302,
+						"h": 207
+					},
+					"frame": {
+						"x": 1535,
+						"y": 210,
+						"w": 302,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beacon/stairs_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 136
+					},
+					"frame": {
+						"x": 1535,
+						"y": 419,
+						"w": 195,
+						"h": 136
+					}
+				},
+				{
+					"filename": "beacon/crate",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 95
+					},
+					"frame": {
+						"x": 1732,
+						"y": 419,
+						"w": 143,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 108,
+						"h": 143
+					},
+					"frame": {
+						"x": 1732,
+						"y": 516,
+						"w": 108,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 97,
+						"h": 143
+					},
+					"frame": {
+						"x": 1535,
+						"y": 557,
+						"w": 97,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 161
+					},
+					"frame": {
+						"x": 1634,
+						"y": 557,
+						"w": 83,
+						"h": 161
+					}
+				},
+				{
+					"filename": "beacon/light/lever_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 97,
+						"h": 143
+					},
+					"frame": {
+						"x": 1842,
+						"y": 516,
+						"w": 97,
+						"h": 143
+					}
+				},
+				{
+					"filename": "beacon/light/light_top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 765,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 765,
+						"h": 254
+					},
+					"frame": {
+						"x": 1,
+						"y": 1645,
+						"w": 765,
+						"h": 254
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9ea12d5bd451989d5839b28532e7d35d:48772ee686f8191144aee77bb04d2ace:cef6b70e48fd96edbfd1dffc434dbaad$"
+	}
+}

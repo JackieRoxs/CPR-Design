@@ -1,0 +1,89 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/herbert_feet.mp3"
+                ],
+                "type": "audio",
+                "key": "herbert_feet"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/loud_thud.mp3"
+                ],
+                "type": "audio",
+                "key": "loud_thud"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/maze_ambience.mp3"
+                ],
+                "type": "audio",
+                "key": "maze_ambience"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/maze_music_chase.mp3"
+                ],
+                "type": "audio",
+                "key": "maze_music_chase"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/maze_music_normal.mp3"
+                ],
+                "type": "audio",
+                "key": "maze_music_normal"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/medium_thud.mp3"
+                ],
+                "type": "audio",
+                "key": "medium_thud"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/rooms/party5/party5@4x.json?v=1.7.50-beta",
+                "path": "assets/content/global/rooms/party5/",
+                "key": "party5@4x"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/shaking.mp3"
+                ],
+                "type": "audio",
+                "key": "shaking"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/single_thud.mp3"
+                ],
+                "type": "audio",
+                "key": "single_thud"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/singular_fall.mp3"
+                ],
+                "type": "audio",
+                "key": "singular_fall"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party5/audio/things_falling.mp3"
+                ],
+                "type": "audio",
+                "key": "things_falling"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

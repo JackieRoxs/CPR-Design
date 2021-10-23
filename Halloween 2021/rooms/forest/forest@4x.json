@@ -1,0 +1,1081 @@
+{
+	"textures": [
+		{
+			"image": "forest@4x-0.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2008,
+				"h": 2006
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "forest/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1557,
+						"h": 984
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1557,
+						"h": 984
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1557,
+						"h": 984
+					}
+				},
+				{
+					"filename": "forest/treesbleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1060,
+						"h": 499
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1060,
+						"h": 499
+					},
+					"frame": {
+						"x": 1,
+						"y": 987,
+						"w": 1060,
+						"h": 499
+					}
+				},
+				{
+					"filename": "forest/foreground0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 944,
+						"h": 979
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 944,
+						"h": 979
+					},
+					"frame": {
+						"x": 1063,
+						"y": 987,
+						"w": 944,
+						"h": 979
+					}
+				},
+				{
+					"filename": "forest/treesleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 444,
+						"h": 972
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 444,
+						"h": 972
+					},
+					"frame": {
+						"x": 1560,
+						"y": 1,
+						"w": 444,
+						"h": 972
+					}
+				},
+				{
+					"filename": "forest/middletrees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 760,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 760,
+						"h": 281
+					},
+					"frame": {
+						"x": 1,
+						"y": 1488,
+						"w": 760,
+						"h": 281
+					}
+				},
+				{
+					"filename": "forest/groundthinmg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 268
+					},
+					"frame": {
+						"x": 763,
+						"y": 1488,
+						"w": 161,
+						"h": 268
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 93,
+						"w": 261,
+						"h": 247
+					},
+					"frame": {
+						"x": 763,
+						"y": 1758,
+						"w": 261,
+						"h": 247
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 78,
+						"w": 679,
+						"h": 220
+					},
+					"frame": {
+						"x": 1,
+						"y": 1771,
+						"w": 679,
+						"h": 220
+					}
+				},
+				{
+					"filename": "forest/pumpkin1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 104
+					},
+					"frame": {
+						"x": 926,
+						"y": 1488,
+						"w": 97,
+						"h": 104
+					}
+				},
+				{
+					"filename": "forest/sign1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 83
+					},
+					"frame": {
+						"x": 926,
+						"y": 1594,
+						"w": 73,
+						"h": 83
+					}
+				}
+			]
+		},
+		{
+			"image": "forest@4x-1.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2031,
+				"h": 2038
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "forest/bigtree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 449,
+						"h": 574
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 449,
+						"h": 574
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 449,
+						"h": 574
+					}
+				},
+				{
+					"filename": "forest/stairstrees",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 396,
+						"h": 665
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 665
+					},
+					"frame": {
+						"x": 452,
+						"y": 1,
+						"w": 396,
+						"h": 665
+					}
+				},
+				{
+					"filename": "forest/maintree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 329,
+						"h": 435
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 329,
+						"h": 435
+					},
+					"frame": {
+						"x": 1,
+						"y": 577,
+						"w": 329,
+						"h": 435
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 639,
+						"h": 307
+					},
+					"frame": {
+						"x": 332,
+						"y": 668,
+						"w": 639,
+						"h": 307
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 660,
+						"h": 265
+					},
+					"frame": {
+						"x": 850,
+						"y": 1,
+						"w": 660,
+						"h": 265
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 619,
+						"h": 292
+					},
+					"frame": {
+						"x": 850,
+						"y": 268,
+						"w": 619,
+						"h": 292
+					}
+				},
+				{
+					"filename": "forest/maintree2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 355,
+						"h": 371
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 355,
+						"h": 371
+					},
+					"frame": {
+						"x": 973,
+						"y": 562,
+						"w": 355,
+						"h": 371
+					}
+				},
+				{
+					"filename": "forest/root",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 488,
+						"h": 370
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 488,
+						"h": 370
+					},
+					"frame": {
+						"x": 973,
+						"y": 935,
+						"w": 488,
+						"h": 370
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 598,
+						"h": 292
+					},
+					"frame": {
+						"x": 1330,
+						"y": 562,
+						"w": 598,
+						"h": 292
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 46,
+						"w": 553,
+						"h": 292
+					},
+					"frame": {
+						"x": 1471,
+						"y": 268,
+						"w": 553,
+						"h": 292
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 70,
+						"w": 501,
+						"h": 254
+					},
+					"frame": {
+						"x": 1512,
+						"y": 1,
+						"w": 501,
+						"h": 254
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 578,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 1014,
+						"w": 578,
+						"h": 280
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 58,
+						"w": 528,
+						"h": 273
+					},
+					"frame": {
+						"x": 1,
+						"y": 1296,
+						"w": 528,
+						"h": 273
+					}
+				},
+				{
+					"filename": "forest/trees2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 263
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 263
+					},
+					"frame": {
+						"x": 531,
+						"y": 1296,
+						"w": 180,
+						"h": 263
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 109,
+						"w": 351,
+						"h": 234
+					},
+					"frame": {
+						"x": 581,
+						"y": 977,
+						"w": 351,
+						"h": 234
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 168,
+						"y": 81,
+						"w": 199,
+						"h": 262
+					},
+					"frame": {
+						"x": 713,
+						"y": 1213,
+						"w": 199,
+						"h": 262
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 168,
+						"y": 81,
+						"w": 199,
+						"h": 262
+					},
+					"frame": {
+						"x": 713,
+						"y": 1213,
+						"w": 199,
+						"h": 262
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 82,
+						"w": 475,
+						"h": 236
+					},
+					"frame": {
+						"x": 914,
+						"y": 1307,
+						"w": 475,
+						"h": 236
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 155,
+						"y": 82,
+						"w": 197,
+						"h": 260
+					},
+					"frame": {
+						"x": 713,
+						"y": 1477,
+						"w": 197,
+						"h": 260
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 94,
+						"w": 448,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 1571,
+						"w": 448,
+						"h": 250
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 158,
+						"y": 83,
+						"w": 193,
+						"h": 258
+					},
+					"frame": {
+						"x": 451,
+						"y": 1571,
+						"w": 193,
+						"h": 258
+					}
+				},
+				{
+					"filename": "forest/rocks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 244,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 244,
+						"h": 141
+					},
+					"frame": {
+						"x": 1,
+						"y": 1823,
+						"w": 244,
+						"h": 141
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 92,
+						"w": 196,
+						"h": 206
+					},
+					"frame": {
+						"x": 247,
+						"y": 1823,
+						"w": 196,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 85,
+						"w": 196,
+						"h": 255
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1307,
+						"w": 196,
+						"h": 255
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 106,
+						"w": 422,
+						"h": 238
+					},
+					"frame": {
+						"x": 1463,
+						"y": 856,
+						"w": 422,
+						"h": 238
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 100,
+						"w": 305,
+						"h": 242
+					},
+					"frame": {
+						"x": 912,
+						"y": 1545,
+						"w": 305,
+						"h": 242
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 137,
+						"y": 87,
+						"w": 215,
+						"h": 253
+					},
+					"frame": {
+						"x": 646,
+						"y": 1739,
+						"w": 215,
+						"h": 253
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 92,
+						"w": 196,
+						"h": 206
+					},
+					"frame": {
+						"x": 445,
+						"y": 1831,
+						"w": 196,
+						"h": 206
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 98,
+						"w": 204,
+						"h": 200
+					},
+					"frame": {
+						"x": 1463,
+						"y": 1096,
+						"w": 204,
+						"h": 200
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 111,
+						"w": 395,
+						"h": 233
+					},
+					"frame": {
+						"x": 1219,
+						"y": 1564,
+						"w": 395,
+						"h": 233
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 105,
+						"w": 227,
+						"h": 239
+					},
+					"frame": {
+						"x": 863,
+						"y": 1789,
+						"w": 227,
+						"h": 239
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 108,
+						"w": 220,
+						"h": 235
+					},
+					"frame": {
+						"x": 1589,
+						"y": 1298,
+						"w": 220,
+						"h": 235
+					}
+				},
+				{
+					"filename": "forest/grab1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 175
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 175
+					},
+					"frame": {
+						"x": 1669,
+						"y": 1096,
+						"w": 178,
+						"h": 175
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 90,
+						"w": 200,
+						"h": 250
+					},
+					"frame": {
+						"x": 1616,
+						"y": 1535,
+						"w": 200,
+						"h": 250
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 102,
+						"w": 219,
+						"h": 242
+					},
+					"frame": {
+						"x": 1811,
+						"y": 1273,
+						"w": 219,
+						"h": 242
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 103,
+						"w": 213,
+						"h": 239
+					},
+					"frame": {
+						"x": 1616,
+						"y": 1787,
+						"w": 213,
+						"h": 239
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 96,
+						"w": 207,
+						"h": 245
+					},
+					"frame": {
+						"x": 1818,
+						"y": 1517,
+						"w": 207,
+						"h": 245
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 93,
+						"w": 194,
+						"h": 205
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1764,
+						"w": 194,
+						"h": 205
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 94,
+						"w": 201,
+						"h": 204
+					},
+					"frame": {
+						"x": 1092,
+						"y": 1799,
+						"w": 201,
+						"h": 204
+					}
+				},
+				{
+					"filename": "forest/rock/pumpkin0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 679,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 97,
+						"w": 191,
+						"h": 201
+					},
+					"frame": {
+						"x": 1295,
+						"y": 1799,
+						"w": 191,
+						"h": 201
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e5f012dfa7e88efd6a8913dc94394647:ea1413a19961a617609e9ce9cdba1bf8:44a981eb1b661bcf6f175ac70b3dc85d$"
+	}
+}

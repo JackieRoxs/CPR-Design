@@ -1,0 +1,83 @@
+{
+    "anims": [
+        {
+            "key": "dance/exit/exit",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/exit/exit0011",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,104 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"thinice": {
+		"type": "fromPhysicsEditor",
+		"label": "thinice",
+		"isStatic": false,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1040, "y":442 }, { "x":1153, "y":477 }, { "x":1212, "y":339 }, { "x":1113, "y":315 } ]
+				]
+			}
+		]
+	},
+	"astro": {
+		"type": "fromPhysicsEditor",
+		"label": "astro",
+		"isStatic": false,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1143, "y":525 }, { "x":1262, "y":568 }, { "x":1318, "y":416 }, { "x":1210, "y":392 } ]
+				]
+			}
+		]
+	},
+	"dance": {
+		"type": "fromPhysicsEditor",
+		"label": "dance",
+		"isStatic": false,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1555, "y":923 }, { "x":1556, "y":684 }, { "x":1467, "y":609 }, { "x":1302, "y":614 } ]
+				]
+			}
+		]
+	},
+	"walls": {
+		"type": "fromPhysicsEditor",
+		"label": "walls",
+		"isStatic": false,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":186, "y":629 }, { "x":193, "y":522 }, { "x":-12, "y":-11 }, { "x":-6, "y":700 }, { "x":92, "y":697 } ],
+					[ { "x":1523, "y":819 }, { "x":1539, "y":-17 }, { "x":1280, "y":497 }, { "x":1290, "y":595 } ],
+					[ { "x":193, "y":522 }, { "x":524, "y":386 }, { "x":-12, "y":-11 } ],
+					[ { "x":-12, "y":-11 }, { "x":524, "y":386 }, { "x":631, "y":378 }, { "x":1539, "y":-17 } ],
+					[ { "x":1280, "y":497 }, { "x":1539, "y":-17 }, { "x":1107, "y":360 } ],
+					[ { "x":1107, "y":360 }, { "x":1539, "y":-17 }, { "x":631, "y":378 }, { "x":920, "y":376 } ]
+				]
+			}
+		]
+	}
+}

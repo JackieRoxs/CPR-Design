@@ -1,0 +1,26 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/rooms/forts/fort.json?v=1.7.49-beta",
+                "path": "assets/content/global/rooms/forts/",
+                "key": "fort"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/forts/forts_doorbell.mp3"
+                ],
+                "type": "audio",
+                "key": "forts_doorbell"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

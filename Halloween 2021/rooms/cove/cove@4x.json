@@ -1,0 +1,1438 @@
+{
+	"textures": [
+		{
+			"image": "cove@4x-0.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2036
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cove/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1629,
+						"h": 1057
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1629,
+						"h": 1057
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1629,
+						"h": 1057
+					}
+				},
+				{
+					"filename": "cove/bottomtreeleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1572,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1572,
+						"h": 541
+					},
+					"frame": {
+						"x": 1,
+						"y": 1060,
+						"w": 1572,
+						"h": 541
+					}
+				},
+				{
+					"filename": "cove/treeleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 458,
+						"h": 573
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 458,
+						"h": 573
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1060,
+						"w": 458,
+						"h": 573
+					}
+				},
+				{
+					"filename": "cove/water/water1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1046,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1046,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1603,
+						"w": 1046,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/book0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 329,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 329,
+						"h": 295
+					},
+					"frame": {
+						"x": 1049,
+						"y": 1603,
+						"w": 329,
+						"h": 295
+					}
+				},
+				{
+					"filename": "cove/board2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 239
+					},
+					"frame": {
+						"x": 1380,
+						"y": 1603,
+						"w": 150,
+						"h": 239
+					}
+				},
+				{
+					"filename": "cove/rope20001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 112
+					},
+					"frame": {
+						"x": 1380,
+						"y": 1844,
+						"w": 495,
+						"h": 112
+					}
+				},
+				{
+					"filename": "cove/tent",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 357,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 357,
+						"h": 181
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1635,
+						"w": 357,
+						"h": 181
+					}
+				},
+				{
+					"filename": "cove/lil_chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 28
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1603,
+						"w": 36,
+						"h": 28
+					}
+				},
+				{
+					"filename": "cove/water/water15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 452,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 452,
+						"h": 11
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1818,
+						"w": 452,
+						"h": 11
+					}
+				},
+				{
+					"filename": "cove/web",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 199
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1831,
+						"w": 98,
+						"h": 199
+					}
+				},
+				{
+					"filename": "cove/buy2/buy2_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 109
+					},
+					"frame": {
+						"x": 1891,
+						"y": 1635,
+						"w": 126,
+						"h": 109
+					}
+				},
+				{
+					"filename": "cove/rockwater",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 48
+					},
+					"frame": {
+						"x": 1891,
+						"y": 1746,
+						"w": 78,
+						"h": 48
+					}
+				},
+				{
+					"filename": "cove/binoculars_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 61
+					},
+					"frame": {
+						"x": 1971,
+						"y": 1746,
+						"w": 67,
+						"h": 61
+					}
+				},
+				{
+					"filename": "cove/fireext",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 99
+					},
+					"frame": {
+						"x": 1977,
+						"y": 1831,
+						"w": 66,
+						"h": 99
+					}
+				},
+				{
+					"filename": "cove/book2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 75
+					},
+					"frame": {
+						"x": 1977,
+						"y": 1932,
+						"w": 67,
+						"h": 75
+					}
+				},
+				{
+					"filename": "cove/water/water2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1046,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1046,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1900,
+						"w": 1046,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/log",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 273,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 273,
+						"h": 129
+					},
+					"frame": {
+						"x": 1049,
+						"y": 1900,
+						"w": 273,
+						"h": 129
+					}
+				},
+				{
+					"filename": "cove/water/water8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1033,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1033,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1924,
+						"w": 1033,
+						"h": 32
+					}
+				},
+				{
+					"filename": "cove/water/water3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1046,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1046,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1958,
+						"w": 1046,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/water/water6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1046,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1046,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1982,
+						"w": 1046,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/water/water7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1044,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1044,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 2006,
+						"w": 1044,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/buy1/buy1_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1324,
+						"y": 1900,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "cove/buy1/buy1_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1324,
+						"y": 1900,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "cove/buy1/buy1_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1324,
+						"y": 1955,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "cove/buy1/buy1_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1324,
+						"y": 1955,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "cove/fire/branches",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 316,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 316,
+						"h": 77
+					},
+					"frame": {
+						"x": 1376,
+						"y": 1958,
+						"w": 316,
+						"h": 77
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 51,
+						"w": 173,
+						"h": 76
+					},
+					"frame": {
+						"x": 1694,
+						"y": 1958,
+						"w": 173,
+						"h": 76
+					}
+				},
+				{
+					"filename": "cove/water/water5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1021,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1021,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1627,
+						"w": 1021,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/water/water9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1009,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1009,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1651,
+						"w": 1009,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/water/water4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1004,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1004,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1675,
+						"w": 1004,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/water/water10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 997,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 997,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1699,
+						"w": 997,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/water/water11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 889,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 889,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1723,
+						"w": 889,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/pumpkin2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 104
+					},
+					"frame": {
+						"x": 892,
+						"y": 1723,
+						"w": 82,
+						"h": 104
+					}
+				},
+				{
+					"filename": "cove/binoculars_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 66,
+						"h": 57
+					},
+					"frame": {
+						"x": 976,
+						"y": 1723,
+						"w": 66,
+						"h": 57
+					}
+				},
+				{
+					"filename": "cove/buy1/buy1_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 54
+					},
+					"frame": {
+						"x": 976,
+						"y": 1782,
+						"w": 56,
+						"h": 54
+					}
+				},
+				{
+					"filename": "cove/water/water12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 783,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 783,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1747,
+						"w": 783,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/pumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 95
+					},
+					"frame": {
+						"x": 786,
+						"y": 1747,
+						"w": 85,
+						"h": 95
+					}
+				},
+				{
+					"filename": "cove/buy1/buy1_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 873,
+						"y": 1829,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "cove/buy1/buy1_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 873,
+						"y": 1829,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "cove/water/water13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 720,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 720,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1771,
+						"w": 720,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/water/water14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 659,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 659,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 1795,
+						"w": 659,
+						"h": 22
+					}
+				},
+				{
+					"filename": "cove/buy2/buy2_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 662,
+						"y": 1795,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 55,
+						"w": 173,
+						"h": 72
+					},
+					"frame": {
+						"x": 1,
+						"y": 1819,
+						"w": 173,
+						"h": 72
+					}
+				},
+				{
+					"filename": "cove/umbrella",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 321
+					},
+					"frame": {
+						"x": 1632,
+						"y": 1,
+						"w": 320,
+						"h": 321
+					}
+				},
+				{
+					"filename": "cove/board1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 223,
+						"h": 278
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 223,
+						"h": 278
+					},
+					"frame": {
+						"x": 1632,
+						"y": 324,
+						"w": 223,
+						"h": 278
+					}
+				},
+				{
+					"filename": "cove/tent2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 226
+					},
+					"frame": {
+						"x": 1632,
+						"y": 604,
+						"w": 191,
+						"h": 226
+					}
+				},
+				{
+					"filename": "cove/rope0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 441,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 415,
+						"h": 222
+					},
+					"frame": {
+						"x": 1632,
+						"y": 832,
+						"w": 415,
+						"h": 222
+					}
+				},
+				{
+					"filename": "cove/rock0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 219
+					},
+					"frame": {
+						"x": 1825,
+						"y": 604,
+						"w": 195,
+						"h": 219
+					}
+				},
+				{
+					"filename": "cove/rockright",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 172,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 172,
+						"h": 159
+					},
+					"frame": {
+						"x": 1857,
+						"y": 324,
+						"w": 172,
+						"h": 159
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 173,
+						"h": 115
+					},
+					"frame": {
+						"x": 1857,
+						"y": 485,
+						"w": 173,
+						"h": 115
+					}
+				}
+			]
+		},
+		{
+			"image": "cove@4x-1.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1001,
+				"h": 949
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cove/trees2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 539,
+						"h": 539
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 539,
+						"h": 539
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 539,
+						"h": 539
+					}
+				},
+				{
+					"filename": "cove/trees1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 458,
+						"h": 573
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 458,
+						"h": 573
+					},
+					"frame": {
+						"x": 542,
+						"y": 1,
+						"w": 458,
+						"h": 573
+					}
+				},
+				{
+					"filename": "cove/lights_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 309,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 0,
+						"w": 264,
+						"h": 202
+					},
+					"frame": {
+						"x": 1,
+						"y": 542,
+						"w": 264,
+						"h": 202
+					}
+				},
+				{
+					"filename": "cove/lights_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 309,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 0,
+						"w": 264,
+						"h": 202
+					},
+					"frame": {
+						"x": 1,
+						"y": 746,
+						"w": 264,
+						"h": 202
+					}
+				},
+				{
+					"filename": "cove/floats1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 169
+					},
+					"frame": {
+						"x": 267,
+						"y": 542,
+						"w": 232,
+						"h": 169
+					}
+				},
+				{
+					"filename": "cove/rope30001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 222,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 222,
+						"h": 114
+					},
+					"frame": {
+						"x": 267,
+						"y": 713,
+						"w": 222,
+						"h": 114
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 173,
+						"h": 119
+					},
+					"frame": {
+						"x": 267,
+						"y": 829,
+						"w": 173,
+						"h": 119
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 173,
+						"h": 127
+					},
+					"frame": {
+						"x": 501,
+						"y": 576,
+						"w": 173,
+						"h": 127
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 173,
+						"h": 126
+					},
+					"frame": {
+						"x": 676,
+						"y": 576,
+						"w": 173,
+						"h": 126
+					}
+				},
+				{
+					"filename": "cove/book3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 95
+					},
+					"frame": {
+						"x": 851,
+						"y": 576,
+						"w": 132,
+						"h": 95
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 173,
+						"h": 124
+					},
+					"frame": {
+						"x": 501,
+						"y": 705,
+						"w": 173,
+						"h": 124
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 173,
+						"h": 111
+					},
+					"frame": {
+						"x": 676,
+						"y": 704,
+						"w": 173,
+						"h": 111
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 173,
+						"h": 110
+					},
+					"frame": {
+						"x": 442,
+						"y": 831,
+						"w": 173,
+						"h": 110
+					}
+				},
+				{
+					"filename": "cove/rockleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 80
+					},
+					"frame": {
+						"x": 851,
+						"y": 673,
+						"w": 125,
+						"h": 80
+					}
+				},
+				{
+					"filename": "cove/fire/fire_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 22,
+						"w": 173,
+						"h": 105
+					},
+					"frame": {
+						"x": 676,
+						"y": 817,
+						"w": 173,
+						"h": 105
+					}
+				},
+				{
+					"filename": "cove/book1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 86
+					},
+					"frame": {
+						"x": 851,
+						"y": 755,
+						"w": 94,
+						"h": 86
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:accaf98c085be17aa7e68114082ad995:33c44730941abc8931e891f89d56e442:c547b35ac3f23b52b55879cf86f44ebc$"
+	}
+}

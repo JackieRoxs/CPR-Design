@@ -1,0 +1,1486 @@
+{
+    "anims": [
+        {
+            "key": "fort/lightning/zap",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0163",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0164",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0165",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0166",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0167",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0168",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0169",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0170",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0171",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0172",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0173",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0174",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0175",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0176",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0177",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0256",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0257",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0258",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0259",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0260",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0261",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0262",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0263",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0264",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0265",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0266",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0267",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0268",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0269",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0270",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0276",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0277",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0278",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0279",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0280",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0281",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0282",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0283",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0284",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0285",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0286",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0287",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0288",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0289",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/lightning/zap0290",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "delay": 300,
+            "repeat": -1,
+            "yoyo": true
+        },
+        {
+            "key": "fort/blueghost/fred",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueghost/fred0062",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "fort/purpleghost/sebastian",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/purpleghost/sebastian0058",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "fort/house1/door1/door",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/house1/door1/door0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "delay": 400
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

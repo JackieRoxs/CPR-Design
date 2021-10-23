@@ -1,0 +1,78 @@
+{
+    "anims": [
+        {
+            "key": "party5/klutzy",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party5@4x",
+                    "frame": "party5/klutzy/klutzy0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 12,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

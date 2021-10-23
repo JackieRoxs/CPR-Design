@@ -1,0 +1,222 @@
+{
+    "anims": [
+        {
+            "key": "forest/rock/pumpkin",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest@4x",
+                    "frame": "forest/rock/pumpkin0034",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

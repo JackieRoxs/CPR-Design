@@ -1,0 +1,537 @@
+{
+    "anims": [
+        {
+            "key": "beach/glow/lanternglow",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/glow/lanternglow0045",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "beach/lantern/light",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/lantern/light0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,2110 @@
+{
+	"textures": [
+		{
+			"image": "shop-0.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2005,
+				"h": 2024
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shop/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1562,
+						"h": 980
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1552,
+						"h": 980
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1552,
+						"h": 980
+					}
+				},
+				{
+					"filename": "shop/things",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1562,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1562,
+						"h": 247
+					},
+					"frame": {
+						"x": 1,
+						"y": 983,
+						"w": 1562,
+						"h": 247
+					}
+				},
+				{
+					"filename": "shop/counter",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 356,
+						"h": 352
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 356,
+						"h": 352
+					},
+					"frame": {
+						"x": 1,
+						"y": 1232,
+						"w": 356,
+						"h": 352
+					}
+				},
+				{
+					"filename": "shop/door/towndoor0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 295
+					},
+					"frame": {
+						"x": 1555,
+						"y": 1,
+						"w": 127,
+						"h": 295
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 175,
+						"h": 238
+					},
+					"frame": {
+						"x": 1,
+						"y": 1586,
+						"w": 175,
+						"h": 238
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 173,
+						"h": 197
+					},
+					"frame": {
+						"x": 1,
+						"y": 1826,
+						"w": 173,
+						"h": 197
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 177,
+						"h": 235
+					},
+					"frame": {
+						"x": 359,
+						"y": 1232,
+						"w": 177,
+						"h": 235
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 172,
+						"h": 231
+					},
+					"frame": {
+						"x": 1684,
+						"y": 1,
+						"w": 172,
+						"h": 231
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 173,
+						"h": 230
+					},
+					"frame": {
+						"x": 178,
+						"y": 1586,
+						"w": 173,
+						"h": 230
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 177,
+						"h": 217
+					},
+					"frame": {
+						"x": 538,
+						"y": 1232,
+						"w": 177,
+						"h": 217
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 168,
+						"h": 224
+					},
+					"frame": {
+						"x": 717,
+						"y": 1232,
+						"w": 168,
+						"h": 224
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 177,
+						"h": 208
+					},
+					"frame": {
+						"x": 887,
+						"y": 1232,
+						"w": 177,
+						"h": 208
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 177,
+						"h": 207
+					},
+					"frame": {
+						"x": 1066,
+						"y": 1232,
+						"w": 177,
+						"h": 207
+					}
+				},
+				{
+					"filename": "shop/door/towndoor0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 127,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 255
+					},
+					"frame": {
+						"x": 1555,
+						"y": 298,
+						"w": 127,
+						"h": 255
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 36,
+						"w": 176,
+						"h": 205
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1232,
+						"w": 176,
+						"h": 205
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 36,
+						"w": 176,
+						"h": 205
+					},
+					"frame": {
+						"x": 1684,
+						"y": 234,
+						"w": 176,
+						"h": 205
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 40,
+						"w": 177,
+						"h": 201
+					},
+					"frame": {
+						"x": 1423,
+						"y": 1232,
+						"w": 177,
+						"h": 201
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 40,
+						"w": 177,
+						"h": 201
+					},
+					"frame": {
+						"x": 1423,
+						"y": 1232,
+						"w": 177,
+						"h": 201
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 177,
+						"h": 200
+					},
+					"frame": {
+						"x": 1555,
+						"y": 555,
+						"w": 177,
+						"h": 200
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 43,
+						"w": 177,
+						"h": 198
+					},
+					"frame": {
+						"x": 1555,
+						"y": 757,
+						"w": 177,
+						"h": 198
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 168,
+						"h": 198
+					},
+					"frame": {
+						"x": 1565,
+						"y": 957,
+						"w": 168,
+						"h": 198
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 0,
+						"w": 109,
+						"h": 190
+					},
+					"frame": {
+						"x": 1858,
+						"y": 1,
+						"w": 109,
+						"h": 190
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 57,
+						"w": 185,
+						"h": 184
+					},
+					"frame": {
+						"x": 359,
+						"y": 1469,
+						"w": 185,
+						"h": 184
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 78,
+						"w": 185,
+						"h": 163
+					},
+					"frame": {
+						"x": 353,
+						"y": 1655,
+						"w": 185,
+						"h": 163
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 0,
+						"w": 109,
+						"h": 190
+					},
+					"frame": {
+						"x": 546,
+						"y": 1451,
+						"w": 109,
+						"h": 190
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 45,
+						"w": 180,
+						"h": 196
+					},
+					"frame": {
+						"x": 657,
+						"y": 1458,
+						"w": 180,
+						"h": 196
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 0,
+						"w": 109,
+						"h": 190
+					},
+					"frame": {
+						"x": 1862,
+						"y": 193,
+						"w": 109,
+						"h": 190
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 45,
+						"w": 177,
+						"h": 196
+					},
+					"frame": {
+						"x": 1602,
+						"y": 1157,
+						"w": 177,
+						"h": 196
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 82,
+						"w": 185,
+						"h": 159
+					},
+					"frame": {
+						"x": 1602,
+						"y": 1355,
+						"w": 185,
+						"h": 159
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 82,
+						"w": 185,
+						"h": 159
+					},
+					"frame": {
+						"x": 1602,
+						"y": 1355,
+						"w": 185,
+						"h": 159
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 177,
+						"h": 195
+					},
+					"frame": {
+						"x": 1423,
+						"y": 1435,
+						"w": 177,
+						"h": 195
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 59,
+						"w": 176,
+						"h": 182
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1439,
+						"w": 176,
+						"h": 182
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 48,
+						"w": 177,
+						"h": 193
+					},
+					"frame": {
+						"x": 1066,
+						"y": 1441,
+						"w": 177,
+						"h": 193
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 63,
+						"w": 177,
+						"h": 178
+					},
+					"frame": {
+						"x": 887,
+						"y": 1442,
+						"w": 177,
+						"h": 178
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 63,
+						"w": 177,
+						"h": 178
+					},
+					"frame": {
+						"x": 887,
+						"y": 1442,
+						"w": 177,
+						"h": 178
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 69,
+						"w": 181,
+						"h": 172
+					},
+					"frame": {
+						"x": 1602,
+						"y": 1516,
+						"w": 181,
+						"h": 172
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 69,
+						"w": 181,
+						"h": 172
+					},
+					"frame": {
+						"x": 540,
+						"y": 1656,
+						"w": 181,
+						"h": 172
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 69,
+						"w": 180,
+						"h": 172
+					},
+					"frame": {
+						"x": 723,
+						"y": 1656,
+						"w": 180,
+						"h": 172
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 1,
+						"w": 109,
+						"h": 189
+					},
+					"frame": {
+						"x": 905,
+						"y": 1622,
+						"w": 109,
+						"h": 189
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 60,
+						"w": 176,
+						"h": 181
+					},
+					"frame": {
+						"x": 1016,
+						"y": 1636,
+						"w": 176,
+						"h": 181
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 1,
+						"w": 109,
+						"h": 189
+					},
+					"frame": {
+						"x": 1194,
+						"y": 1636,
+						"w": 109,
+						"h": 189
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 1,
+						"w": 109,
+						"h": 189
+					},
+					"frame": {
+						"x": 1305,
+						"y": 1623,
+						"w": 109,
+						"h": 189
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 48,
+						"w": 175,
+						"h": 190
+					},
+					"frame": {
+						"x": 1416,
+						"y": 1632,
+						"w": 175,
+						"h": 190
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 49,
+						"w": 175,
+						"h": 192
+					},
+					"frame": {
+						"x": 1593,
+						"y": 1690,
+						"w": 175,
+						"h": 192
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 1,
+						"w": 109,
+						"h": 189
+					},
+					"frame": {
+						"x": 1770,
+						"y": 1690,
+						"w": 109,
+						"h": 189
+					}
+				},
+				{
+					"filename": "shop/pumpkin1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 120
+					},
+					"frame": {
+						"x": 1881,
+						"y": 385,
+						"w": 123,
+						"h": 120
+					}
+				},
+				{
+					"filename": "shop/boots",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 89
+					},
+					"frame": {
+						"x": 1684,
+						"y": 441,
+						"w": 103,
+						"h": 89
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 1,
+						"w": 109,
+						"h": 189
+					},
+					"frame": {
+						"x": 1734,
+						"y": 532,
+						"w": 109,
+						"h": 189
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 1,
+						"w": 109,
+						"h": 189
+					},
+					"frame": {
+						"x": 1734,
+						"y": 723,
+						"w": 109,
+						"h": 189
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 2,
+						"w": 109,
+						"h": 188
+					},
+					"frame": {
+						"x": 1735,
+						"y": 914,
+						"w": 109,
+						"h": 188
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 3,
+						"w": 109,
+						"h": 187
+					},
+					"frame": {
+						"x": 1845,
+						"y": 507,
+						"w": 109,
+						"h": 187
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 3,
+						"w": 109,
+						"h": 187
+					},
+					"frame": {
+						"x": 1845,
+						"y": 696,
+						"w": 109,
+						"h": 187
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 3,
+						"w": 109,
+						"h": 187
+					},
+					"frame": {
+						"x": 1846,
+						"y": 885,
+						"w": 109,
+						"h": 187
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 3,
+						"w": 109,
+						"h": 187
+					},
+					"frame": {
+						"x": 1781,
+						"y": 1104,
+						"w": 109,
+						"h": 187
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 16,
+						"w": 112,
+						"h": 174
+					},
+					"frame": {
+						"x": 1892,
+						"y": 1074,
+						"w": 112,
+						"h": 174
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 52,
+						"w": 112,
+						"h": 138
+					},
+					"frame": {
+						"x": 1892,
+						"y": 1250,
+						"w": 112,
+						"h": 138
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 57,
+						"w": 175,
+						"h": 184
+					},
+					"frame": {
+						"x": 1789,
+						"y": 1390,
+						"w": 175,
+						"h": 184
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 3,
+						"w": 109,
+						"h": 187
+					},
+					"frame": {
+						"x": 176,
+						"y": 1826,
+						"w": 109,
+						"h": 187
+					}
+				},
+				{
+					"filename": "shop/cash/Sprite 800008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 185,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 55,
+						"w": 172,
+						"h": 186
+					},
+					"frame": {
+						"x": 287,
+						"y": 1820,
+						"w": 172,
+						"h": 186
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 15,
+						"w": 110,
+						"h": 175
+					},
+					"frame": {
+						"x": 461,
+						"y": 1830,
+						"w": 110,
+						"h": 175
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 8,
+						"w": 109,
+						"h": 182
+					},
+					"frame": {
+						"x": 573,
+						"y": 1830,
+						"w": 109,
+						"h": 182
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 3,
+						"w": 109,
+						"h": 187
+					},
+					"frame": {
+						"x": 684,
+						"y": 1830,
+						"w": 109,
+						"h": 187
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 3,
+						"w": 109,
+						"h": 187
+					},
+					"frame": {
+						"x": 795,
+						"y": 1830,
+						"w": 109,
+						"h": 187
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 4,
+						"w": 109,
+						"h": 186
+					},
+					"frame": {
+						"x": 906,
+						"y": 1827,
+						"w": 109,
+						"h": 186
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 4,
+						"w": 109,
+						"h": 186
+					},
+					"frame": {
+						"x": 1017,
+						"y": 1819,
+						"w": 109,
+						"h": 186
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 5,
+						"w": 109,
+						"h": 185
+					},
+					"frame": {
+						"x": 1128,
+						"y": 1827,
+						"w": 109,
+						"h": 185
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 5,
+						"w": 109,
+						"h": 185
+					},
+					"frame": {
+						"x": 1239,
+						"y": 1827,
+						"w": 109,
+						"h": 185
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 10,
+						"w": 109,
+						"h": 180
+					},
+					"frame": {
+						"x": 1350,
+						"y": 1824,
+						"w": 109,
+						"h": 180
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 11,
+						"w": 109,
+						"h": 179
+					},
+					"frame": {
+						"x": 1461,
+						"y": 1824,
+						"w": 109,
+						"h": 179
+					}
+				},
+				{
+					"filename": "shop/catalog/catalog_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 1572,
+						"y": 1884,
+						"w": 153,
+						"h": 115
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 60,
+						"w": 116,
+						"h": 130
+					},
+					"frame": {
+						"x": 1727,
+						"y": 1884,
+						"w": 116,
+						"h": 130
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 57,
+						"w": 113,
+						"h": 133
+					},
+					"frame": {
+						"x": 1845,
+						"y": 1881,
+						"w": 113,
+						"h": 133
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 46,
+						"w": 110,
+						"h": 144
+					},
+					"frame": {
+						"x": 1881,
+						"y": 1576,
+						"w": 110,
+						"h": 144
+					}
+				},
+				{
+					"filename": "shop/catalog/catalog_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 0,
+						"w": 113,
+						"h": 113
+					},
+					"frame": {
+						"x": 1881,
+						"y": 1722,
+						"w": 113,
+						"h": 113
+					}
+				}
+			]
+		},
+		{
+			"image": "shop-1.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 222,
+				"h": 1689
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shop/phone/Sprite 740023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 5,
+						"w": 109,
+						"h": 185
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 109,
+						"h": 185
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 6,
+						"w": 109,
+						"h": 184
+					},
+					"frame": {
+						"x": 112,
+						"y": 1,
+						"w": 109,
+						"h": 184
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 6,
+						"w": 109,
+						"h": 184
+					},
+					"frame": {
+						"x": 112,
+						"y": 187,
+						"w": 109,
+						"h": 184
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 6,
+						"w": 109,
+						"h": 184
+					},
+					"frame": {
+						"x": 1,
+						"y": 188,
+						"w": 109,
+						"h": 184
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 7,
+						"w": 109,
+						"h": 183
+					},
+					"frame": {
+						"x": 112,
+						"y": 373,
+						"w": 109,
+						"h": 183
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 8,
+						"w": 109,
+						"h": 182
+					},
+					"frame": {
+						"x": 1,
+						"y": 374,
+						"w": 109,
+						"h": 182
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 9,
+						"w": 109,
+						"h": 181
+					},
+					"frame": {
+						"x": 1,
+						"y": 558,
+						"w": 109,
+						"h": 181
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 11,
+						"w": 109,
+						"h": 179
+					},
+					"frame": {
+						"x": 112,
+						"y": 558,
+						"w": 109,
+						"h": 179
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 13,
+						"w": 109,
+						"h": 177
+					},
+					"frame": {
+						"x": 112,
+						"y": 739,
+						"w": 109,
+						"h": 177
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 13,
+						"w": 109,
+						"h": 177
+					},
+					"frame": {
+						"x": 1,
+						"y": 741,
+						"w": 109,
+						"h": 177
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 24,
+						"w": 109,
+						"h": 166
+					},
+					"frame": {
+						"x": 112,
+						"y": 918,
+						"w": 109,
+						"h": 166
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 44,
+						"w": 109,
+						"h": 146
+					},
+					"frame": {
+						"x": 1,
+						"y": 920,
+						"w": 109,
+						"h": 146
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 45,
+						"w": 109,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 109,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 45,
+						"w": 109,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 109,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 45,
+						"w": 109,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 109,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 45,
+						"w": 109,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 109,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 45,
+						"w": 109,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 109,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 45,
+						"w": 109,
+						"h": 145
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 109,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 45,
+						"w": 109,
+						"h": 145
+					},
+					"frame": {
+						"x": 112,
+						"y": 1086,
+						"w": 109,
+						"h": 145
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 47,
+						"w": 108,
+						"h": 143
+					},
+					"frame": {
+						"x": 1,
+						"y": 1215,
+						"w": 108,
+						"h": 143
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 48,
+						"w": 108,
+						"h": 142
+					},
+					"frame": {
+						"x": 111,
+						"y": 1233,
+						"w": 108,
+						"h": 142
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 17,
+						"w": 107,
+						"h": 173
+					},
+					"frame": {
+						"x": 1,
+						"y": 1360,
+						"w": 107,
+						"h": 173
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 37,
+						"w": 103,
+						"h": 153
+					},
+					"frame": {
+						"x": 1,
+						"y": 1535,
+						"w": 103,
+						"h": 153
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 42,
+						"w": 106,
+						"h": 148
+					},
+					"frame": {
+						"x": 110,
+						"y": 1377,
+						"w": 106,
+						"h": 148
+					}
+				},
+				{
+					"filename": "shop/phone/Sprite 740005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 34,
+						"w": 102,
+						"h": 156
+					},
+					"frame": {
+						"x": 110,
+						"y": 1527,
+						"w": 102,
+						"h": 156
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6f0640a73bb648c143760652ee8f723b:e36c95701c2a1c45ced30379a958634a:6af68591e3d17cd279de4ac4429fb772$"
+	}
+}

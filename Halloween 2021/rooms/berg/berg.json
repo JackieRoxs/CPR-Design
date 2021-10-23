@@ -1,0 +1,10994 @@
+{
+	"textures": [
+		{
+			"image": "berg-0.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1971,
+				"h": 2021
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "berg/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "berg/carving/carving0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1335,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1335,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1335,
+						"h": 453
+					}
+				},
+				{
+					"filename": "berg/carving/carving0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1335,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1335,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 1418,
+						"w": 1335,
+						"h": 453
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0198",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 279
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 318,
+						"h": 279
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0350",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 279
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 318,
+						"h": 279
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0199",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 279
+					},
+					"frame": {
+						"x": 1523,
+						"y": 282,
+						"w": 318,
+						"h": 279
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0349",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 316,
+						"h": 278
+					},
+					"frame": {
+						"x": 1523,
+						"y": 563,
+						"w": 316,
+						"h": 278
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0197",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 316,
+						"h": 277
+					},
+					"frame": {
+						"x": 1338,
+						"y": 963,
+						"w": 316,
+						"h": 277
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0351",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 316,
+						"h": 277
+					},
+					"frame": {
+						"x": 1338,
+						"y": 963,
+						"w": 316,
+						"h": 277
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0200",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 843,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0348",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 843,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0201",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0202",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0203",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0204",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0205",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0206",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0249",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0250",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0251",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0252",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0253",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0254",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0255",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0256",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0257",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0258",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0259",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0260",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0261",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0262",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0263",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0264",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0265",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0266",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0267",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0268",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0269",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0270",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0271",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0272",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0273",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0274",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0275",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0276",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0277",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0278",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0279",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0280",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0281",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0282",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0283",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0284",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0285",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0286",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0329",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0330",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0331",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0332",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0333",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0334",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0335",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0336",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0337",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0338",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0339",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0340",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0341",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0342",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0343",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0344",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0345",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0346",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0347",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1120,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0207",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1242,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0248",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1242,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0287",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1242,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0328",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1242,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0208",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1519,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0247",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1519,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0288",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1519,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0327",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1519,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0194",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1795,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0354",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1338,
+						"y": 1795,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0209",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0210",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0211",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0212",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0213",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0214",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0215",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0216",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0217",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0218",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0219",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0220",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0221",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0222",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0223",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0224",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0225",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0226",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0227",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0228",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0229",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0230",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0231",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0232",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0233",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0234",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0235",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0236",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0237",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0238",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0239",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0240",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0241",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0242",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0243",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0244",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0245",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0246",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0289",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0290",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0291",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0292",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0293",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0294",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0295",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0296",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0297",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0298",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0299",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0300",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0301",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0302",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0303",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0304",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0305",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0306",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0307",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0308",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0309",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0310",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0311",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0312",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0313",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0314",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0315",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0316",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0317",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0318",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0319",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0320",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0321",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0322",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0323",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0324",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0325",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0326",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1397,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0368",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1650,
+						"y": 1795,
+						"w": 310,
+						"h": 225
+					}
+				}
+			]
+		},
+		{
+			"image": "berg-1.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1958,
+				"h": 2041
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "berg/carving/carving0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1335,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1333,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1333,
+						"h": 453
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0196",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 267
+					},
+					"frame": {
+						"x": 1336,
+						"y": 1,
+						"w": 310,
+						"h": 267
+					}
+				},
+				{
+					"filename": "berg/carving/carving0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1335,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 210
+					},
+					"frame": {
+						"x": 1648,
+						"y": 1,
+						"w": 226,
+						"h": 210
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0352",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 266
+					},
+					"frame": {
+						"x": 1336,
+						"y": 270,
+						"w": 310,
+						"h": 266
+					}
+				},
+				{
+					"filename": "berg/carving/carving0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1335,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1332,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 456,
+						"w": 1332,
+						"h": 453
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0195",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 250
+					},
+					"frame": {
+						"x": 1335,
+						"y": 538,
+						"w": 310,
+						"h": 250
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0353",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 250
+					},
+					"frame": {
+						"x": 1335,
+						"y": 538,
+						"w": 310,
+						"h": 250
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0369",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1647,
+						"y": 538,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0370",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1647,
+						"y": 765,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0371",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1335,
+						"y": 790,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/carving/carving0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1335,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1332,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 911,
+						"w": 1332,
+						"h": 449
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0372",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1647,
+						"y": 992,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0373",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1017,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0374",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1647,
+						"y": 1219,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0375",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1244,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/carving_light",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1335,
+						"h": 453
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1332,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 1362,
+						"w": 1332,
+						"h": 449
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0376",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1647,
+						"y": 1446,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0377",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1471,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0378",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1647,
+						"y": 1673,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0379",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1698,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1155,
+						"h": 227
+					},
+					"frame": {
+						"x": 1,
+						"y": 1813,
+						"w": 1155,
+						"h": 227
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1155,
+						"h": 227
+					},
+					"frame": {
+						"x": 1,
+						"y": 1813,
+						"w": 1155,
+						"h": 227
+					}
+				}
+			]
+		},
+		{
+			"image": "berg-2.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1872,
+				"h": 2038
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "berg/waterlight/light0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 1153,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1153,
+						"h": 229
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 1153,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1153,
+						"h": 229
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 1153,
+						"h": 221
+					},
+					"frame": {
+						"x": 1,
+						"y": 232,
+						"w": 1153,
+						"h": 221
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 1153,
+						"h": 221
+					},
+					"frame": {
+						"x": 1,
+						"y": 232,
+						"w": 1153,
+						"h": 221
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 1149,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 455,
+						"w": 1149,
+						"h": 222
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 1149,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 455,
+						"w": 1149,
+						"h": 222
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 1143,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 679,
+						"w": 1143,
+						"h": 226
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 1143,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 679,
+						"w": 1143,
+						"h": 226
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 1146,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 907,
+						"w": 1146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "berg/waterlight/light0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 1146,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 907,
+						"w": 1146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0380",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0381",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1131,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0382",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1156,
+						"y": 228,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0383",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0384",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0385",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 313,
+						"y": 1131,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0386",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1468,
+						"y": 228,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0387",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1585,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0388",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 313,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0389",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 625,
+						"y": 1131,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0390",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1812,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0391",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 313,
+						"y": 1585,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0392",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 625,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0393",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 313,
+						"y": 1812,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0394",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 625,
+						"y": 1585,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0395",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 625,
+						"y": 1812,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0396",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1152,
+						"y": 455,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0397",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1464,
+						"y": 455,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0398",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1131,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0399",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0400",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0401",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0402",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0403",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0404",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0405",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0448",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0449",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0450",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0451",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0452",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0453",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0454",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0455",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0456",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0457",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0458",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0459",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0460",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0461",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0462",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0463",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0464",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0465",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0466",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0467",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0468",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0469",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0470",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0471",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0472",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0473",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0474",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0475",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0476",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0477",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0478",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0479",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0480",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0481",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0482",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0483",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0484",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0485",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1358,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0406",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1585,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0447",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1585,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0486",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1585,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0407",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0446",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0487",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0408",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0409",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0410",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0411",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0412",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0413",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0414",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0415",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0416",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0417",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0418",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0419",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0420",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0421",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0422",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0423",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0424",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0425",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0426",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0427",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0428",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0429",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0430",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0431",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0432",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0433",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0434",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0435",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0436",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0437",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0438",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0439",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0440",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0441",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0442",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0443",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0444",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0445",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 682,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1134,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1134,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1134,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 908,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1360,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1134,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1586,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1360,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1586,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0366",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1812,
+						"w": 310,
+						"h": 224
+					}
+				}
+			]
+		},
+		{
+			"image": "berg-3.png?v=1.7.49-beta",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1872,
+				"h": 1130
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "berg/aqua/aqua_0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0367",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0498",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0499",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0500",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0501",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0180",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0173",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0174",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0175",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0364",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0183",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0363",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0184",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0362",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0185",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0186",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0187",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0188",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0189",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0190",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0358",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0191",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0192",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0356",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0193",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0355",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0357",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0359",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0360",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0361",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0365",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0488",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0492",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0493",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0489",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0490",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0491",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0494",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0495",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0496",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "berg/aqua/aqua_0497",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5c3591d8b155ffa7b60a9be0a5a9058d:88f555f201d15f2b8a2782b7ec817f31:12843ccd808f24c4f273ad02acfcb427$"
+	}
+}
