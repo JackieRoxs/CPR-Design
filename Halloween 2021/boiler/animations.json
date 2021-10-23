@@ -1,0 +1,2194 @@
+{
+    "anims": [
+        {
+            "key": "boiler/overlay/shader",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/overlay/shader0080",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boiler/zap/bzzt",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/zap/bzzt0077",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boiler/lever/leverpress",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/lever/leverpress0090",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "boiler/wiggle/line",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/wiggle/line0100",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "boiler/flame/flame",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "boiler@4x",
+                    "frame": "boiler/flame/flame0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
