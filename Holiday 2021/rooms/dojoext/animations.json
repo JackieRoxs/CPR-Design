@@ -1,0 +1,120 @@
+{
+    "anims": [
+        {
+            "key": "dojoext/lights/star",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext@4x",
+                    "frame": "dojoext/lights/star0017",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "anims": [
+        {
+            "key": "dance/dancefloor/dance",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/dancefloor/dance0060",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "dance/ball/ball",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dance",
+                    "frame": "dance/ball/ball0026",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

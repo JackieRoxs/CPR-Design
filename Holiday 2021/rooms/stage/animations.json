@@ -1,0 +1,4699 @@
+{
+    "anims": [
+        {
+            "key": "stage_fan",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/foreground/build1/fan_0008",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "stage_caution1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/caution/caution2_0016",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "stage_switch1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/1/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_switch2",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/2/2_0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_switch3",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/3/3_0076",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_switch4",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/4/4_0076",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_switch5",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/5/5_0076",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_switch6",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/6/6_0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_switch7",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/7/7_0014",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_switch8",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/switch/8/8_0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_costume_open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0016",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_costumes_close",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/costumes/costumes_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage_puffle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/puffle/puffle_0105",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showOnStart": true,
+            "hideOnComplete": true
+        },
+        {
+            "key": "stage/play/forthlight/forthlightoff",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/forthlight/forthlightoff0026",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "yoyo": true
+        },
+        {
+            "key": "stage/play/handle/handle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/handle/handle0017",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage/play/light/lightanim",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/light/lightanim0021",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "yoyo": true
+        },
+        {
+            "key": "stage/play/secondhandle/secondhandle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondhandle/secondhandle0017",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage/play/secondlight/secondlightoff",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/secondlight/secondlightoff0021",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "yoyo": true
+        },
+        {
+            "key": "stage/play/sleigh/sleigh",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/sleigh/sleigh0088",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage/play/thirdlight/thirdlightoff",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/thirdlight/thirdlightoff0021",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "yoyo": true
+        },
+        {
+            "key": "stage/play/yellowpuffle/pufflelight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/pufflelight0050",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "stage/play/yellowpuffle/yellowpuffle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "stage@4x",
+                    "frame": "stage/play/yellowpuffle/yellowpuffle0031",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

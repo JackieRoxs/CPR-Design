@@ -1,0 +1,6982 @@
+{
+	"textures": [
+		{
+			"image": "lodge@4x-0.png?h=6e0a6a8769",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 2045
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lodge/presentsforeground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1626,
+						"h": 1014
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1626,
+						"h": 1014
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1626,
+						"h": 1014
+					}
+				},
+				{
+					"filename": "lodge/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1673,
+						"h": 1004
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1673,
+						"h": 1004
+					},
+					"frame": {
+						"x": 1,
+						"y": 1017,
+						"w": 1673,
+						"h": 1004
+					}
+				},
+				{
+					"filename": "lodge/xmastree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 396,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 623
+					},
+					"frame": {
+						"x": 1629,
+						"y": 1,
+						"w": 396,
+						"h": 623
+					}
+				},
+				{
+					"filename": "lodge/chair_green0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 295,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 273
+					},
+					"frame": {
+						"x": 1629,
+						"y": 626,
+						"w": 295,
+						"h": 273
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 87
+					},
+					"frame": {
+						"x": 1629,
+						"y": 901,
+						"w": 237,
+						"h": 87
+					}
+				},
+				{
+					"filename": "lodge/four/shadow1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 22
+					},
+					"frame": {
+						"x": 1629,
+						"y": 990,
+						"w": 80,
+						"h": 22
+					}
+				},
+				{
+					"filename": "lodge/door2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 259,
+						"h": 473
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 259,
+						"h": 473
+					},
+					"frame": {
+						"x": 1676,
+						"y": 1014,
+						"w": 259,
+						"h": 473
+					}
+				},
+				{
+					"filename": "lodge/table3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 95
+					},
+					"frame": {
+						"x": 1868,
+						"y": 901,
+						"w": 152,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 99,
+						"w": 109,
+						"h": 239
+					},
+					"frame": {
+						"x": 1926,
+						"y": 626,
+						"w": 109,
+						"h": 239
+					}
+				},
+				{
+					"filename": "lodge/four/shadow2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 11
+					},
+					"frame": {
+						"x": 1926,
+						"y": 867,
+						"w": 72,
+						"h": 11
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 31
+					},
+					"frame": {
+						"x": 2000,
+						"y": 867,
+						"w": 25,
+						"h": 31
+					}
+				},
+				{
+					"filename": "lodge/caution_shadow_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 16
+					},
+					"frame": {
+						"x": 1926,
+						"y": 880,
+						"w": 68,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lodge/door",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 264,
+						"h": 417
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 264,
+						"h": 417
+					},
+					"frame": {
+						"x": 1676,
+						"y": 1489,
+						"w": 264,
+						"h": 417
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 87
+					},
+					"frame": {
+						"x": 1676,
+						"y": 1908,
+						"w": 237,
+						"h": 87
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 126
+					},
+					"frame": {
+						"x": 1915,
+						"y": 1908,
+						"w": 115,
+						"h": 126
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 44
+					},
+					"frame": {
+						"x": 1676,
+						"y": 1997,
+						"w": 108,
+						"h": 44
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 47
+					},
+					"frame": {
+						"x": 1786,
+						"y": 1997,
+						"w": 74,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 47
+					},
+					"frame": {
+						"x": 1786,
+						"y": 1997,
+						"w": 74,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 47
+					},
+					"frame": {
+						"x": 1786,
+						"y": 1997,
+						"w": 74,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lodge/catalog2_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1997,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "lodge/catalog2_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1997,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "lodge/clock/hour_hand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 5
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 5
+					},
+					"frame": {
+						"x": 1914,
+						"y": 2036,
+						"w": 14,
+						"h": 5
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 1711,
+						"y": 990,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 15,
+						"h": 19
+					},
+					"frame": {
+						"x": 1711,
+						"y": 990,
+						"w": 15,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lodge/dot",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 12,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 1728,
+						"y": 990,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 12,
+						"h": 11
+					},
+					"frame": {
+						"x": 1742,
+						"y": 990,
+						"w": 12,
+						"h": 11
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 12,
+						"h": 11
+					},
+					"frame": {
+						"x": 1742,
+						"y": 990,
+						"w": 12,
+						"h": 11
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 45,
+						"w": 9,
+						"h": 22
+					},
+					"frame": {
+						"x": 1756,
+						"y": 990,
+						"w": 9,
+						"h": 22
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 9,
+						"h": 21
+					},
+					"frame": {
+						"x": 1767,
+						"y": 990,
+						"w": 9,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 9,
+						"h": 21
+					},
+					"frame": {
+						"x": 1767,
+						"y": 990,
+						"w": 9,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lodge/clock/minute_hand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 18
+					},
+					"frame": {
+						"x": 1778,
+						"y": 990,
+						"w": 9,
+						"h": 18
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 8,
+						"h": 20
+					},
+					"frame": {
+						"x": 1789,
+						"y": 990,
+						"w": 8,
+						"h": 20
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 8,
+						"h": 20
+					},
+					"frame": {
+						"x": 1789,
+						"y": 990,
+						"w": 8,
+						"h": 20
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 8,
+						"h": 19
+					},
+					"frame": {
+						"x": 1799,
+						"y": 990,
+						"w": 8,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 8,
+						"h": 19
+					},
+					"frame": {
+						"x": 1799,
+						"y": 990,
+						"w": 8,
+						"h": 19
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 7,
+						"h": 21
+					},
+					"frame": {
+						"x": 1809,
+						"y": 990,
+						"w": 7,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 7,
+						"h": 21
+					},
+					"frame": {
+						"x": 1809,
+						"y": 990,
+						"w": 7,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 50,
+						"w": 7,
+						"h": 17
+					},
+					"frame": {
+						"x": 1818,
+						"y": 990,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 55,
+						"w": 6,
+						"h": 12
+					},
+					"frame": {
+						"x": 1827,
+						"y": 990,
+						"w": 6,
+						"h": 12
+					}
+				},
+				{
+					"filename": "lodge/village_door_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 318
+					},
+					"frame": {
+						"x": 1937,
+						"y": 998,
+						"w": 84,
+						"h": 318
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 177,
+						"w": 107,
+						"h": 160
+					},
+					"frame": {
+						"x": 1937,
+						"y": 1318,
+						"w": 107,
+						"h": 160
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 12,
+						"h": 41
+					},
+					"frame": {
+						"x": 2022,
+						"y": 900,
+						"w": 12,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 12,
+						"h": 41
+					},
+					"frame": {
+						"x": 2022,
+						"y": 900,
+						"w": 12,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 29
+					},
+					"frame": {
+						"x": 2027,
+						"y": 867,
+						"w": 14,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 29
+					},
+					"frame": {
+						"x": 2027,
+						"y": 867,
+						"w": 14,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 13,
+						"h": 38
+					},
+					"frame": {
+						"x": 2022,
+						"y": 943,
+						"w": 13,
+						"h": 38
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 13,
+						"h": 38
+					},
+					"frame": {
+						"x": 2022,
+						"y": 943,
+						"w": 13,
+						"h": 38
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 8,
+						"h": 34
+					},
+					"frame": {
+						"x": 2036,
+						"y": 898,
+						"w": 8,
+						"h": 34
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 8,
+						"h": 34
+					},
+					"frame": {
+						"x": 2036,
+						"y": 898,
+						"w": 8,
+						"h": 34
+					}
+				},
+				{
+					"filename": "lodge/clock/clock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 99,
+						"h": 232
+					},
+					"frame": {
+						"x": 1942,
+						"y": 1480,
+						"w": 99,
+						"h": 232
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 104,
+						"w": 94,
+						"h": 184
+					},
+					"frame": {
+						"x": 1942,
+						"y": 1714,
+						"w": 94,
+						"h": 184
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 12,
+						"h": 36
+					},
+					"frame": {
+						"x": 2032,
+						"y": 1900,
+						"w": 12,
+						"h": 36
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 12,
+						"h": 36
+					},
+					"frame": {
+						"x": 2032,
+						"y": 1900,
+						"w": 12,
+						"h": 36
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 12,
+						"h": 35
+					},
+					"frame": {
+						"x": 2032,
+						"y": 1938,
+						"w": 12,
+						"h": 35
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 12,
+						"h": 35
+					},
+					"frame": {
+						"x": 2032,
+						"y": 1938,
+						"w": 12,
+						"h": 35
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 11,
+						"h": 34
+					},
+					"frame": {
+						"x": 2032,
+						"y": 1975,
+						"w": 11,
+						"h": 34
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 11,
+						"h": 34
+					},
+					"frame": {
+						"x": 2032,
+						"y": 1975,
+						"w": 11,
+						"h": 34
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 10,
+						"h": 32
+					},
+					"frame": {
+						"x": 2032,
+						"y": 2011,
+						"w": 10,
+						"h": 32
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 10,
+						"h": 32
+					},
+					"frame": {
+						"x": 2032,
+						"y": 2011,
+						"w": 10,
+						"h": 32
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 10,
+						"h": 32
+					},
+					"frame": {
+						"x": 2023,
+						"y": 983,
+						"w": 10,
+						"h": 32
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 10,
+						"h": 32
+					},
+					"frame": {
+						"x": 2023,
+						"y": 983,
+						"w": 10,
+						"h": 32
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 9,
+						"h": 29
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1017,
+						"w": 9,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 9,
+						"h": 29
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1017,
+						"w": 9,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 10,
+						"h": 27
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1048,
+						"w": 10,
+						"h": 27
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 10,
+						"h": 27
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1048,
+						"w": 10,
+						"h": 27
+					}
+				},
+				{
+					"filename": "lodge/candle/flameoff_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 40,
+						"w": 10,
+						"h": 27
+					},
+					"frame": {
+						"x": 2034,
+						"y": 1017,
+						"w": 10,
+						"h": 27
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 27
+					},
+					"frame": {
+						"x": 2035,
+						"y": 983,
+						"w": 9,
+						"h": 27
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 27
+					},
+					"frame": {
+						"x": 2035,
+						"y": 983,
+						"w": 9,
+						"h": 27
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 10,
+						"h": 26
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1077,
+						"w": 10,
+						"h": 26
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 10,
+						"h": 26
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1077,
+						"w": 10,
+						"h": 26
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 9,
+						"h": 26
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1105,
+						"w": 9,
+						"h": 26
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 9,
+						"h": 26
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1105,
+						"w": 9,
+						"h": 26
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 10,
+						"h": 25
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1133,
+						"w": 10,
+						"h": 25
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 10,
+						"h": 25
+					},
+					"frame": {
+						"x": 2023,
+						"y": 1133,
+						"w": 10,
+						"h": 25
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 9,
+						"h": 24
+					},
+					"frame": {
+						"x": 2034,
+						"y": 1105,
+						"w": 9,
+						"h": 24
+					}
+				},
+				{
+					"filename": "lodge/candle/flame_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 11,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 9,
+						"h": 24
+					},
+					"frame": {
+						"x": 2034,
+						"y": 1105,
+						"w": 9,
+						"h": 24
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 9,
+						"h": 23
+					},
+					"frame": {
+						"x": 2035,
+						"y": 1046,
+						"w": 9,
+						"h": 23
+					}
+				},
+				{
+					"filename": "lodge/smallflame/smallflame0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 9,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 9,
+						"h": 23
+					},
+					"frame": {
+						"x": 2035,
+						"y": 1046,
+						"w": 9,
+						"h": 23
+					}
+				}
+			]
+		},
+		{
+			"image": "lodge@4x-1.png?h=6e0a6a8769",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2041,
+				"h": 1850
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lodge/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1534,
+						"h": 724
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1534,
+						"h": 724
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1534,
+						"h": 724
+					}
+				},
+				{
+					"filename": "lodge/fireplace1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 223,
+						"h": 470
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 223,
+						"h": 470
+					},
+					"frame": {
+						"x": 1,
+						"y": 727,
+						"w": 223,
+						"h": 470
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0040",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1,
+						"y": 1199,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 226,
+						"y": 727,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1675,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 364,
+						"y": 727,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 1813,
+						"y": 1,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/chairlight/chairlight0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 432
+					},
+					"frame": {
+						"x": 502,
+						"y": 727,
+						"w": 136,
+						"h": 432
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 120,
+						"w": 89,
+						"h": 218
+					},
+					"frame": {
+						"x": 1951,
+						"y": 1,
+						"w": 89,
+						"h": 218
+					}
+				},
+				{
+					"filename": "lodge/fish/door_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 150,
+						"h": 342
+					},
+					"frame": {
+						"x": 640,
+						"y": 727,
+						"w": 150,
+						"h": 342
+					}
+				},
+				{
+					"filename": "lodge/fish/door_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 150,
+						"h": 342
+					},
+					"frame": {
+						"x": 792,
+						"y": 727,
+						"w": 150,
+						"h": 342
+					}
+				},
+				{
+					"filename": "lodge/xmaslights",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 235,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 235,
+						"h": 249
+					},
+					"frame": {
+						"x": 1537,
+						"y": 435,
+						"w": 235,
+						"h": 249
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 205,
+						"h": 271
+					},
+					"frame": {
+						"x": 944,
+						"y": 727,
+						"w": 205,
+						"h": 271
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 24,
+						"w": 186,
+						"h": 264
+					},
+					"frame": {
+						"x": 1151,
+						"y": 727,
+						"w": 186,
+						"h": 264
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 197,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 197,
+						"h": 213
+					},
+					"frame": {
+						"x": 1339,
+						"y": 727,
+						"w": 197,
+						"h": 213
+					}
+				},
+				{
+					"filename": "lodge/skilodgedoor1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 158,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 247
+					},
+					"frame": {
+						"x": 1774,
+						"y": 435,
+						"w": 158,
+						"h": 247
+					}
+				},
+				{
+					"filename": "lodge/village_door_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 123,
+						"h": 316
+					},
+					"frame": {
+						"x": 139,
+						"y": 1199,
+						"w": 123,
+						"h": 316
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 55,
+						"w": 154,
+						"h": 254
+					},
+					"frame": {
+						"x": 264,
+						"y": 1161,
+						"w": 154,
+						"h": 254
+					}
+				},
+				{
+					"filename": "lodge/fireplace2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 207,
+						"h": 197
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 207,
+						"h": 197
+					},
+					"frame": {
+						"x": 420,
+						"y": 1161,
+						"w": 207,
+						"h": 197
+					}
+				},
+				{
+					"filename": "lodge/skilodgedoor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 247
+					},
+					"frame": {
+						"x": 1538,
+						"y": 686,
+						"w": 156,
+						"h": 247
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1633,
+						"w": 137,
+						"h": 201
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_bucket",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 235
+					},
+					"frame": {
+						"x": 1696,
+						"y": 686,
+						"w": 136,
+						"h": 235
+					}
+				},
+				{
+					"filename": "lodge/fish/fishing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 226
+					},
+					"frame": {
+						"x": 1834,
+						"y": 684,
+						"w": 111,
+						"h": 226
+					}
+				},
+				{
+					"filename": "lodge/chair_green_rest",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 145
+					},
+					"frame": {
+						"x": 640,
+						"y": 1071,
+						"w": 214,
+						"h": 145
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 204,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 204,
+						"h": 131
+					},
+					"frame": {
+						"x": 629,
+						"y": 1218,
+						"w": 204,
+						"h": 131
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 133,
+						"w": 86,
+						"h": 205
+					},
+					"frame": {
+						"x": 1951,
+						"y": 221,
+						"w": 86,
+						"h": 205
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 67
+					},
+					"frame": {
+						"x": 944,
+						"y": 1000,
+						"w": 191,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 67
+					},
+					"frame": {
+						"x": 944,
+						"y": 1000,
+						"w": 191,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 67
+					},
+					"frame": {
+						"x": 944,
+						"y": 1000,
+						"w": 191,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 67
+					},
+					"frame": {
+						"x": 944,
+						"y": 1000,
+						"w": 191,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 67
+					},
+					"frame": {
+						"x": 944,
+						"y": 1000,
+						"w": 191,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 67
+					},
+					"frame": {
+						"x": 944,
+						"y": 1000,
+						"w": 191,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 159,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 159,
+						"h": 145
+					},
+					"frame": {
+						"x": 264,
+						"y": 1417,
+						"w": 159,
+						"h": 145
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 110,
+						"w": 93,
+						"h": 199
+					},
+					"frame": {
+						"x": 425,
+						"y": 1360,
+						"w": 93,
+						"h": 199
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 161,
+						"w": 102,
+						"h": 176
+					},
+					"frame": {
+						"x": 520,
+						"y": 1360,
+						"w": 102,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 161,
+						"w": 102,
+						"h": 176
+					},
+					"frame": {
+						"x": 520,
+						"y": 1360,
+						"w": 102,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 161,
+						"w": 102,
+						"h": 176
+					},
+					"frame": {
+						"x": 520,
+						"y": 1360,
+						"w": 102,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 161,
+						"w": 102,
+						"h": 176
+					},
+					"frame": {
+						"x": 520,
+						"y": 1360,
+						"w": 102,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 161,
+						"w": 102,
+						"h": 176
+					},
+					"frame": {
+						"x": 520,
+						"y": 1360,
+						"w": 102,
+						"h": 176
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 67
+					},
+					"frame": {
+						"x": 1339,
+						"y": 942,
+						"w": 184,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 67
+					},
+					"frame": {
+						"x": 1339,
+						"y": 942,
+						"w": 184,
+						"h": 67
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 163,
+						"w": 92,
+						"h": 174
+					},
+					"frame": {
+						"x": 856,
+						"y": 1071,
+						"w": 92,
+						"h": 174
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 148
+					},
+					"frame": {
+						"x": 950,
+						"y": 1069,
+						"w": 133,
+						"h": 148
+					}
+				},
+				{
+					"filename": "lodge/catalog_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 139,
+						"y": 1517,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 182,
+						"w": 115,
+						"h": 155
+					},
+					"frame": {
+						"x": 140,
+						"y": 1620,
+						"w": 115,
+						"h": 155
+					}
+				},
+				{
+					"filename": "lodge/caution_shadow_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 72
+					},
+					"frame": {
+						"x": 140,
+						"y": 1777,
+						"w": 147,
+						"h": 72
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 106,
+						"h": 99
+					},
+					"frame": {
+						"x": 1934,
+						"y": 435,
+						"w": 106,
+						"h": 99
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 106,
+						"h": 98
+					},
+					"frame": {
+						"x": 1934,
+						"y": 536,
+						"w": 106,
+						"h": 98
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 165,
+						"w": 93,
+						"h": 172
+					},
+					"frame": {
+						"x": 1947,
+						"y": 636,
+						"w": 93,
+						"h": 172
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 166,
+						"w": 93,
+						"h": 171
+					},
+					"frame": {
+						"x": 1947,
+						"y": 810,
+						"w": 93,
+						"h": 171
+					}
+				},
+				{
+					"filename": "lodge/table2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 78
+					},
+					"frame": {
+						"x": 258,
+						"y": 1564,
+						"w": 168,
+						"h": 78
+					}
+				},
+				{
+					"filename": "lodge/caution/caution1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 131
+					},
+					"frame": {
+						"x": 257,
+						"y": 1644,
+						"w": 142,
+						"h": 131
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 31,
+						"w": 122,
+						"h": 72
+					},
+					"frame": {
+						"x": 289,
+						"y": 1777,
+						"w": 122,
+						"h": 72
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 151,
+						"w": 82,
+						"h": 186
+					},
+					"frame": {
+						"x": 1085,
+						"y": 1069,
+						"w": 82,
+						"h": 186
+					}
+				},
+				{
+					"filename": "lodge/presents",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 124
+					},
+					"frame": {
+						"x": 1169,
+						"y": 993,
+						"w": 152,
+						"h": 124
+					}
+				},
+				{
+					"filename": "lodge/four/game1_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 133
+					},
+					"frame": {
+						"x": 1169,
+						"y": 1119,
+						"w": 143,
+						"h": 133
+					}
+				},
+				{
+					"filename": "lodge/four/game1_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 133
+					},
+					"frame": {
+						"x": 1323,
+						"y": 1011,
+						"w": 143,
+						"h": 133
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 84
+					},
+					"frame": {
+						"x": 1314,
+						"y": 1146,
+						"w": 150,
+						"h": 84
+					}
+				},
+				{
+					"filename": "lodge/catalog_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 109
+					},
+					"frame": {
+						"x": 835,
+						"y": 1247,
+						"w": 126,
+						"h": 109
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 184,
+						"w": 116,
+						"h": 153
+					},
+					"frame": {
+						"x": 963,
+						"y": 1219,
+						"w": 116,
+						"h": 153
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 102,
+						"w": 95,
+						"h": 173
+					},
+					"frame": {
+						"x": 1081,
+						"y": 1257,
+						"w": 95,
+						"h": 173
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 166,
+						"w": 94,
+						"h": 171
+					},
+					"frame": {
+						"x": 1178,
+						"y": 1254,
+						"w": 94,
+						"h": 171
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 165,
+						"w": 93,
+						"h": 171
+					},
+					"frame": {
+						"x": 1274,
+						"y": 1254,
+						"w": 93,
+						"h": 171
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 167,
+						"w": 95,
+						"h": 170
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1232,
+						"w": 95,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 167,
+						"w": 95,
+						"h": 170
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1232,
+						"w": 95,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 167,
+						"w": 95,
+						"h": 170
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1232,
+						"w": 95,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 167,
+						"w": 95,
+						"h": 170
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1232,
+						"w": 95,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 167,
+						"w": 95,
+						"h": 170
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1232,
+						"w": 95,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 167,
+						"w": 95,
+						"h": 170
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1232,
+						"w": 95,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 167,
+						"w": 95,
+						"h": 170
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1232,
+						"w": 95,
+						"h": 170
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 111,
+						"h": 95
+					},
+					"frame": {
+						"x": 1834,
+						"y": 912,
+						"w": 111,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 166,
+						"w": 93,
+						"h": 171
+					},
+					"frame": {
+						"x": 1947,
+						"y": 983,
+						"w": 93,
+						"h": 171
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 170,
+						"w": 98,
+						"h": 167
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1011,
+						"w": 98,
+						"h": 167
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 172,
+						"w": 100,
+						"h": 165
+					},
+					"frame": {
+						"x": 1466,
+						"y": 1180,
+						"w": 100,
+						"h": 165
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 171,
+						"w": 99,
+						"h": 166
+					},
+					"frame": {
+						"x": 1568,
+						"y": 935,
+						"w": 99,
+						"h": 166
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 173,
+						"w": 101,
+						"h": 164
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1103,
+						"w": 101,
+						"h": 164
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 134
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1269,
+						"w": 109,
+						"h": 134
+					}
+				},
+				{
+					"filename": "lodge/xmastreepres6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 1466,
+						"y": 1347,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "lodge/cam/cam0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 222,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 103,
+						"w": 93,
+						"h": 168
+					},
+					"frame": {
+						"x": 624,
+						"y": 1360,
+						"w": 93,
+						"h": 168
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 114,
+						"h": 89
+					},
+					"frame": {
+						"x": 719,
+						"y": 1351,
+						"w": 114,
+						"h": 89
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 20,
+						"w": 119,
+						"h": 83
+					},
+					"frame": {
+						"x": 835,
+						"y": 1358,
+						"w": 119,
+						"h": 83
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 113,
+						"h": 90
+					},
+					"frame": {
+						"x": 719,
+						"y": 1442,
+						"w": 113,
+						"h": 90
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 14,
+						"w": 115,
+						"h": 89
+					},
+					"frame": {
+						"x": 834,
+						"y": 1443,
+						"w": 115,
+						"h": 89
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 26,
+						"w": 122,
+						"h": 77
+					},
+					"frame": {
+						"x": 956,
+						"y": 1374,
+						"w": 122,
+						"h": 77
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 121,
+						"h": 79
+					},
+					"frame": {
+						"x": 951,
+						"y": 1453,
+						"w": 121,
+						"h": 79
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 103
+					},
+					"frame": {
+						"x": 428,
+						"y": 1561,
+						"w": 97,
+						"h": 103
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 107,
+						"h": 98
+					},
+					"frame": {
+						"x": 401,
+						"y": 1666,
+						"w": 107,
+						"h": 98
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 527,
+						"y": 1538,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 527,
+						"y": 1538,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 527,
+						"y": 1538,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 527,
+						"y": 1538,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 527,
+						"y": 1538,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 21,
+						"w": 119,
+						"h": 82
+					},
+					"frame": {
+						"x": 413,
+						"y": 1766,
+						"w": 119,
+						"h": 82
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 57
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1405,
+						"w": 138,
+						"h": 57
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1669,
+						"y": 935,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1669,
+						"y": 935,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 80,
+						"h": 89
+					},
+					"frame": {
+						"x": 1752,
+						"y": 923,
+						"w": 80,
+						"h": 89
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 80,
+						"h": 89
+					},
+					"frame": {
+						"x": 1752,
+						"y": 923,
+						"w": 80,
+						"h": 89
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 111,
+						"h": 94
+					},
+					"frame": {
+						"x": 1834,
+						"y": 1009,
+						"w": 111,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lodge/fish/bag_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 80,
+						"h": 72
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1014,
+						"w": 80,
+						"h": 72
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 79,
+						"h": 85
+					},
+					"frame": {
+						"x": 1671,
+						"y": 1056,
+						"w": 79,
+						"h": 85
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 79,
+						"h": 85
+					},
+					"frame": {
+						"x": 1671,
+						"y": 1056,
+						"w": 79,
+						"h": 85
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1671,
+						"y": 1143,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1671,
+						"y": 1143,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1264,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1264,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1264,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1264,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1264,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1264,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/caution/caution2_0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 119
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1264,
+						"w": 81,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lodge/table1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 65
+					},
+					"frame": {
+						"x": 1178,
+						"y": 1427,
+						"w": 137,
+						"h": 65
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 103
+					},
+					"frame": {
+						"x": 1080,
+						"y": 1432,
+						"w": 96,
+						"h": 103
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 28,
+						"w": 122,
+						"h": 75
+					},
+					"frame": {
+						"x": 1178,
+						"y": 1494,
+						"w": 122,
+						"h": 75
+					}
+				},
+				{
+					"filename": "lodge/candle/candle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 98
+					},
+					"frame": {
+						"x": 510,
+						"y": 1666,
+						"w": 90,
+						"h": 98
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 78,
+						"h": 78
+					},
+					"frame": {
+						"x": 534,
+						"y": 1766,
+						"w": 78,
+						"h": 78
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 78,
+						"h": 78
+					},
+					"frame": {
+						"x": 534,
+						"y": 1766,
+						"w": 78,
+						"h": 78
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 74,
+						"h": 45
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1088,
+						"w": 74,
+						"h": 45
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 74,
+						"h": 45
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1088,
+						"w": 74,
+						"h": 45
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 74,
+						"h": 45
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1088,
+						"w": 74,
+						"h": 45
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 117,
+						"h": 85
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1105,
+						"w": 117,
+						"h": 85
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 68,
+						"h": 74
+					},
+					"frame": {
+						"x": 1754,
+						"y": 1135,
+						"w": 68,
+						"h": 74
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 68,
+						"h": 74
+					},
+					"frame": {
+						"x": 1754,
+						"y": 1135,
+						"w": 68,
+						"h": 74
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 30,
+						"w": 122,
+						"h": 73
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1192,
+						"w": 122,
+						"h": 73
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 107,
+						"h": 98
+					},
+					"frame": {
+						"x": 1762,
+						"y": 1267,
+						"w": 107,
+						"h": 98
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 103
+					},
+					"frame": {
+						"x": 1871,
+						"y": 1267,
+						"w": 98,
+						"h": 103
+					}
+				},
+				{
+					"filename": "lodge/caution_shadow_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 88
+					},
+					"frame": {
+						"x": 1948,
+						"y": 1156,
+						"w": 85,
+						"h": 88
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 107,
+						"h": 97
+					},
+					"frame": {
+						"x": 1762,
+						"y": 1367,
+						"w": 107,
+						"h": 97
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 103
+					},
+					"frame": {
+						"x": 1871,
+						"y": 1372,
+						"w": 98,
+						"h": 103
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 16,
+						"w": 70,
+						"h": 71
+					},
+					"frame": {
+						"x": 1317,
+						"y": 1427,
+						"w": 70,
+						"h": 71
+					}
+				},
+				{
+					"filename": "lodge/flame/fire0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 86,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 16,
+						"w": 70,
+						"h": 71
+					},
+					"frame": {
+						"x": 1317,
+						"y": 1427,
+						"w": 70,
+						"h": 71
+					}
+				},
+				{
+					"filename": "lodge/fire_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 75,
+						"h": 65
+					},
+					"frame": {
+						"x": 1389,
+						"y": 1404,
+						"w": 75,
+						"h": 65
+					}
+				},
+				{
+					"filename": "lodge/fire_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 75,
+						"h": 65
+					},
+					"frame": {
+						"x": 1389,
+						"y": 1404,
+						"w": 75,
+						"h": 65
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 30,
+						"w": 122,
+						"h": 73
+					},
+					"frame": {
+						"x": 1302,
+						"y": 1500,
+						"w": 122,
+						"h": 73
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 103
+					},
+					"frame": {
+						"x": 1466,
+						"y": 1449,
+						"w": 97,
+						"h": 103
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 118,
+						"h": 84
+					},
+					"frame": {
+						"x": 1565,
+						"y": 1464,
+						"w": 118,
+						"h": 84
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 118,
+						"h": 84
+					},
+					"frame": {
+						"x": 1685,
+						"y": 1466,
+						"w": 118,
+						"h": 84
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 30,
+						"w": 122,
+						"h": 73
+					},
+					"frame": {
+						"x": 1805,
+						"y": 1477,
+						"w": 122,
+						"h": 73
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 111,
+						"h": 94
+					},
+					"frame": {
+						"x": 1929,
+						"y": 1477,
+						"w": 111,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 19,
+						"w": 118,
+						"h": 84
+					},
+					"frame": {
+						"x": 1565,
+						"y": 1550,
+						"w": 118,
+						"h": 84
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 18,
+						"w": 117,
+						"h": 85
+					},
+					"frame": {
+						"x": 1685,
+						"y": 1552,
+						"w": 117,
+						"h": 85
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 17,
+						"w": 116,
+						"h": 86
+					},
+					"frame": {
+						"x": 1804,
+						"y": 1552,
+						"w": 116,
+						"h": 86
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 115,
+						"h": 87
+					},
+					"frame": {
+						"x": 1922,
+						"y": 1573,
+						"w": 115,
+						"h": 87
+					}
+				},
+				{
+					"filename": "lodge/catalog2_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 54
+					},
+					"frame": {
+						"x": 1762,
+						"y": 1211,
+						"w": 56,
+						"h": 54
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 102,
+						"h": 102
+					},
+					"frame": {
+						"x": 610,
+						"y": 1538,
+						"w": 102,
+						"h": 102
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 108,
+						"h": 97
+					},
+					"frame": {
+						"x": 714,
+						"y": 1534,
+						"w": 108,
+						"h": 97
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 108,
+						"h": 97
+					},
+					"frame": {
+						"x": 824,
+						"y": 1534,
+						"w": 108,
+						"h": 97
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 109,
+						"h": 96
+					},
+					"frame": {
+						"x": 934,
+						"y": 1534,
+						"w": 109,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 10,
+						"w": 112,
+						"h": 93
+					},
+					"frame": {
+						"x": 1045,
+						"y": 1537,
+						"w": 112,
+						"h": 93
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 31,
+						"w": 122,
+						"h": 72
+					},
+					"frame": {
+						"x": 1159,
+						"y": 1571,
+						"w": 122,
+						"h": 72
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 113,
+						"h": 90
+					},
+					"frame": {
+						"x": 1283,
+						"y": 1575,
+						"w": 113,
+						"h": 90
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 10,
+						"w": 112,
+						"h": 93
+					},
+					"frame": {
+						"x": 714,
+						"y": 1633,
+						"w": 112,
+						"h": 93
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 104,
+						"h": 100
+					},
+					"frame": {
+						"x": 828,
+						"y": 1633,
+						"w": 104,
+						"h": 100
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 109,
+						"h": 96
+					},
+					"frame": {
+						"x": 934,
+						"y": 1632,
+						"w": 109,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 112,
+						"h": 92
+					},
+					"frame": {
+						"x": 1045,
+						"y": 1632,
+						"w": 112,
+						"h": 92
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 111,
+						"h": 94
+					},
+					"frame": {
+						"x": 1159,
+						"y": 1645,
+						"w": 111,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 111,
+						"h": 94
+					},
+					"frame": {
+						"x": 1272,
+						"y": 1667,
+						"w": 111,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 602,
+						"y": 1659,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 111,
+						"h": 93
+					},
+					"frame": {
+						"x": 614,
+						"y": 1756,
+						"w": 111,
+						"h": 93
+					}
+				},
+				{
+					"filename": "lodge/fish/bag_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 87
+					},
+					"frame": {
+						"x": 727,
+						"y": 1728,
+						"w": 81,
+						"h": 87
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 111,
+						"h": 94
+					},
+					"frame": {
+						"x": 810,
+						"y": 1735,
+						"w": 111,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 101,
+						"h": 102
+					},
+					"frame": {
+						"x": 1398,
+						"y": 1575,
+						"w": 101,
+						"h": 102
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 111,
+						"h": 94
+					},
+					"frame": {
+						"x": 1385,
+						"y": 1679,
+						"w": 111,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 111,
+						"h": 93
+					},
+					"frame": {
+						"x": 1045,
+						"y": 1726,
+						"w": 111,
+						"h": 93
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 1158,
+						"y": 1741,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/fire_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 77,
+						"h": 71
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1763,
+						"w": 77,
+						"h": 71
+					}
+				},
+				{
+					"filename": "lodge/fire_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 77,
+						"h": 71
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1763,
+						"w": 77,
+						"h": 71
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 107,
+						"h": 97
+					},
+					"frame": {
+						"x": 934,
+						"y": 1730,
+						"w": 107,
+						"h": 97
+					}
+				},
+				{
+					"filename": "lodge/fire_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 68,
+						"h": 66
+					},
+					"frame": {
+						"x": 1971,
+						"y": 1246,
+						"w": 68,
+						"h": 66
+					}
+				},
+				{
+					"filename": "lodge/fire_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 68,
+						"h": 66
+					},
+					"frame": {
+						"x": 1971,
+						"y": 1246,
+						"w": 68,
+						"h": 66
+					}
+				},
+				{
+					"filename": "lodge/caution3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 66
+					},
+					"frame": {
+						"x": 1971,
+						"y": 1314,
+						"w": 60,
+						"h": 66
+					}
+				},
+				{
+					"filename": "lodge/catalog2_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1971,
+						"y": 1382,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "lodge/catalog2_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1971,
+						"y": 1382,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "lodge/fire_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 75,
+						"h": 64
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1775,
+						"w": 75,
+						"h": 64
+					}
+				},
+				{
+					"filename": "lodge/fire_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 75,
+						"h": 64
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1775,
+						"w": 75,
+						"h": 64
+					}
+				},
+				{
+					"filename": "lodge/fire_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 70,
+						"h": 66
+					},
+					"frame": {
+						"x": 1426,
+						"y": 1775,
+						"w": 70,
+						"h": 66
+					}
+				},
+				{
+					"filename": "lodge/fire_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 70,
+						"h": 66
+					},
+					"frame": {
+						"x": 1426,
+						"y": 1775,
+						"w": 70,
+						"h": 66
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 106,
+						"h": 98
+					},
+					"frame": {
+						"x": 1498,
+						"y": 1679,
+						"w": 106,
+						"h": 98
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 74,
+						"h": 42
+					},
+					"frame": {
+						"x": 1498,
+						"y": 1779,
+						"w": 74,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 74,
+						"h": 42
+					},
+					"frame": {
+						"x": 1498,
+						"y": 1779,
+						"w": 74,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 74,
+						"h": 42
+					},
+					"frame": {
+						"x": 1498,
+						"y": 1779,
+						"w": 74,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 74,
+						"h": 37
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1640,
+						"w": 74,
+						"h": 37
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 74,
+						"h": 37
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1640,
+						"w": 74,
+						"h": 37
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 74,
+						"h": 37
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1640,
+						"w": 74,
+						"h": 37
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 74,
+						"h": 40
+					},
+					"frame": {
+						"x": 1577,
+						"y": 1636,
+						"w": 74,
+						"h": 40
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 74,
+						"h": 40
+					},
+					"frame": {
+						"x": 1577,
+						"y": 1636,
+						"w": 74,
+						"h": 40
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 74,
+						"h": 40
+					},
+					"frame": {
+						"x": 1577,
+						"y": 1636,
+						"w": 74,
+						"h": 40
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 1606,
+						"y": 1678,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/catalog2_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1554,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lodge/catalog2_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1554,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 1718,
+						"y": 1640,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/horse/nay0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 110,
+						"h": 95
+					},
+					"frame": {
+						"x": 1718,
+						"y": 1737,
+						"w": 110,
+						"h": 95
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 74,
+						"h": 42
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1640,
+						"w": 74,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 74,
+						"h": 42
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1640,
+						"w": 74,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lodge/fish/fish_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 74,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 74,
+						"h": 42
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1640,
+						"w": 74,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 39
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1684,
+						"w": 60,
+						"h": 39
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 39
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1725,
+						"w": 58,
+						"h": 39
+					}
+				},
+				{
+					"filename": "lodge/clock/cuckoo_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 39
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1766,
+						"w": 44,
+						"h": 39
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2a9b86c4a301182aecf165184b0f0c13:be909810b58dfaacbd9d396db771f1ed:faa753400b5287b3ba962d9ddd5878a5$"
+	}
+}

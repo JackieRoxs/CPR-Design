@@ -1,0 +1,207 @@
+{
+    "anims": [
+        {
+            "key": "beach/flags/blueflag",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/flags/blueflag0015",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "beach/redflag/redflag",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/redflag/redflag0015",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

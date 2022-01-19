@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/interface/dynamic/party/transform/transform@4x.json?v=1.7.94-beta",
+                "path": "assets/content/global/interface/dynamic/party/transform",
+                "key": "transform@4x"
+            },
+            {
+                "url": "assets/client/interface/party/transformation/Transformation.js?v=1.7.94-beta",
+                "type": "script",
+                "key": "Transformation"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

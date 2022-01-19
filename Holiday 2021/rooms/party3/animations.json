@@ -1,0 +1,138 @@
+{
+    "anims": [
+        {
+            "key": "party3/santa/fire/fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/santa/fire/fire0020",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

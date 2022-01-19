@@ -1,0 +1,174 @@
+{
+    "anims": [
+        {
+            "key": "lounge",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lounge@4x",
+                    "frame": "lounge/TV/TV0026",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": 5
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

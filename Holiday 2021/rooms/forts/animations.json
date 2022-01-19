@@ -1,0 +1,618 @@
+{
+    "anims": [
+        {
+            "key": "fort/skyanim/skything",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/skyanim/skything0100",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

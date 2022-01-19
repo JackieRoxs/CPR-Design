@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "transform@4x-0.png?h=55735bb470",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1857,
+				"h": 985
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "transform/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1557,
+						"h": 983
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1549,
+						"h": 983
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1549,
+						"h": 983
+					}
+				},
+				{
+					"filename": "transform/transform_btn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 304,
+						"h": 102
+					},
+					"frame": {
+						"x": 1552,
+						"y": 1,
+						"w": 304,
+						"h": 102
+					}
+				},
+				{
+					"filename": "transform/closebtn0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 67
+					},
+					"frame": {
+						"x": 1552,
+						"y": 105,
+						"w": 67,
+						"h": 67
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ae9923ab1779feee9e449e31e5b60e88:5bf62cf17b1e735c76a5efa34a179d8e:6205235b5e444ac5ac3b413b97d37b78$"
+	}
+}

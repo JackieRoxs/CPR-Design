@@ -1,0 +1,82 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/anchors_aweigh.mp3"
+                ],
+                "type": "audio",
+                "key": "anchors_aweigh"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/sfx/cheer.mp3"
+                ],
+                "type": "audio",
+                "key": "cheer"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/cool_in_the_cold.mp3"
+                ],
+                "type": "audio",
+                "key": "cool_in_the_cold"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/ghosts_just_wanna_dance.mp3"
+                ],
+                "type": "audio",
+                "key": "ghosts_just_wanna_dance"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/gotta_have_a_wingman.mp3"
+                ],
+                "type": "audio",
+                "key": "gotta_have_a_wingman"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/its_your_birthday.mp3"
+                ],
+                "type": "audio",
+                "key": "its_your_birthday"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/party_in_my_iggy.mp3"
+                ],
+                "type": "audio",
+                "key": "party_in_my_iggy"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/content/global/rooms/party3/party3@4x.json?v=1.7.94-beta",
+                "path": "assets/content/global/rooms/party3/",
+                "key": "party3@4x"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/the_party_starts_now.mp3"
+                ],
+                "type": "audio",
+                "key": "the_party_starts_now"
+            },
+            {
+                "url": [
+                    "assets/content/global/rooms/party3/music/you_got_this.mp3"
+                ],
+                "type": "audio",
+                "key": "you_got_this"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

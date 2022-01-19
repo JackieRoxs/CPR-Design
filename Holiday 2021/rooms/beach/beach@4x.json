@@ -1,0 +1,1690 @@
+{
+	"textures": [
+		{
+			"image": "beach@4x-0.png?h=33264c7bd8",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1932,
+				"h": 2036
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beach/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1842,
+						"h": 1062
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1842,
+						"h": 1062
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1842,
+						"h": 1062
+					}
+				},
+				{
+					"filename": "beach/ship",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 787,
+						"h": 377
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 787,
+						"h": 375
+					},
+					"frame": {
+						"x": 1,
+						"y": 1065,
+						"w": 787,
+						"h": 375
+					}
+				},
+				{
+					"filename": "beach/bluefort1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1442,
+						"w": 485,
+						"h": 320
+					}
+				},
+				{
+					"filename": "beach/bluefort2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 320
+					},
+					"frame": {
+						"x": 1,
+						"y": 1442,
+						"w": 485,
+						"h": 320
+					}
+				},
+				{
+					"filename": "beach/lighthouse/snow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 557,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 557,
+						"h": 150
+					},
+					"frame": {
+						"x": 790,
+						"y": 1065,
+						"w": 557,
+						"h": 150
+					}
+				},
+				{
+					"filename": "beach/bluefortstairs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 415,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 415,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 1764,
+						"w": 415,
+						"h": 209
+					}
+				},
+				{
+					"filename": "beach/lighthouse/building",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 438
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 438
+					},
+					"frame": {
+						"x": 488,
+						"y": 1442,
+						"w": 310,
+						"h": 438
+					}
+				},
+				{
+					"filename": "beach/redfort12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 199
+					},
+					"frame": {
+						"x": 1845,
+						"y": 1,
+						"w": 86,
+						"h": 199
+					}
+				},
+				{
+					"filename": "beach/candycane1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 216,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 216,
+						"h": 219
+					},
+					"frame": {
+						"x": 790,
+						"y": 1217,
+						"w": 216,
+						"h": 219
+					}
+				},
+				{
+					"filename": "beach/redfort16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 235,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 235,
+						"h": 273
+					},
+					"frame": {
+						"x": 800,
+						"y": 1438,
+						"w": 235,
+						"h": 273
+					}
+				},
+				{
+					"filename": "beach/candycane4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 216,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 216,
+						"h": 219
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1217,
+						"w": 216,
+						"h": 219
+					}
+				},
+				{
+					"filename": "beach/candycane",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 213,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 213,
+						"h": 239
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1438,
+						"w": 213,
+						"h": 239
+					}
+				},
+				{
+					"filename": "beach/candycane3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 213,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 213,
+						"h": 239
+					},
+					"frame": {
+						"x": 800,
+						"y": 1713,
+						"w": 213,
+						"h": 239
+					}
+				},
+				{
+					"filename": "beach/candycane2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 215
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1065,
+						"w": 196,
+						"h": 215
+					}
+				},
+				{
+					"filename": "beach/candycane5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 215
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1065,
+						"w": 196,
+						"h": 215
+					}
+				},
+				{
+					"filename": "beach/chair1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 130
+					},
+					"frame": {
+						"x": 1226,
+						"y": 1217,
+						"w": 121,
+						"h": 130
+					}
+				},
+				{
+					"filename": "beach/redfortstairs1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 235
+					},
+					"frame": {
+						"x": 1845,
+						"y": 202,
+						"w": 80,
+						"h": 235
+					}
+				},
+				{
+					"filename": "beach/bluefortsnowman",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 224
+					},
+					"frame": {
+						"x": 1745,
+						"y": 1065,
+						"w": 132,
+						"h": 224
+					}
+				},
+				{
+					"filename": "beach/redfort14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 257
+					},
+					"frame": {
+						"x": 1252,
+						"y": 1349,
+						"w": 104,
+						"h": 257
+					}
+				},
+				{
+					"filename": "beach/bluefort",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 207
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1282,
+						"w": 182,
+						"h": 207
+					}
+				},
+				{
+					"filename": "beach/redfort11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 181
+					},
+					"frame": {
+						"x": 1542,
+						"y": 1282,
+						"w": 161,
+						"h": 181
+					}
+				},
+				{
+					"filename": "beach/bluefort5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 166
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1291,
+						"w": 169,
+						"h": 166
+					}
+				},
+				{
+					"filename": "beach/redfort3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 123
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1491,
+						"w": 176,
+						"h": 123
+					}
+				},
+				{
+					"filename": "beach/redfort15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 254
+					},
+					"frame": {
+						"x": 1015,
+						"y": 1713,
+						"w": 109,
+						"h": 254
+					}
+				},
+				{
+					"filename": "beach/redfortsnowman",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 223
+					},
+					"frame": {
+						"x": 1126,
+						"y": 1679,
+						"w": 132,
+						"h": 223
+					}
+				},
+				{
+					"filename": "beach/redfort5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 89,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 89,
+						"h": 235
+					},
+					"frame": {
+						"x": 1260,
+						"y": 1608,
+						"w": 89,
+						"h": 235
+					}
+				},
+				{
+					"filename": "beach/redfort13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 223
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1616,
+						"w": 115,
+						"h": 223
+					}
+				},
+				{
+					"filename": "beach/redfortstairs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 227
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 227
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1616,
+						"w": 88,
+						"h": 227
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 91,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1975,
+						"w": 91,
+						"h": 60
+					}
+				},
+				{
+					"filename": "beach/lighthouse/door_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 18,
+						"w": 82,
+						"h": 162
+					},
+					"frame": {
+						"x": 1845,
+						"y": 439,
+						"w": 82,
+						"h": 162
+					}
+				},
+				{
+					"filename": "beach/lighthouse/door_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 18,
+						"w": 81,
+						"h": 155
+					},
+					"frame": {
+						"x": 1845,
+						"y": 603,
+						"w": 81,
+						"h": 155
+					}
+				},
+				{
+					"filename": "beach/buoy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 144
+					},
+					"frame": {
+						"x": 1845,
+						"y": 760,
+						"w": 82,
+						"h": 144
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 3,
+						"w": 81,
+						"h": 60
+					},
+					"frame": {
+						"x": 94,
+						"y": 1975,
+						"w": 81,
+						"h": 60
+					}
+				},
+				{
+					"filename": "beach/redflag/polered",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 183
+					},
+					"frame": {
+						"x": 418,
+						"y": 1764,
+						"w": 30,
+						"h": 183
+					}
+				},
+				{
+					"filename": "beach/redfort2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 194
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 194
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1841,
+						"w": 102,
+						"h": 194
+					}
+				},
+				{
+					"filename": "beach/redfort6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 186
+					},
+					"frame": {
+						"x": 1455,
+						"y": 1845,
+						"w": 102,
+						"h": 186
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 86,
+						"h": 59
+					},
+					"frame": {
+						"x": 1845,
+						"y": 906,
+						"w": 86,
+						"h": 59
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 89,
+						"h": 54
+					},
+					"frame": {
+						"x": 1260,
+						"y": 1845,
+						"w": 89,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/layerfort",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 66
+					},
+					"frame": {
+						"x": 1126,
+						"y": 1904,
+						"w": 134,
+						"h": 66
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 87,
+						"h": 61
+					},
+					"frame": {
+						"x": 1262,
+						"y": 1901,
+						"w": 87,
+						"h": 61
+					}
+				},
+				{
+					"filename": "beach/redfort1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 202
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1465,
+						"w": 122,
+						"h": 202
+					}
+				},
+				{
+					"filename": "beach/redfort4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 202
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1465,
+						"w": 122,
+						"h": 202
+					}
+				},
+				{
+					"filename": "beach/bluefort4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 166
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1669,
+						"w": 147,
+						"h": 166
+					}
+				},
+				{
+					"filename": "beach/lighthouse/door0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 180
+					},
+					"frame": {
+						"x": 1559,
+						"y": 1837,
+						"w": 122,
+						"h": 180
+					}
+				},
+				{
+					"filename": "beach/bluefort3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 186
+					},
+					"frame": {
+						"x": 1682,
+						"y": 1465,
+						"w": 90,
+						"h": 186
+					}
+				},
+				{
+					"filename": "beach/redfort7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 165
+					},
+					"frame": {
+						"x": 1774,
+						"y": 1459,
+						"w": 116,
+						"h": 165
+					}
+				},
+				{
+					"filename": "beach/redfort9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 165
+					},
+					"frame": {
+						"x": 1774,
+						"y": 1459,
+						"w": 116,
+						"h": 165
+					}
+				},
+				{
+					"filename": "beach/flags/pole",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 136
+					},
+					"frame": {
+						"x": 450,
+						"y": 1764,
+						"w": 30,
+						"h": 136
+					}
+				},
+				{
+					"filename": "beach/box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 107
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1653,
+						"w": 78,
+						"h": 107
+					}
+				},
+				{
+					"filename": "beach/redfort10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 103
+					},
+					"frame": {
+						"x": 1787,
+						"y": 1626,
+						"w": 90,
+						"h": 103
+					}
+				},
+				{
+					"filename": "beach/redfort8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 103
+					},
+					"frame": {
+						"x": 1787,
+						"y": 1626,
+						"w": 90,
+						"h": 103
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 87,
+						"h": 57
+					},
+					"frame": {
+						"x": 1262,
+						"y": 1964,
+						"w": 87,
+						"h": 57
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 92,
+						"h": 57
+					},
+					"frame": {
+						"x": 177,
+						"y": 1975,
+						"w": 92,
+						"h": 57
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 83,
+						"h": 65
+					},
+					"frame": {
+						"x": 1845,
+						"y": 967,
+						"w": 83,
+						"h": 65
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 90,
+						"h": 56
+					},
+					"frame": {
+						"x": 271,
+						"y": 1975,
+						"w": 90,
+						"h": 56
+					}
+				},
+				{
+					"filename": "beach/banister",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 69
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1762,
+						"w": 75,
+						"h": 69
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 90,
+						"h": 62
+					},
+					"frame": {
+						"x": 1787,
+						"y": 1731,
+						"w": 90,
+						"h": 62
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 90,
+						"h": 56
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1795,
+						"w": 90,
+						"h": 56
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 85,
+						"h": 59
+					},
+					"frame": {
+						"x": 363,
+						"y": 1975,
+						"w": 85,
+						"h": 59
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 1,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 450,
+						"y": 1972,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 535,
+						"y": 1972,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 81,
+						"h": 63
+					},
+					"frame": {
+						"x": 620,
+						"y": 1972,
+						"w": 81,
+						"h": 63
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 80,
+						"h": 63
+					},
+					"frame": {
+						"x": 703,
+						"y": 1972,
+						"w": 80,
+						"h": 63
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 78,
+						"h": 63
+					},
+					"frame": {
+						"x": 785,
+						"y": 1972,
+						"w": 78,
+						"h": 63
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 77,
+						"h": 63
+					},
+					"frame": {
+						"x": 865,
+						"y": 1972,
+						"w": 77,
+						"h": 63
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 87,
+						"h": 52
+					},
+					"frame": {
+						"x": 482,
+						"y": 1882,
+						"w": 87,
+						"h": 52
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 87,
+						"h": 57
+					},
+					"frame": {
+						"x": 571,
+						"y": 1882,
+						"w": 87,
+						"h": 57
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 85,
+						"h": 58
+					},
+					"frame": {
+						"x": 660,
+						"y": 1882,
+						"w": 85,
+						"h": 58
+					}
+				},
+				{
+					"filename": "beach/redfortcorner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 38
+					},
+					"frame": {
+						"x": 1879,
+						"y": 1034,
+						"w": 52,
+						"h": 38
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 80,
+						"h": 65
+					},
+					"frame": {
+						"x": 1683,
+						"y": 1837,
+						"w": 80,
+						"h": 65
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 84,
+						"h": 64
+					},
+					"frame": {
+						"x": 1683,
+						"y": 1904,
+						"w": 84,
+						"h": 64
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 79,
+						"h": 65
+					},
+					"frame": {
+						"x": 1683,
+						"y": 1970,
+						"w": 79,
+						"h": 65
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 84,
+						"h": 61
+					},
+					"frame": {
+						"x": 1769,
+						"y": 1853,
+						"w": 84,
+						"h": 61
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 87,
+						"h": 54
+					},
+					"frame": {
+						"x": 1769,
+						"y": 1916,
+						"w": 87,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 85,
+						"h": 55
+					},
+					"frame": {
+						"x": 1764,
+						"y": 1972,
+						"w": 85,
+						"h": 55
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 83,
+						"h": 54
+					},
+					"frame": {
+						"x": 944,
+						"y": 1969,
+						"w": 83,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/redflag/redflag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 78,
+						"h": 56
+					},
+					"frame": {
+						"x": 1029,
+						"y": 1969,
+						"w": 78,
+						"h": 56
+					}
+				},
+				{
+					"filename": "beach/flags/blueflag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 3,
+						"w": 77,
+						"h": 55
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1972,
+						"w": 77,
+						"h": 55
+					}
+				}
+			]
+		},
+		{
+			"image": "beach@4x-1.png?h=33264c7bd8",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1725,
+				"h": 1112
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beach/sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1723,
+						"h": 1127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 1723,
+						"h": 1110
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1723,
+						"h": 1110
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0970b81306d64cd2c38420b707a089e3:13ee40a04aea03010fb66c07e93bc576:ec03d3ad44624cba49e211669f580ebc$"
+	}
+}

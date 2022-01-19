@@ -1,0 +1,959 @@
+{
+    "anims": [
+        {
+            "key": "berg/tree/tree",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0150",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0151",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0152",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0153",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0154",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0155",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0156",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/tree/tree0157",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,1527 @@
+{
+    "anims": [
+        {
+            "key": "cave/bottles/bottles",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0150",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0151",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0152",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0153",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0154",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0155",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0156",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0157",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0158",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0159",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles/bottles0160",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cave/bottles2/bottles",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cave@4x",
+                    "frame": "cave/bottles2/bottles20090",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
