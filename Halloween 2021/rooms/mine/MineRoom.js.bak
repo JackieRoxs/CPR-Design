@@ -188,7 +188,7 @@ class MineRoom extends RoomScene {
         const _0x1e7ef4 = new DoorComponent(_0x200f14);
         _0x1e7ef4['waddleX'] = -0xc06 + -0x1e * -0x3e + -0x107 * -0x5, _0x1e7ef4['waddleY'] = 0x1925 * 0x1 + -0x185c * 0x1 + 0x1f5, _0x1e7ef4['mouseOverFrame'] = '', _0x1e7ef4['mouseOutFrame'] = '', _0x1e7ef4['room'] = '', _0x1e7ef4['triggerId'] = '', _0x1e7ef4['doorPixelPerfect'] = !![], this['transformVampire']();
         const _0x42b307 = new PlayAnimationPointer(_0x200f14);
-        _0x42b307['mouseOverKey'] = 'mine/vamp_open1', _0x42b307['mouseOutKey'] = _0x3b7cbd['oAdBt'], _0x42b307['useHandCursor'] = !![], _0x42b307['usePixelPerfect'] = !![], _0x42b307['preventPlayerMove'] = !![];
+        _0x42b307['mouseOverKey'] = 'mine/vamp_open1', _0x42b307['mouseOutKey'] = _0x3b7cbd['oAdBt'], _0x42b307['useHandCursor'] = !![], _0x42b307['usePixelPerfect'] = !![], _0x42b307['preventPlayerMove'] = !![], this['transformVampire']();
         const _0x1efc28 = new DoorComponent(_0x70e6e7);
         _0x1efc28['waddleX'] = -0x1 * -0xdff + 0x2 * 0x577 + -0xc5f * 0x2, _0x1efc28['waddleY'] = 0x15 * 0x133 + 0x1f4f + 0x8ee * -0x6, _0x1efc28['mouseOverFrame'] = '', _0x1efc28['mouseOutFrame'] = '', _0x1efc28['triggerId'] = 'vampire', _0x1efc28['doorPixelPerfect'] = !![], _0x1efc28['triggerCallback'] = () => this['transformVampire']();
         const _0x376043 = new PlayAnimationPointer(_0x70e6e7);
