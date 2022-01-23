@@ -205,7 +205,10 @@ class MineRoom extends RoomScene {
             !this['phone']['anims']['isPlaying'] && (clientUtils['addPlaySound'](this, _0x274f92['GgGqN']), this['phone']['play'](_0x274f92['SFOGI']));
         });
     } ['transformVampire']() {
-		this['cpworld']['player']['prefab']['transformationManager']['setTransformation']("frost", !![]);
+        const _0x5e0828 = {};
+        _0x5e0828['vbIJa'] = 'v_page8', _0x5e0828['nbSCc'] = 'v_page7', _0x5e0828['rRjoi'] = 'transformation_loaded';
+        const _0x3e476c = _0x5e0828;
+        const _0x4ac2d7 = 'frost' + mathUtils['randomInt'](-0x2051 + -0x2544 + 0x22cb * 0x2, -0x22a8 * 0x1 + -0x1fcb + -0x213b * -0x2);
 		this['cpworld']['player']['prefab']['transformationManager']['setTransformation']("frost", !![]);
     }
 }
