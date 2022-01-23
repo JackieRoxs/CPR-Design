@@ -209,12 +209,6 @@ class MineRoom extends RoomScene {
         _0x5e0828['vbIJa'] = 'v_page8', _0x5e0828['nbSCc'] = 'v_page7', _0x5e0828['rRjoi'] = 'transformation_loaded';
         const _0x3e476c = _0x5e0828;
         const _0x4ac2d7 = 'frost' + mathUtils['randomInt'](-0x2051 + -0x2544 + 0x22cb * 0x2, -0x22a8 * 0x1 + -0x1fcb + -0x213b * -0x2);
-        this['cpworld']['player']['prefab']['setDisabledMode'](!![]), this['cpworld']['player']['events']['once'](_0x3e476c['rRjoi'], () => {
-            this['cpworld']['player']['prefab']['setDisabledMode'](![]), this['cpworld']['player']['prefab']['movePlayer'](-0x1 * -0x219e + 0x439 * -0x2 + -0x17eb, 0x1caf * -0x1 + 0x92e + 0x26 * 0x97, ![]);
-        }, this), setTimeout(() => {
-            this['cpworld']['player']['prefab']['setDisabledMode'](![]);
-        }, -0x90e + -0x1d7c + 0x7 * 0x72e), this['cpworld']['player']['prefab']['transformationManager']['setTransformation'](_0x4ac2d7, !![])
-            this['cpworld']['player']['prefab']['setDisabledMode'](![]);
-            const _0x3b8163 = {};
+		this['cpworld']['player']['prefab']['transformationManager']['setTransformation'](_0x4ac2d7, !![]);
     }
 }
