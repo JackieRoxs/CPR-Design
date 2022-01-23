@@ -1,0 +1,2603 @@
+{
+	"textures": [
+		{
+			"image": "pizza@4x-0.png?h=6412754459",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1994,
+				"h": 2047
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pizza/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1551,
+						"h": 965
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1551,
+						"h": 965
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1551,
+						"h": 965
+					}
+				},
+				{
+					"filename": "pizza/cook",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 376,
+						"h": 929
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 376,
+						"h": 929
+					},
+					"frame": {
+						"x": 1,
+						"y": 968,
+						"w": 376,
+						"h": 929
+					}
+				},
+				{
+					"filename": "pizza/oven1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 245,
+						"h": 854
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 854
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1,
+						"w": 245,
+						"h": 854
+					}
+				},
+				{
+					"filename": "pizza/thing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 590,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 590,
+						"h": 228
+					},
+					"frame": {
+						"x": 379,
+						"y": 968,
+						"w": 590,
+						"h": 228
+					}
+				},
+				{
+					"filename": "pizza/curtain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 445
+					},
+					"frame": {
+						"x": 379,
+						"y": 1198,
+						"w": 239,
+						"h": 445
+					}
+				},
+				{
+					"filename": "pizza/spotlight_beam",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 299,
+						"h": 470
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 282,
+						"h": 385
+					},
+					"frame": {
+						"x": 620,
+						"y": 1198,
+						"w": 282,
+						"h": 385
+					}
+				},
+				{
+					"filename": "pizza/oven2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 413
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 413
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1,
+						"w": 154,
+						"h": 413
+					}
+				},
+				{
+					"filename": "pizza/desk",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 364,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 364,
+						"h": 202
+					},
+					"frame": {
+						"x": 971,
+						"y": 968,
+						"w": 364,
+						"h": 202
+					}
+				},
+				{
+					"filename": "pizza/piano",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 278
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 278
+					},
+					"frame": {
+						"x": 379,
+						"y": 1645,
+						"w": 300,
+						"h": 278
+					}
+				},
+				{
+					"filename": "pizza/plaza0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 272,
+						"h": 360
+					},
+					"frame": {
+						"x": 681,
+						"y": 1585,
+						"w": 272,
+						"h": 360
+					}
+				},
+				{
+					"filename": "pizza/pizzatron_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 340
+					},
+					"frame": {
+						"x": 1801,
+						"y": 416,
+						"w": 128,
+						"h": 340
+					}
+				},
+				{
+					"filename": "pizza/plaza0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 272,
+						"h": 360
+					},
+					"frame": {
+						"x": 904,
+						"y": 1198,
+						"w": 272,
+						"h": 360
+					}
+				},
+				{
+					"filename": "pizza/plaza0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 272,
+						"h": 360
+					},
+					"frame": {
+						"x": 904,
+						"y": 1198,
+						"w": 272,
+						"h": 360
+					}
+				},
+				{
+					"filename": "pizza/plaza0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 14,
+						"w": 248,
+						"h": 354
+					},
+					"frame": {
+						"x": 955,
+						"y": 1560,
+						"w": 248,
+						"h": 354
+					}
+				},
+				{
+					"filename": "pizza/pizzatron_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 117,
+						"h": 348
+					},
+					"frame": {
+						"x": 1178,
+						"y": 1172,
+						"w": 117,
+						"h": 348
+					}
+				},
+				{
+					"filename": "pizza/beans",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 251,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 251,
+						"h": 187
+					},
+					"frame": {
+						"x": 1337,
+						"y": 968,
+						"w": 251,
+						"h": 187
+					}
+				},
+				{
+					"filename": "pizza/kitchen_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 38,
+						"w": 243,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 1899,
+						"w": 243,
+						"h": 122
+					}
+				},
+				{
+					"filename": "pizza/kitchen_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 38,
+						"w": 243,
+						"h": 122
+					},
+					"frame": {
+						"x": 955,
+						"y": 1916,
+						"w": 243,
+						"h": 122
+					}
+				},
+				{
+					"filename": "pizza/spotlight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 217
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 217
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1522,
+						"w": 142,
+						"h": 217
+					}
+				},
+				{
+					"filename": "pizza/menu1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 190
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1741,
+						"w": 133,
+						"h": 190
+					}
+				},
+				{
+					"filename": "pizza/kitchen_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 38,
+						"w": 243,
+						"h": 122
+					},
+					"frame": {
+						"x": 1337,
+						"y": 1157,
+						"w": 243,
+						"h": 122
+					}
+				},
+				{
+					"filename": "pizza/kitchen_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 38,
+						"w": 243,
+						"h": 122
+					},
+					"frame": {
+						"x": 1297,
+						"y": 1281,
+						"w": 243,
+						"h": 122
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 34,
+						"w": 116,
+						"h": 143
+					},
+					"frame": {
+						"x": 246,
+						"y": 1899,
+						"w": 116,
+						"h": 143
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 34,
+						"w": 116,
+						"h": 143
+					},
+					"frame": {
+						"x": 246,
+						"y": 1899,
+						"w": 116,
+						"h": 143
+					}
+				},
+				{
+					"filename": "pizza/plant",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 146,
+						"h": 151
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 146,
+						"h": 151
+					},
+					"frame": {
+						"x": 1801,
+						"y": 758,
+						"w": 146,
+						"h": 151
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 22,
+						"w": 112,
+						"h": 112
+					},
+					"frame": {
+						"x": 1297,
+						"y": 1405,
+						"w": 112,
+						"h": 112
+					}
+				},
+				{
+					"filename": "pizza/menu2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 206
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1519,
+						"w": 106,
+						"h": 206
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 29,
+						"w": 112,
+						"h": 105
+					},
+					"frame": {
+						"x": 1554,
+						"y": 857,
+						"w": 112,
+						"h": 105
+					}
+				},
+				{
+					"filename": "pizza/chair1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 180
+					},
+					"frame": {
+						"x": 1590,
+						"y": 964,
+						"w": 118,
+						"h": 180
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 20,
+						"w": 106,
+						"h": 105
+					},
+					"frame": {
+						"x": 1668,
+						"y": 857,
+						"w": 106,
+						"h": 105
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 30,
+						"w": 112,
+						"h": 104
+					},
+					"frame": {
+						"x": 1411,
+						"y": 1405,
+						"w": 112,
+						"h": 104
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 112,
+						"h": 116
+					},
+					"frame": {
+						"x": 364,
+						"y": 1925,
+						"w": 112,
+						"h": 116
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 11,
+						"w": 106,
+						"h": 114
+					},
+					"frame": {
+						"x": 478,
+						"y": 1925,
+						"w": 106,
+						"h": 114
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 586,
+						"y": 1947,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 20,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 700,
+						"y": 1947,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 814,
+						"y": 1947,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 144
+					},
+					"frame": {
+						"x": 1710,
+						"y": 964,
+						"w": 169,
+						"h": 144
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1881,
+						"y": 911,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1881,
+						"y": 1012,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 33,
+						"w": 110,
+						"h": 101
+					},
+					"frame": {
+						"x": 1200,
+						"y": 1933,
+						"w": 110,
+						"h": 101
+					}
+				},
+				{
+					"filename": "pizza/34432",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 33,
+						"w": 163,
+						"h": 125
+					},
+					"frame": {
+						"x": 1710,
+						"y": 1110,
+						"w": 163,
+						"h": 125
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 42,
+						"w": 115,
+						"h": 134
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1113,
+						"w": 115,
+						"h": 134
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 42,
+						"w": 115,
+						"h": 134
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1113,
+						"w": 115,
+						"h": 134
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 39,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1457,
+						"y": 1511,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 39,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1457,
+						"y": 1511,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 38,
+						"w": 114,
+						"h": 96
+					},
+					"frame": {
+						"x": 1457,
+						"y": 1649,
+						"w": 114,
+						"h": 96
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 30,
+						"w": 104,
+						"h": 104
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1405,
+						"w": 104,
+						"h": 104
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 39,
+						"w": 108,
+						"h": 135
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1511,
+						"w": 108,
+						"h": 135
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 39,
+						"w": 108,
+						"h": 135
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1511,
+						"w": 108,
+						"h": 135
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 44,
+						"w": 113,
+						"h": 132
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1648,
+						"w": 113,
+						"h": 132
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 44,
+						"w": 113,
+						"h": 132
+					},
+					"frame": {
+						"x": 1573,
+						"y": 1648,
+						"w": 113,
+						"h": 132
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 54,
+						"w": 101,
+						"h": 120
+					},
+					"frame": {
+						"x": 1542,
+						"y": 1281,
+						"w": 101,
+						"h": 120
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 54,
+						"w": 101,
+						"h": 120
+					},
+					"frame": {
+						"x": 1542,
+						"y": 1281,
+						"w": 101,
+						"h": 120
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 44,
+						"w": 109,
+						"h": 131
+					},
+					"frame": {
+						"x": 1340,
+						"y": 1741,
+						"w": 109,
+						"h": 131
+					}
+				},
+				{
+					"filename": "pizza/candle/candle_fire_6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 44,
+						"w": 109,
+						"h": 131
+					},
+					"frame": {
+						"x": 1340,
+						"y": 1741,
+						"w": 109,
+						"h": 131
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 108,
+						"h": 127
+					},
+					"frame": {
+						"x": 1451,
+						"y": 1747,
+						"w": 108,
+						"h": 127
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 46,
+						"w": 122,
+						"h": 88
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1782,
+						"w": 122,
+						"h": 88
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 31,
+						"w": 108,
+						"h": 103
+					},
+					"frame": {
+						"x": 1340,
+						"y": 1874,
+						"w": 108,
+						"h": 103
+					}
+				},
+				{
+					"filename": "pizza/piano_chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 67
+					},
+					"frame": {
+						"x": 1312,
+						"y": 1979,
+						"w": 97,
+						"h": 67
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 33,
+						"w": 110,
+						"h": 101
+					},
+					"frame": {
+						"x": 1450,
+						"y": 1876,
+						"w": 110,
+						"h": 101
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 33,
+						"w": 110,
+						"h": 101
+					},
+					"frame": {
+						"x": 1562,
+						"y": 1872,
+						"w": 110,
+						"h": 101
+					}
+				},
+				{
+					"filename": "pizza/book/book_0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 64
+					},
+					"frame": {
+						"x": 1411,
+						"y": 1979,
+						"w": 134,
+						"h": 64
+					}
+				},
+				{
+					"filename": "pizza/book/book_0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 64
+					},
+					"frame": {
+						"x": 1411,
+						"y": 1979,
+						"w": 134,
+						"h": 64
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 40,
+						"w": 116,
+						"h": 94
+					},
+					"frame": {
+						"x": 1590,
+						"y": 1146,
+						"w": 116,
+						"h": 94
+					}
+				},
+				{
+					"filename": "pizza/book/book_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 134,
+						"h": 34
+					},
+					"frame": {
+						"x": 1582,
+						"y": 1242,
+						"w": 134,
+						"h": 34
+					}
+				},
+				{
+					"filename": "pizza/book/book_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 134,
+						"h": 34
+					},
+					"frame": {
+						"x": 1582,
+						"y": 1242,
+						"w": 134,
+						"h": 34
+					}
+				},
+				{
+					"filename": "pizza/book/book_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 134,
+						"h": 34
+					},
+					"frame": {
+						"x": 1582,
+						"y": 1242,
+						"w": 134,
+						"h": 34
+					}
+				},
+				{
+					"filename": "pizza/book/book_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 134,
+						"h": 34
+					},
+					"frame": {
+						"x": 1582,
+						"y": 1242,
+						"w": 134,
+						"h": 34
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 104,
+						"h": 125
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1278,
+						"w": 104,
+						"h": 125
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 33,
+						"w": 110,
+						"h": 101
+					},
+					"frame": {
+						"x": 1631,
+						"y": 1405,
+						"w": 110,
+						"h": 101
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 46,
+						"w": 122,
+						"h": 88
+					},
+					"frame": {
+						"x": 1751,
+						"y": 1237,
+						"w": 122,
+						"h": 88
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 49,
+						"w": 122,
+						"h": 85
+					},
+					"frame": {
+						"x": 1751,
+						"y": 1327,
+						"w": 122,
+						"h": 85
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 31,
+						"w": 108,
+						"h": 103
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1249,
+						"w": 108,
+						"h": 103
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 40,
+						"w": 116,
+						"h": 94
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1414,
+						"w": 116,
+						"h": 94
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 40,
+						"w": 114,
+						"h": 94
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1354,
+						"w": 114,
+						"h": 94
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 49,
+						"w": 122,
+						"h": 85
+					},
+					"frame": {
+						"x": 1861,
+						"y": 1450,
+						"w": 122,
+						"h": 85
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1683,
+						"y": 1510,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 25,
+						"w": 108,
+						"h": 102
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1611,
+						"w": 108,
+						"h": 102
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1715,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1715,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/book/book_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 134,
+						"h": 63
+					},
+					"frame": {
+						"x": 1685,
+						"y": 1816,
+						"w": 134,
+						"h": 63
+					}
+				},
+				{
+					"filename": "pizza/book/book_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 134,
+						"h": 63
+					},
+					"frame": {
+						"x": 1685,
+						"y": 1816,
+						"w": 134,
+						"h": 63
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 35,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1881,
+						"w": 112,
+						"h": 99
+					}
+				},
+				{
+					"filename": "pizza/book/book_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 134,
+						"h": 60
+					},
+					"frame": {
+						"x": 1797,
+						"y": 1537,
+						"w": 134,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pizza/book/book_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 134,
+						"h": 60
+					},
+					"frame": {
+						"x": 1797,
+						"y": 1537,
+						"w": 134,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 20,
+						"w": 98,
+						"h": 110
+					},
+					"frame": {
+						"x": 1798,
+						"y": 1599,
+						"w": 98,
+						"h": 110
+					}
+				},
+				{
+					"filename": "pizza/candle/candle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 97
+					},
+					"frame": {
+						"x": 1802,
+						"y": 1711,
+						"w": 71,
+						"h": 97
+					}
+				},
+				{
+					"filename": "pizza/cash/cash_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 20,
+						"w": 98,
+						"h": 110
+					},
+					"frame": {
+						"x": 1788,
+						"y": 1881,
+						"w": 98,
+						"h": 110
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1599,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1599,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1675,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1675,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1751,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1751,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "pizza/book/book_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 134,
+						"h": 47
+					},
+					"frame": {
+						"x": 1821,
+						"y": 1827,
+						"w": 134,
+						"h": 47
+					}
+				},
+				{
+					"filename": "pizza/book/book_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 134,
+						"h": 47
+					},
+					"frame": {
+						"x": 1821,
+						"y": 1827,
+						"w": 134,
+						"h": 47
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 73
+					},
+					"frame": {
+						"x": 1888,
+						"y": 1876,
+						"w": 82,
+						"h": 73
+					}
+				},
+				{
+					"filename": "pizza/fire/fire_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 73
+					},
+					"frame": {
+						"x": 1888,
+						"y": 1876,
+						"w": 82,
+						"h": 73
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 41
+					},
+					"frame": {
+						"x": 620,
+						"y": 1585,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 41
+					},
+					"frame": {
+						"x": 1933,
+						"y": 1537,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 41
+					},
+					"frame": {
+						"x": 1888,
+						"y": 1951,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 41
+					},
+					"frame": {
+						"x": 1936,
+						"y": 1951,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 46,
+						"h": 40
+					},
+					"frame": {
+						"x": 1931,
+						"y": 416,
+						"w": 46,
+						"h": 40
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 46,
+						"h": 39
+					},
+					"frame": {
+						"x": 1931,
+						"y": 458,
+						"w": 46,
+						"h": 39
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 46,
+						"h": 39
+					},
+					"frame": {
+						"x": 1931,
+						"y": 458,
+						"w": 46,
+						"h": 39
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 46,
+						"h": 39
+					},
+					"frame": {
+						"x": 1931,
+						"y": 499,
+						"w": 46,
+						"h": 39
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 46,
+						"h": 39
+					},
+					"frame": {
+						"x": 1931,
+						"y": 540,
+						"w": 46,
+						"h": 39
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 46,
+						"h": 39
+					},
+					"frame": {
+						"x": 1931,
+						"y": 581,
+						"w": 46,
+						"h": 39
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 46,
+						"h": 38
+					},
+					"frame": {
+						"x": 1931,
+						"y": 622,
+						"w": 46,
+						"h": 38
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 46,
+						"h": 37
+					},
+					"frame": {
+						"x": 1931,
+						"y": 662,
+						"w": 46,
+						"h": 37
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 46,
+						"h": 37
+					},
+					"frame": {
+						"x": 1931,
+						"y": 701,
+						"w": 46,
+						"h": 37
+					}
+				},
+				{
+					"filename": "pizza/plate/plate_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 46,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 46,
+						"h": 37
+					},
+					"frame": {
+						"x": 1776,
+						"y": 911,
+						"w": 46,
+						"h": 37
+					}
+				},
+				{
+					"filename": "pizza/book/book_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 134,
+						"h": 46
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1982,
+						"w": 134,
+						"h": 46
+					}
+				},
+				{
+					"filename": "pizza/book/book_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 134,
+						"h": 46
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1982,
+						"w": 134,
+						"h": 46
+					}
+				},
+				{
+					"filename": "pizza/book/book_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 134,
+						"h": 34
+					},
+					"frame": {
+						"x": 1683,
+						"y": 1993,
+						"w": 134,
+						"h": 34
+					}
+				},
+				{
+					"filename": "pizza/book/book_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 134,
+						"h": 34
+					},
+					"frame": {
+						"x": 1683,
+						"y": 1993,
+						"w": 134,
+						"h": 34
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:009ffeee1a795c7013b173918d51284f:5a27ddb81d9948560ec76d0b0eb408bd:67728a3b4e255bb559084b4fdd45d43c$"
+	}
+}

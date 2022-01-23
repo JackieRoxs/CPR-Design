@@ -1,0 +1,1741 @@
+{
+    "anims": [
+        {
+            "key": "party2_ice1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_ice2",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_ice3",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_ice4",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_ice5",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_ice6",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_ice7",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_ice8",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/1/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice2",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/2/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice3",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/3/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice4",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/4/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice5",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/5/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice6",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/6/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice7",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/7/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_openice8",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/bar/8/1_0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party2_open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party2@4x",
+                    "frame": "party2/puzzle/open/open_0058",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

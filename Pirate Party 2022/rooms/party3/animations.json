@@ -1,0 +1,2798 @@
+{
+    "anims": [
+        {
+            "key": "party3/party3/british/tea",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/british/tea0035",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/cannon/cannon",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/cannon/cannon0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/leftcannon/leftcannon",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannon/leftcannon0032",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/leftcannonsnow/cannonball_left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/leftcannonsnow/cannonball_left0034",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/rightcannonsnow/cannonball_right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/rightcannonsnow/cannonball_right0034",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/ammo/refill",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/ammo/refill0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/refilling/refilling",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/refilling/refilling0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "yoyo": true
+        },
+        {
+            "key": "party3/party3/flow/waterflow",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/flow/waterflow0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/mainwater/mainwater",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainwater/mainwater0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "party3/party3/mainfish/mainfish",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/mainfish/mainfish0065",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "hideOnComplete": true
+        },
+        {
+            "key": "party3/party3/littlesnowballs/littlesnowballs",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/littlesnowballs/littlesnowballs0028",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "hideOnComplete": true
+        },
+        {
+            "key": "party3/party3/timer/timer",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0150",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0151",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0152",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0153",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0154",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0155",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0156",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0157",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0158",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0159",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0160",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0161",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0162",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0163",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0164",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0165",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0166",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0167",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0168",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0169",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0170",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0171",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0172",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0173",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0174",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0175",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0176",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0177",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0178",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0179",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0180",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0181",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0182",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0183",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0184",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0185",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0186",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0187",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0188",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party3@4x",
+                    "frame": "party3/party3/timer/timer0189",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "repeatDelay": 100
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

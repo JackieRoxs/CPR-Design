@@ -1,0 +1,2194 @@
+{
+	"textures": [
+		{
+			"image": "fort-0.png?h=2899dd2a0e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2038,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fort/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1832,
+						"h": 1164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1832,
+						"h": 1164
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1832,
+						"h": 1164
+					}
+				},
+				{
+					"filename": "fort/sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1622,
+						"h": 542
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 84,
+						"w": 1622,
+						"h": 412
+					},
+					"frame": {
+						"x": 1,
+						"y": 1167,
+						"w": 1622,
+						"h": 412
+					}
+				},
+				{
+					"filename": "fort/blueflag/base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 259,
+						"h": 354
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 259,
+						"h": 354
+					},
+					"frame": {
+						"x": 1625,
+						"y": 1167,
+						"w": 259,
+						"h": 354
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 253,
+						"h": 352
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 253,
+						"h": 352
+					},
+					"frame": {
+						"x": 1625,
+						"y": 1523,
+						"w": 253,
+						"h": 352
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1523,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1523,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1523,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1523,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1680,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1680,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1837,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1837,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1837,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1837,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1835,
+						"y": 1,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1835,
+						"y": 1,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 155
+					},
+					"frame": {
+						"x": 1835,
+						"y": 1,
+						"w": 116,
+						"h": 155
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 158,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 158,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 158,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 158,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 158,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 314,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 314,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 314,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 470,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 470,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 470,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 470,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 626,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 116,
+						"h": 154
+					},
+					"frame": {
+						"x": 1835,
+						"y": 626,
+						"w": 116,
+						"h": 154
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 116,
+						"h": 153
+					},
+					"frame": {
+						"x": 1835,
+						"y": 782,
+						"w": 116,
+						"h": 153
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 116,
+						"h": 153
+					},
+					"frame": {
+						"x": 1835,
+						"y": 782,
+						"w": 116,
+						"h": 153
+					}
+				},
+				{
+					"filename": "fort/smallboat/smallboat0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 116,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 116,
+						"h": 153
+					},
+					"frame": {
+						"x": 1835,
+						"y": 782,
+						"w": 116,
+						"h": 153
+					}
+				},
+				{
+					"filename": "fort/chestopen",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 152
+					},
+					"frame": {
+						"x": 1835,
+						"y": 937,
+						"w": 178,
+						"h": 152
+					}
+				},
+				{
+					"filename": "fort/timetxt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 56
+					},
+					"frame": {
+						"x": 1835,
+						"y": 1091,
+						"w": 154,
+						"h": 56
+					}
+				},
+				{
+					"filename": "fort/chestclose",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 135
+					},
+					"frame": {
+						"x": 1886,
+						"y": 1149,
+						"w": 115,
+						"h": 135
+					}
+				},
+				{
+					"filename": "fort/leftship3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 122
+					},
+					"frame": {
+						"x": 1886,
+						"y": 1286,
+						"w": 135,
+						"h": 122
+					}
+				},
+				{
+					"filename": "fort/wheel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 106
+					},
+					"frame": {
+						"x": 1886,
+						"y": 1410,
+						"w": 132,
+						"h": 106
+					}
+				},
+				{
+					"filename": "fort/barrel1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 84,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 106
+					},
+					"frame": {
+						"x": 1953,
+						"y": 1,
+						"w": 84,
+						"h": 106
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 73,
+						"h": 67
+					},
+					"frame": {
+						"x": 1953,
+						"y": 109,
+						"w": 73,
+						"h": 67
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 73,
+						"h": 67
+					},
+					"frame": {
+						"x": 1953,
+						"y": 178,
+						"w": 73,
+						"h": 67
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 76,
+						"h": 66
+					},
+					"frame": {
+						"x": 1953,
+						"y": 247,
+						"w": 76,
+						"h": 66
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 74,
+						"h": 66
+					},
+					"frame": {
+						"x": 1953,
+						"y": 315,
+						"w": 74,
+						"h": 66
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 73,
+						"h": 66
+					},
+					"frame": {
+						"x": 1953,
+						"y": 383,
+						"w": 73,
+						"h": 66
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 76,
+						"h": 65
+					},
+					"frame": {
+						"x": 1953,
+						"y": 451,
+						"w": 76,
+						"h": 65
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 76,
+						"h": 65
+					},
+					"frame": {
+						"x": 1953,
+						"y": 518,
+						"w": 76,
+						"h": 65
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 75,
+						"h": 65
+					},
+					"frame": {
+						"x": 1953,
+						"y": 585,
+						"w": 75,
+						"h": 65
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 75,
+						"h": 65
+					},
+					"frame": {
+						"x": 1953,
+						"y": 652,
+						"w": 75,
+						"h": 65
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 74,
+						"h": 65
+					},
+					"frame": {
+						"x": 1953,
+						"y": 719,
+						"w": 74,
+						"h": 65
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 76,
+						"h": 64
+					},
+					"frame": {
+						"x": 1953,
+						"y": 786,
+						"w": 76,
+						"h": 64
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 75,
+						"h": 64
+					},
+					"frame": {
+						"x": 1953,
+						"y": 852,
+						"w": 75,
+						"h": 64
+					}
+				},
+				{
+					"filename": "fort/rightship2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 525,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 525,
+						"h": 219
+					},
+					"frame": {
+						"x": 1,
+						"y": 1581,
+						"w": 525,
+						"h": 219
+					}
+				},
+				{
+					"filename": "fort/deck",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 504,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 504,
+						"h": 247
+					},
+					"frame": {
+						"x": 528,
+						"y": 1581,
+						"w": 504,
+						"h": 247
+					}
+				},
+				{
+					"filename": "fort/leftship2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 434,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 434,
+						"h": 169
+					},
+					"frame": {
+						"x": 1,
+						"y": 1802,
+						"w": 434,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fort/anchor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 89
+					},
+					"frame": {
+						"x": 437,
+						"y": 1802,
+						"w": 87,
+						"h": 89
+					}
+				},
+				{
+					"filename": "fort/rightship1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 327,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 327,
+						"h": 221
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1581,
+						"w": 327,
+						"h": 221
+					}
+				},
+				{
+					"filename": "fort/leftship4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 255,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 255,
+						"h": 274
+					},
+					"frame": {
+						"x": 1363,
+						"y": 1581,
+						"w": 255,
+						"h": 274
+					}
+				},
+				{
+					"filename": "fort/rightship4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 208
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 208
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1804,
+						"w": 277,
+						"h": 208
+					}
+				},
+				{
+					"filename": "fort/bottomleft2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 292,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 292,
+						"h": 184
+					},
+					"frame": {
+						"x": 1313,
+						"y": 1857,
+						"w": 292,
+						"h": 184
+					}
+				},
+				{
+					"filename": "fort/bottomleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 111
+					},
+					"frame": {
+						"x": 1607,
+						"y": 1877,
+						"w": 198,
+						"h": 111
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 60,
+						"h": 56
+					},
+					"frame": {
+						"x": 1807,
+						"y": 1877,
+						"w": 60,
+						"h": 56
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 55
+					},
+					"frame": {
+						"x": 1807,
+						"y": 1935,
+						"w": 63,
+						"h": 55
+					}
+				},
+				{
+					"filename": "fort/rockwater2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 49
+					},
+					"frame": {
+						"x": 1607,
+						"y": 1990,
+						"w": 90,
+						"h": 49
+					}
+				},
+				{
+					"filename": "fort/rockwater",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 43
+					},
+					"frame": {
+						"x": 1699,
+						"y": 1990,
+						"w": 74,
+						"h": 43
+					}
+				},
+				{
+					"filename": "fort/bottle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 31
+					},
+					"frame": {
+						"x": 1775,
+						"y": 1992,
+						"w": 64,
+						"h": 31
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 53
+					},
+					"frame": {
+						"x": 1841,
+						"y": 1994,
+						"w": 62,
+						"h": 53
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 52
+					},
+					"frame": {
+						"x": 1905,
+						"y": 1994,
+						"w": 62,
+						"h": 52
+					}
+				},
+				{
+					"filename": "fort/flowers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 282,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 282,
+						"h": 112
+					},
+					"frame": {
+						"x": 526,
+						"y": 1830,
+						"w": 282,
+						"h": 112
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 165,
+						"h": 144
+					},
+					"frame": {
+						"x": 810,
+						"y": 1830,
+						"w": 165,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fort/blueflag/blue0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 75,
+						"h": 63
+					},
+					"frame": {
+						"x": 437,
+						"y": 1893,
+						"w": 75,
+						"h": 63
+					}
+				},
+				{
+					"filename": "fort/standthings",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 235,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 235,
+						"h": 96
+					},
+					"frame": {
+						"x": 514,
+						"y": 1944,
+						"w": 235,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 55
+					},
+					"frame": {
+						"x": 437,
+						"y": 1958,
+						"w": 62,
+						"h": 55
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 55
+					},
+					"frame": {
+						"x": 751,
+						"y": 1976,
+						"w": 62,
+						"h": 55
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 54
+					},
+					"frame": {
+						"x": 815,
+						"y": 1976,
+						"w": 62,
+						"h": 54
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 62,
+						"h": 54
+					},
+					"frame": {
+						"x": 879,
+						"y": 1976,
+						"w": 62,
+						"h": 54
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 62,
+						"h": 54
+					},
+					"frame": {
+						"x": 943,
+						"y": 1976,
+						"w": 62,
+						"h": 54
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 61,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 1973,
+						"w": 61,
+						"h": 55
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 61,
+						"h": 55
+					},
+					"frame": {
+						"x": 64,
+						"y": 1973,
+						"w": 61,
+						"h": 55
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 61,
+						"h": 54
+					},
+					"frame": {
+						"x": 127,
+						"y": 1973,
+						"w": 61,
+						"h": 54
+					}
+				},
+				{
+					"filename": "fort/rightship_flag/flag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 60,
+						"h": 55
+					},
+					"frame": {
+						"x": 190,
+						"y": 1973,
+						"w": 60,
+						"h": 55
+					}
+				}
+			]
+		},
+		{
+			"image": "fort-1.png?h=2899dd2a0e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 985,
+				"h": 1276
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fort/clock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 689,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 689,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 689,
+						"h": 472
+					}
+				},
+				{
+					"filename": "fort/palmtree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 484,
+						"h": 660
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 484,
+						"h": 660
+					},
+					"frame": {
+						"x": 1,
+						"y": 475,
+						"w": 484,
+						"h": 660
+					}
+				},
+				{
+					"filename": "fort/leftship1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 292,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 292,
+						"h": 298
+					},
+					"frame": {
+						"x": 692,
+						"y": 1,
+						"w": 292,
+						"h": 298
+					}
+				},
+				{
+					"filename": "fort/time_container",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 256
+					},
+					"frame": {
+						"x": 487,
+						"y": 475,
+						"w": 218,
+						"h": 256
+					}
+				},
+				{
+					"filename": "fort/rightship3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 254
+					},
+					"frame": {
+						"x": 487,
+						"y": 733,
+						"w": 250,
+						"h": 254
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 165,
+						"h": 143
+					},
+					"frame": {
+						"x": 692,
+						"y": 301,
+						"w": 165,
+						"h": 143
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 165,
+						"h": 143
+					},
+					"frame": {
+						"x": 487,
+						"y": 989,
+						"w": 165,
+						"h": 143
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 167,
+						"h": 138
+					},
+					"frame": {
+						"x": 1,
+						"y": 1137,
+						"w": 167,
+						"h": 138
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 168,
+						"h": 136
+					},
+					"frame": {
+						"x": 170,
+						"y": 1137,
+						"w": 168,
+						"h": 136
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 167,
+						"h": 136
+					},
+					"frame": {
+						"x": 340,
+						"y": 1137,
+						"w": 167,
+						"h": 136
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 167,
+						"h": 140
+					},
+					"frame": {
+						"x": 509,
+						"y": 1134,
+						"w": 167,
+						"h": 140
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 165,
+						"h": 141
+					},
+					"frame": {
+						"x": 707,
+						"y": 446,
+						"w": 165,
+						"h": 141
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 165,
+						"h": 141
+					},
+					"frame": {
+						"x": 707,
+						"y": 589,
+						"w": 165,
+						"h": 141
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 134
+					},
+					"frame": {
+						"x": 739,
+						"y": 732,
+						"w": 169,
+						"h": 134
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 132
+					},
+					"frame": {
+						"x": 739,
+						"y": 868,
+						"w": 169,
+						"h": 132
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 168,
+						"h": 130
+					},
+					"frame": {
+						"x": 654,
+						"y": 1002,
+						"w": 168,
+						"h": 130
+					}
+				},
+				{
+					"filename": "fort/smallboat_flag/flag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 168,
+						"h": 132
+					},
+					"frame": {
+						"x": 678,
+						"y": 1134,
+						"w": 168,
+						"h": 132
+					}
+				},
+				{
+					"filename": "fort/cannon2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 101
+					},
+					"frame": {
+						"x": 859,
+						"y": 301,
+						"w": 121,
+						"h": 101
+					}
+				},
+				{
+					"filename": "fort/chest",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 109
+					},
+					"frame": {
+						"x": 824,
+						"y": 1002,
+						"w": 126,
+						"h": 109
+					}
+				},
+				{
+					"filename": "fort/flower",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 99
+					},
+					"frame": {
+						"x": 848,
+						"y": 1113,
+						"w": 109,
+						"h": 99
+					}
+				},
+				{
+					"filename": "fort/barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 104
+					},
+					"frame": {
+						"x": 874,
+						"y": 404,
+						"w": 96,
+						"h": 104
+					}
+				},
+				{
+					"filename": "fort/cannon1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 83
+					},
+					"frame": {
+						"x": 874,
+						"y": 510,
+						"w": 98,
+						"h": 83
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:99410e1886f9445b62004648007e89c8:a55233c152b7c09c26e543a38cbad652:4f0b1c3c594e12928c73d383ea9148ac$"
+	}
+}

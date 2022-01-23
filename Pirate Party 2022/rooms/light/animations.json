@@ -1,0 +1,368 @@
+{
+    "anims": [
+        {
+            "key": "light/snowman/snowman",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/snowman/snowman0021",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "light/bigspeaker",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bigspeaker0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "light/bell/bell",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/bell/bell0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "light/cup/shake",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "light@4x",
+                    "frame": "light/cup/shake0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

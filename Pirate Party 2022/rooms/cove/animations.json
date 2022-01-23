@@ -1,0 +1,408 @@
+{
+    "anims": [
+        {
+            "key": "cove/crab/crab",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/crab/crab0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cove/waterfall/bottomline",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/bottomline0016",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cove/waterfall/topline",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/topline0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/topline0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/topline0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/topline0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/topline0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove@4x",
+                    "frame": "cove/waterfall/topline0006",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

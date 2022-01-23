@@ -1,0 +1,908 @@
+{
+    "anims": [
+        {
+            "key": "beach/cannon/cannon",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/cannon/cannon0025",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "beach/treasurechest/crab1/crab",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab1/crab10040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "beach/treasurechest/crab2/crab",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab2/crab20040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "beach/treasurechest/crab3/crab",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "beach@4x",
+                    "frame": "beach/treasurechest/crab3/crab30040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

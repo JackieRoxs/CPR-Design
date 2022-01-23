@@ -1,0 +1,4021 @@
+{
+	"textures": [
+		{
+			"image": "beach@4x-0.png?h=1c30d92d41",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 2029
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beach/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1659,
+						"h": 1290
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1659,
+						"h": 1290
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1659,
+						"h": 1290
+					}
+				},
+				{
+					"filename": "beach/smallship2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 382,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 382,
+						"h": 231
+					},
+					"frame": {
+						"x": 1662,
+						"y": 1,
+						"w": 382,
+						"h": 231
+					}
+				},
+				{
+					"filename": "beach/grator",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 365,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 365,
+						"h": 232
+					},
+					"frame": {
+						"x": 1662,
+						"y": 234,
+						"w": 365,
+						"h": 232
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 8,
+						"w": 364,
+						"h": 211
+					},
+					"frame": {
+						"x": 1662,
+						"y": 468,
+						"w": 364,
+						"h": 211
+					}
+				},
+				{
+					"filename": "beach/smallship",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 355,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 355,
+						"h": 117
+					},
+					"frame": {
+						"x": 1662,
+						"y": 681,
+						"w": 355,
+						"h": 117
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 8,
+						"w": 325,
+						"h": 189
+					},
+					"frame": {
+						"x": 1662,
+						"y": 800,
+						"w": 325,
+						"h": 189
+					}
+				},
+				{
+					"filename": "beach/farright",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 315,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 315,
+						"h": 219
+					},
+					"frame": {
+						"x": 1662,
+						"y": 991,
+						"w": 315,
+						"h": 219
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 5,
+						"w": 289,
+						"h": 171
+					},
+					"frame": {
+						"x": 1662,
+						"y": 1212,
+						"w": 289,
+						"h": 171
+					}
+				},
+				{
+					"filename": "beach/barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 91
+					},
+					"frame": {
+						"x": 1953,
+						"y": 1212,
+						"w": 91,
+						"h": 91
+					}
+				},
+				{
+					"filename": "beach/snow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 89,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 89,
+						"h": 61
+					},
+					"frame": {
+						"x": 1953,
+						"y": 1305,
+						"w": 89,
+						"h": 61
+					}
+				},
+				{
+					"filename": "beach/lighthousedoor/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 191
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 20,
+						"w": 84,
+						"h": 153
+					},
+					"frame": {
+						"x": 1953,
+						"y": 1368,
+						"w": 84,
+						"h": 153
+					}
+				},
+				{
+					"filename": "beach/lighthousedoor/door0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 191
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 20,
+						"w": 84,
+						"h": 153
+					},
+					"frame": {
+						"x": 1953,
+						"y": 1368,
+						"w": 84,
+						"h": 153
+					}
+				},
+				{
+					"filename": "beach/sky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1593,
+						"h": 544
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 77,
+						"w": 1593,
+						"h": 410
+					},
+					"frame": {
+						"x": 1,
+						"y": 1293,
+						"w": 1593,
+						"h": 410
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 8,
+						"w": 439,
+						"h": 257
+					},
+					"frame": {
+						"x": 1596,
+						"y": 1523,
+						"w": 439,
+						"h": 257
+					}
+				},
+				{
+					"filename": "beach/secondcorner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 123
+					},
+					"frame": {
+						"x": 1596,
+						"y": 1385,
+						"w": 103,
+						"h": 123
+					}
+				},
+				{
+					"filename": "beach/corner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 120
+					},
+					"frame": {
+						"x": 1701,
+						"y": 1385,
+						"w": 167,
+						"h": 120
+					}
+				},
+				{
+					"filename": "beach/wall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 517,
+						"h": 323
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 517,
+						"h": 323
+					},
+					"frame": {
+						"x": 1,
+						"y": 1705,
+						"w": 517,
+						"h": 323
+					}
+				},
+				{
+					"filename": "beach/rocks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1483,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1483,
+						"h": 244
+					},
+					"frame": {
+						"x": 520,
+						"y": 1782,
+						"w": 1483,
+						"h": 244
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 155,
+						"h": 75
+					},
+					"frame": {
+						"x": 520,
+						"y": 1705,
+						"w": 155,
+						"h": 75
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 142,
+						"h": 75
+					},
+					"frame": {
+						"x": 677,
+						"y": 1705,
+						"w": 142,
+						"h": 75
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 0,
+						"w": 141,
+						"h": 75
+					},
+					"frame": {
+						"x": 821,
+						"y": 1705,
+						"w": 141,
+						"h": 75
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 0,
+						"w": 141,
+						"h": 75
+					},
+					"frame": {
+						"x": 964,
+						"y": 1705,
+						"w": 141,
+						"h": 75
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 0,
+						"w": 141,
+						"h": 75
+					},
+					"frame": {
+						"x": 1107,
+						"y": 1705,
+						"w": 141,
+						"h": 75
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 1,
+						"w": 139,
+						"h": 75
+					},
+					"frame": {
+						"x": 1250,
+						"y": 1705,
+						"w": 139,
+						"h": 75
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 6,
+						"w": 135,
+						"h": 75
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1705,
+						"w": 135,
+						"h": 75
+					}
+				}
+			]
+		},
+		{
+			"image": "beach@4x-1.png?h=1c30d92d41",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2043,
+				"h": 1531
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beach/ship",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 787,
+						"h": 377
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 787,
+						"h": 375
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 787,
+						"h": 375
+					}
+				},
+				{
+					"filename": "beach/rightwall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 528,
+						"h": 358
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 528,
+						"h": 358
+					},
+					"frame": {
+						"x": 1,
+						"y": 378,
+						"w": 528,
+						"h": 358
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 511,
+						"h": 306
+					},
+					"frame": {
+						"x": 790,
+						"y": 1,
+						"w": 511,
+						"h": 306
+					}
+				},
+				{
+					"filename": "beach/base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 523,
+						"h": 243
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 523,
+						"h": 243
+					},
+					"frame": {
+						"x": 1,
+						"y": 738,
+						"w": 523,
+						"h": 243
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 8,
+						"w": 476,
+						"h": 282
+					},
+					"frame": {
+						"x": 1303,
+						"y": 1,
+						"w": 476,
+						"h": 282
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 8,
+						"w": 402,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 983,
+						"w": 402,
+						"h": 234
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 0,
+						"w": 261,
+						"h": 170
+					},
+					"frame": {
+						"x": 1781,
+						"y": 1,
+						"w": 261,
+						"h": 170
+					}
+				},
+				{
+					"filename": "beach/board",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 398,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 398,
+						"h": 204
+					},
+					"frame": {
+						"x": 1,
+						"y": 1219,
+						"w": 398,
+						"h": 204
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_40003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 218,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1425,
+						"w": 218,
+						"h": 105
+					}
+				},
+				{
+					"filename": "beach/pin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 228
+					},
+					"frame": {
+						"x": 531,
+						"y": 378,
+						"w": 200,
+						"h": 228
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 2,
+						"w": 259,
+						"h": 168
+					},
+					"frame": {
+						"x": 1781,
+						"y": 173,
+						"w": 259,
+						"h": 168
+					}
+				},
+				{
+					"filename": "beach/treasurechest/chest0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 204,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 204,
+						"h": 204
+					},
+					"frame": {
+						"x": 531,
+						"y": 608,
+						"w": 204,
+						"h": 204
+					}
+				},
+				{
+					"filename": "beach/treasurechest/chest0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 57,
+						"w": 204,
+						"h": 147
+					},
+					"frame": {
+						"x": 526,
+						"y": 814,
+						"w": 204,
+						"h": 147
+					}
+				},
+				{
+					"filename": "beach/sandlayer2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 267,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 267,
+						"h": 60
+					},
+					"frame": {
+						"x": 790,
+						"y": 309,
+						"w": 267,
+						"h": 60
+					}
+				},
+				{
+					"filename": "beach/lighthousedoor/door0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 191
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 191
+					},
+					"frame": {
+						"x": 405,
+						"y": 983,
+						"w": 139,
+						"h": 191
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab_shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 171,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 171,
+						"h": 174
+					},
+					"frame": {
+						"x": 546,
+						"y": 963,
+						"w": 171,
+						"h": 174
+					}
+				},
+				{
+					"filename": "beach/sandlayer4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 259,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 259,
+						"h": 55
+					},
+					"frame": {
+						"x": 1059,
+						"y": 309,
+						"w": 259,
+						"h": 55
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt10003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 103
+					},
+					"frame": {
+						"x": 221,
+						"y": 1425,
+						"w": 176,
+						"h": 103
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_40001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 206,
+						"h": 100
+					},
+					"frame": {
+						"x": 1320,
+						"y": 285,
+						"w": 206,
+						"h": 100
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_40002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 218,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 206,
+						"h": 100
+					},
+					"frame": {
+						"x": 1320,
+						"y": 285,
+						"w": 206,
+						"h": 100
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_30003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 111
+					},
+					"frame": {
+						"x": 1528,
+						"y": 285,
+						"w": 198,
+						"h": 111
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 3,
+						"w": 196,
+						"h": 153
+					},
+					"frame": {
+						"x": 733,
+						"y": 378,
+						"w": 196,
+						"h": 153
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 327,
+						"y": 6,
+						"w": 182,
+						"h": 145
+					},
+					"frame": {
+						"x": 931,
+						"y": 371,
+						"w": 182,
+						"h": 145
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 327,
+						"y": 6,
+						"w": 182,
+						"h": 144
+					},
+					"frame": {
+						"x": 1115,
+						"y": 366,
+						"w": 182,
+						"h": 144
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 8,
+						"w": 185,
+						"h": 140
+					},
+					"frame": {
+						"x": 1299,
+						"y": 387,
+						"w": 185,
+						"h": 140
+					}
+				},
+				{
+					"filename": "beach/cannon/cannon0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 518,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 326,
+						"y": 7,
+						"w": 183,
+						"h": 142
+					},
+					"frame": {
+						"x": 1486,
+						"y": 398,
+						"w": 183,
+						"h": 142
+					}
+				},
+				{
+					"filename": "beach/sandlayer3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 45
+					},
+					"frame": {
+						"x": 733,
+						"y": 533,
+						"w": 200,
+						"h": 45
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_30001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 188,
+						"h": 106
+					},
+					"frame": {
+						"x": 737,
+						"y": 580,
+						"w": 188,
+						"h": 106
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_30002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 188,
+						"h": 106
+					},
+					"frame": {
+						"x": 737,
+						"y": 580,
+						"w": 188,
+						"h": 106
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 170,
+						"h": 110
+					},
+					"frame": {
+						"x": 737,
+						"y": 688,
+						"w": 170,
+						"h": 110
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 173,
+						"h": 103
+					},
+					"frame": {
+						"x": 935,
+						"y": 518,
+						"w": 173,
+						"h": 103
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 173,
+						"h": 98
+					},
+					"frame": {
+						"x": 927,
+						"y": 623,
+						"w": 173,
+						"h": 98
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 172,
+						"h": 106
+					},
+					"frame": {
+						"x": 909,
+						"y": 723,
+						"w": 172,
+						"h": 106
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 170,
+						"h": 96
+					},
+					"frame": {
+						"x": 737,
+						"y": 800,
+						"w": 170,
+						"h": 96
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 171,
+						"h": 96
+					},
+					"frame": {
+						"x": 909,
+						"y": 831,
+						"w": 171,
+						"h": 96
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 171,
+						"h": 96
+					},
+					"frame": {
+						"x": 732,
+						"y": 898,
+						"w": 171,
+						"h": 96
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 110
+					},
+					"frame": {
+						"x": 719,
+						"y": 996,
+						"w": 166,
+						"h": 110
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 171,
+						"h": 95
+					},
+					"frame": {
+						"x": 905,
+						"y": 929,
+						"w": 171,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 171,
+						"h": 95
+					},
+					"frame": {
+						"x": 887,
+						"y": 1026,
+						"w": 171,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/sandlayer1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 52
+					},
+					"frame": {
+						"x": 546,
+						"y": 1139,
+						"w": 189,
+						"h": 52
+					}
+				},
+				{
+					"filename": "beach/sandlayer6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 52
+					},
+					"frame": {
+						"x": 546,
+						"y": 1139,
+						"w": 189,
+						"h": 52
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 148,
+						"h": 66
+					},
+					"frame": {
+						"x": 737,
+						"y": 1108,
+						"w": 148,
+						"h": 66
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 171,
+						"h": 95
+					},
+					"frame": {
+						"x": 887,
+						"y": 1123,
+						"w": 171,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/lighthousedoor/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 191
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 20,
+						"w": 84,
+						"h": 149
+					},
+					"frame": {
+						"x": 1671,
+						"y": 398,
+						"w": 84,
+						"h": 149
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 0,
+						"w": 139,
+						"h": 76
+					},
+					"frame": {
+						"x": 405,
+						"y": 1176,
+						"w": 139,
+						"h": 76
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 6,
+						"w": 153,
+						"h": 110
+					},
+					"frame": {
+						"x": 401,
+						"y": 1254,
+						"w": 153,
+						"h": 110
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 156,
+						"h": 58
+					},
+					"frame": {
+						"x": 546,
+						"y": 1193,
+						"w": 156,
+						"h": 58
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 107
+					},
+					"frame": {
+						"x": 556,
+						"y": 1253,
+						"w": 164,
+						"h": 107
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 159,
+						"h": 102
+					},
+					"frame": {
+						"x": 401,
+						"y": 1366,
+						"w": 159,
+						"h": 102
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 122,
+						"h": 60
+					},
+					"frame": {
+						"x": 399,
+						"y": 1470,
+						"w": 122,
+						"h": 60
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 7,
+						"w": 161,
+						"h": 101
+					},
+					"frame": {
+						"x": 562,
+						"y": 1362,
+						"w": 161,
+						"h": 101
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 3,
+						"w": 145,
+						"h": 65
+					},
+					"frame": {
+						"x": 562,
+						"y": 1465,
+						"w": 145,
+						"h": 65
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 140,
+						"h": 65
+					},
+					"frame": {
+						"x": 709,
+						"y": 1465,
+						"w": 140,
+						"h": 65
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 17,
+						"w": 171,
+						"h": 95
+					},
+					"frame": {
+						"x": 1757,
+						"y": 343,
+						"w": 171,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 0,
+						"w": 112,
+						"h": 95
+					},
+					"frame": {
+						"x": 1930,
+						"y": 343,
+						"w": 112,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 17,
+						"w": 171,
+						"h": 95
+					},
+					"frame": {
+						"x": 1757,
+						"y": 440,
+						"w": 171,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 1,
+						"w": 111,
+						"h": 93
+					},
+					"frame": {
+						"x": 1930,
+						"y": 440,
+						"w": 111,
+						"h": 93
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 16,
+						"w": 171,
+						"h": 95
+					},
+					"frame": {
+						"x": 1757,
+						"y": 537,
+						"w": 171,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 1,
+						"w": 111,
+						"h": 93
+					},
+					"frame": {
+						"x": 1930,
+						"y": 535,
+						"w": 111,
+						"h": 93
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 171,
+						"h": 95
+					},
+					"frame": {
+						"x": 1115,
+						"y": 512,
+						"w": 171,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt10001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 167,
+						"h": 98
+					},
+					"frame": {
+						"x": 1288,
+						"y": 529,
+						"w": 167,
+						"h": 98
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt10002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 167,
+						"h": 98
+					},
+					"frame": {
+						"x": 1288,
+						"y": 529,
+						"w": 167,
+						"h": 98
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 7,
+						"w": 167,
+						"h": 97
+					},
+					"frame": {
+						"x": 1457,
+						"y": 542,
+						"w": 167,
+						"h": 97
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_20003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 171,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 171,
+						"h": 74
+					},
+					"frame": {
+						"x": 1110,
+						"y": 609,
+						"w": 171,
+						"h": 74
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 163,
+						"h": 70
+					},
+					"frame": {
+						"x": 1283,
+						"y": 629,
+						"w": 163,
+						"h": 70
+					}
+				},
+				{
+					"filename": "beach/thunt/thunt_20002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 163,
+						"h": 70
+					},
+					"frame": {
+						"x": 1283,
+						"y": 629,
+						"w": 163,
+						"h": 70
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 160,
+						"h": 68
+					},
+					"frame": {
+						"x": 1448,
+						"y": 641,
+						"w": 160,
+						"h": 68
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 159,
+						"h": 63
+					},
+					"frame": {
+						"x": 1102,
+						"y": 685,
+						"w": 159,
+						"h": 63
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 153,
+						"h": 99
+					},
+					"frame": {
+						"x": 1083,
+						"y": 750,
+						"w": 153,
+						"h": 99
+					}
+				},
+				{
+					"filename": "beach/cannonfort",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 104
+					},
+					"frame": {
+						"x": 1082,
+						"y": 851,
+						"w": 152,
+						"h": 104
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 156,
+						"h": 70
+					},
+					"frame": {
+						"x": 1078,
+						"y": 957,
+						"w": 156,
+						"h": 70
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 5,
+						"w": 145,
+						"h": 100
+					},
+					"frame": {
+						"x": 1060,
+						"y": 1029,
+						"w": 145,
+						"h": 100
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 145,
+						"h": 96
+					},
+					"frame": {
+						"x": 1060,
+						"y": 1131,
+						"w": 145,
+						"h": 96
+					}
+				},
+				{
+					"filename": "beach/sandlayer5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 48
+					},
+					"frame": {
+						"x": 1263,
+						"y": 701,
+						"w": 157,
+						"h": 48
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 1,
+						"w": 136,
+						"h": 95
+					},
+					"frame": {
+						"x": 1238,
+						"y": 751,
+						"w": 136,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 1,
+						"w": 126,
+						"h": 95
+					},
+					"frame": {
+						"x": 1626,
+						"y": 549,
+						"w": 126,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 74
+					},
+					"frame": {
+						"x": 1610,
+						"y": 646,
+						"w": 150,
+						"h": 74
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 76
+					},
+					"frame": {
+						"x": 1762,
+						"y": 634,
+						"w": 151,
+						"h": 76
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 9,
+						"w": 127,
+						"h": 81
+					},
+					"frame": {
+						"x": 1915,
+						"y": 634,
+						"w": 127,
+						"h": 81
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 154,
+						"h": 72
+					},
+					"frame": {
+						"x": 1422,
+						"y": 711,
+						"w": 154,
+						"h": 72
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 153,
+						"h": 73
+					},
+					"frame": {
+						"x": 1578,
+						"y": 722,
+						"w": 153,
+						"h": 73
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 153,
+						"h": 73
+					},
+					"frame": {
+						"x": 1376,
+						"y": 785,
+						"w": 153,
+						"h": 73
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 153,
+						"h": 68
+					},
+					"frame": {
+						"x": 1531,
+						"y": 797,
+						"w": 153,
+						"h": 68
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 151,
+						"h": 74
+					},
+					"frame": {
+						"x": 1762,
+						"y": 712,
+						"w": 151,
+						"h": 74
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 4,
+						"w": 127,
+						"h": 53
+					},
+					"frame": {
+						"x": 1915,
+						"y": 717,
+						"w": 127,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 147,
+						"h": 71
+					},
+					"frame": {
+						"x": 737,
+						"y": 1176,
+						"w": 147,
+						"h": 71
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 3,
+						"w": 135,
+						"h": 96
+					},
+					"frame": {
+						"x": 722,
+						"y": 1249,
+						"w": 135,
+						"h": 96
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 2,
+						"w": 130,
+						"h": 94
+					},
+					"frame": {
+						"x": 725,
+						"y": 1347,
+						"w": 130,
+						"h": 94
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 153,
+						"h": 68
+					},
+					"frame": {
+						"x": 886,
+						"y": 1220,
+						"w": 153,
+						"h": 68
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 152,
+						"h": 70
+					},
+					"frame": {
+						"x": 1041,
+						"y": 1229,
+						"w": 152,
+						"h": 70
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 151,
+						"h": 70
+					},
+					"frame": {
+						"x": 859,
+						"y": 1290,
+						"w": 151,
+						"h": 70
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 149,
+						"h": 78
+					},
+					"frame": {
+						"x": 857,
+						"y": 1362,
+						"w": 149,
+						"h": 78
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 5,
+						"w": 151,
+						"h": 68
+					},
+					"frame": {
+						"x": 1012,
+						"y": 1301,
+						"w": 151,
+						"h": 68
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 73
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1371,
+						"w": 150,
+						"h": 73
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 149,
+						"h": 77
+					},
+					"frame": {
+						"x": 857,
+						"y": 1442,
+						"w": 149,
+						"h": 77
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 150,
+						"h": 70
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1446,
+						"w": 150,
+						"h": 70
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 2,
+						"w": 126,
+						"h": 94
+					},
+					"frame": {
+						"x": 1915,
+						"y": 772,
+						"w": 126,
+						"h": 94
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 2,
+						"w": 135,
+						"h": 54
+					},
+					"frame": {
+						"x": 1238,
+						"y": 848,
+						"w": 135,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 104
+					},
+					"frame": {
+						"x": 1236,
+						"y": 904,
+						"w": 116,
+						"h": 104
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 1,
+						"w": 151,
+						"h": 56
+					},
+					"frame": {
+						"x": 1375,
+						"y": 860,
+						"w": 151,
+						"h": 56
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 144,
+						"h": 74
+					},
+					"frame": {
+						"x": 1354,
+						"y": 918,
+						"w": 144,
+						"h": 74
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 145,
+						"h": 67
+					},
+					"frame": {
+						"x": 1528,
+						"y": 867,
+						"w": 145,
+						"h": 67
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 8,
+						"w": 144,
+						"h": 73
+					},
+					"frame": {
+						"x": 1500,
+						"y": 936,
+						"w": 144,
+						"h": 73
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 2,
+						"w": 144,
+						"h": 54
+					},
+					"frame": {
+						"x": 1354,
+						"y": 994,
+						"w": 144,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 143,
+						"h": 70
+					},
+					"frame": {
+						"x": 1500,
+						"y": 1011,
+						"w": 143,
+						"h": 70
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 116,
+						"h": 58
+					},
+					"frame": {
+						"x": 1236,
+						"y": 1010,
+						"w": 116,
+						"h": 58
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 2,
+						"w": 124,
+						"h": 94
+					},
+					"frame": {
+						"x": 1207,
+						"y": 1070,
+						"w": 124,
+						"h": 94
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 2,
+						"w": 143,
+						"h": 66
+					},
+					"frame": {
+						"x": 1207,
+						"y": 1166,
+						"w": 143,
+						"h": 66
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 142,
+						"h": 74
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1234,
+						"w": 142,
+						"h": 74
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 142,
+						"h": 74
+					},
+					"frame": {
+						"x": 1165,
+						"y": 1310,
+						"w": 142,
+						"h": 74
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 2,
+						"w": 121,
+						"h": 95
+					},
+					"frame": {
+						"x": 1160,
+						"y": 1386,
+						"w": 121,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 1,
+						"w": 140,
+						"h": 73
+					},
+					"frame": {
+						"x": 1354,
+						"y": 1050,
+						"w": 140,
+						"h": 73
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 1,
+						"w": 140,
+						"h": 71
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1083,
+						"w": 140,
+						"h": 71
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 2,
+						"w": 121,
+						"h": 95
+					},
+					"frame": {
+						"x": 1352,
+						"y": 1125,
+						"w": 121,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 0,
+						"w": 139,
+						"h": 76
+					},
+					"frame": {
+						"x": 1475,
+						"y": 1156,
+						"w": 139,
+						"h": 76
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 2,
+						"w": 121,
+						"h": 94
+					},
+					"frame": {
+						"x": 1352,
+						"y": 1222,
+						"w": 121,
+						"h": 94
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 2,
+						"w": 120,
+						"h": 95
+					},
+					"frame": {
+						"x": 1475,
+						"y": 1234,
+						"w": 120,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 8,
+						"w": 139,
+						"h": 62
+					},
+					"frame": {
+						"x": 1309,
+						"y": 1318,
+						"w": 139,
+						"h": 62
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 3,
+						"w": 140,
+						"h": 53
+					},
+					"frame": {
+						"x": 1450,
+						"y": 1331,
+						"w": 140,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 3,
+						"w": 137,
+						"h": 53
+					},
+					"frame": {
+						"x": 1309,
+						"y": 1382,
+						"w": 137,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 2,
+						"w": 113,
+						"h": 93
+					},
+					"frame": {
+						"x": 1283,
+						"y": 1437,
+						"w": 113,
+						"h": 93
+					}
+				},
+				{
+					"filename": "beach/sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 93
+					},
+					"frame": {
+						"x": 1398,
+						"y": 1437,
+						"w": 82,
+						"h": 93
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 2,
+						"w": 115,
+						"h": 95
+					},
+					"frame": {
+						"x": 1482,
+						"y": 1386,
+						"w": 115,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 2,
+						"w": 118,
+						"h": 94
+					},
+					"frame": {
+						"x": 1686,
+						"y": 797,
+						"w": 118,
+						"h": 94
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 107,
+						"h": 60
+					},
+					"frame": {
+						"x": 1806,
+						"y": 788,
+						"w": 107,
+						"h": 60
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 107,
+						"h": 58
+					},
+					"frame": {
+						"x": 1806,
+						"y": 850,
+						"w": 107,
+						"h": 58
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 3,
+						"w": 126,
+						"h": 53
+					},
+					"frame": {
+						"x": 1915,
+						"y": 868,
+						"w": 126,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 2,
+						"w": 128,
+						"h": 54
+					},
+					"frame": {
+						"x": 1675,
+						"y": 893,
+						"w": 128,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 131,
+						"h": 64
+					},
+					"frame": {
+						"x": 1646,
+						"y": 949,
+						"w": 131,
+						"h": 64
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 2,
+						"w": 132,
+						"h": 54
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1015,
+						"w": 132,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 106,
+						"h": 59
+					},
+					"frame": {
+						"x": 1805,
+						"y": 910,
+						"w": 106,
+						"h": 59
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab1/crab10012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 0,
+						"w": 117,
+						"h": 95
+					},
+					"frame": {
+						"x": 1779,
+						"y": 971,
+						"w": 117,
+						"h": 95
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 4,
+						"w": 125,
+						"h": 53
+					},
+					"frame": {
+						"x": 1913,
+						"y": 923,
+						"w": 125,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 7,
+						"w": 120,
+						"h": 72
+					},
+					"frame": {
+						"x": 1898,
+						"y": 978,
+						"w": 120,
+						"h": 72
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 6,
+						"w": 131,
+						"h": 51
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1071,
+						"w": 131,
+						"h": 51
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 3,
+						"w": 125,
+						"h": 53
+					},
+					"frame": {
+						"x": 1638,
+						"y": 1124,
+						"w": 125,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 3,
+						"w": 124,
+						"h": 54
+					},
+					"frame": {
+						"x": 1616,
+						"y": 1179,
+						"w": 124,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 4,
+						"w": 124,
+						"h": 53
+					},
+					"frame": {
+						"x": 1597,
+						"y": 1235,
+						"w": 124,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 4,
+						"w": 124,
+						"h": 53
+					},
+					"frame": {
+						"x": 1597,
+						"y": 1290,
+						"w": 124,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 3,
+						"w": 123,
+						"h": 54
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1345,
+						"w": 123,
+						"h": 54
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 4,
+						"w": 123,
+						"h": 53
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1401,
+						"w": 123,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab3/crab30002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 4,
+						"w": 122,
+						"h": 53
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1456,
+						"w": 122,
+						"h": 53
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 118,
+						"h": 58
+					},
+					"frame": {
+						"x": 1898,
+						"y": 1052,
+						"w": 118,
+						"h": 58
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 115,
+						"h": 59
+					},
+					"frame": {
+						"x": 1779,
+						"y": 1068,
+						"w": 115,
+						"h": 59
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 113,
+						"h": 60
+					},
+					"frame": {
+						"x": 1765,
+						"y": 1129,
+						"w": 113,
+						"h": 60
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 111,
+						"h": 56
+					},
+					"frame": {
+						"x": 1742,
+						"y": 1191,
+						"w": 111,
+						"h": 56
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 104,
+						"h": 60
+					},
+					"frame": {
+						"x": 1723,
+						"y": 1249,
+						"w": 104,
+						"h": 60
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 104,
+						"h": 59
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1311,
+						"w": 104,
+						"h": 59
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 103,
+						"h": 59
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1372,
+						"w": 103,
+						"h": 59
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 105,
+						"h": 57
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1433,
+						"w": 105,
+						"h": 57
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 103,
+						"h": 58
+					},
+					"frame": {
+						"x": 1896,
+						"y": 1112,
+						"w": 103,
+						"h": 58
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 103,
+						"h": 56
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1172,
+						"w": 103,
+						"h": 56
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 102,
+						"h": 57
+					},
+					"frame": {
+						"x": 1855,
+						"y": 1230,
+						"w": 102,
+						"h": 57
+					}
+				},
+				{
+					"filename": "beach/treasurechest/crab2/crab20021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 102,
+						"h": 57
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1289,
+						"w": 102,
+						"h": 57
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:09223d29dbb94110d575c625739cb349:9eee3362ff2709c990bdbfa076065e85:ec03d3ad44624cba49e211669f580ebc$"
+	}
+}

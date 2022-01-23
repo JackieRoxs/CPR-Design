@@ -1,0 +1,2667 @@
+{
+	"textures": [
+		{
+			"image": "lake@4x-0.png?h=234a36d72e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2011
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lake/background1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1597,
+						"h": 1064
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1597,
+						"h": 1064
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1597,
+						"h": 1064
+					}
+				},
+				{
+					"filename": "lake/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1643,
+						"h": 937
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1643,
+						"h": 937
+					},
+					"frame": {
+						"x": 1,
+						"y": 1067,
+						"w": 1643,
+						"h": 937
+					}
+				},
+				{
+					"filename": "lake/door/overlay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 258,
+						"h": 788
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 258,
+						"h": 788
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1,
+						"w": 258,
+						"h": 788
+					}
+				},
+				{
+					"filename": "lake/door/door0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 112,
+						"w": 187,
+						"h": 265
+					},
+					"frame": {
+						"x": 1860,
+						"y": 1,
+						"w": 187,
+						"h": 265
+					}
+				},
+				{
+					"filename": "lake/door/door0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 105,
+						"w": 187,
+						"h": 263
+					},
+					"frame": {
+						"x": 1860,
+						"y": 268,
+						"w": 187,
+						"h": 263
+					}
+				},
+				{
+					"filename": "lake/door/door0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 98,
+						"w": 187,
+						"h": 262
+					},
+					"frame": {
+						"x": 1860,
+						"y": 533,
+						"w": 187,
+						"h": 262
+					}
+				},
+				{
+					"filename": "lake/door/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 117,
+						"w": 186,
+						"h": 266
+					},
+					"frame": {
+						"x": 1600,
+						"y": 791,
+						"w": 186,
+						"h": 266
+					}
+				},
+				{
+					"filename": "lake/door/door0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 117,
+						"w": 186,
+						"h": 266
+					},
+					"frame": {
+						"x": 1600,
+						"y": 791,
+						"w": 186,
+						"h": 266
+					}
+				},
+				{
+					"filename": "lake/water/water0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 102,
+						"h": 335
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1059,
+						"w": 102,
+						"h": 335
+					}
+				},
+				{
+					"filename": "lake/water/water0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 102,
+						"h": 335
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1396,
+						"w": 102,
+						"h": 335
+					}
+				},
+				{
+					"filename": "lake/door/door0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 75,
+						"w": 187,
+						"h": 259
+					},
+					"frame": {
+						"x": 1788,
+						"y": 797,
+						"w": 187,
+						"h": 259
+					}
+				},
+				{
+					"filename": "lake/water/water0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 102,
+						"h": 273
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1733,
+						"w": 102,
+						"h": 273
+					}
+				},
+				{
+					"filename": "lake/water/water0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 102,
+						"h": 331
+					},
+					"frame": {
+						"x": 1750,
+						"y": 1059,
+						"w": 102,
+						"h": 331
+					}
+				},
+				{
+					"filename": "lake/water/water0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 102,
+						"h": 326
+					},
+					"frame": {
+						"x": 1750,
+						"y": 1392,
+						"w": 102,
+						"h": 326
+					}
+				},
+				{
+					"filename": "lake/water/water0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 102,
+						"h": 319
+					},
+					"frame": {
+						"x": 1854,
+						"y": 1058,
+						"w": 102,
+						"h": 319
+					}
+				},
+				{
+					"filename": "lake/water/water0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 317
+					},
+					"frame": {
+						"x": 1854,
+						"y": 1379,
+						"w": 102,
+						"h": 317
+					}
+				},
+				{
+					"filename": "lake/water/water0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 102,
+						"h": 289
+					},
+					"frame": {
+						"x": 1750,
+						"y": 1720,
+						"w": 102,
+						"h": 289
+					}
+				},
+				{
+					"filename": "lake/water/water0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 102,
+						"h": 312
+					},
+					"frame": {
+						"x": 1854,
+						"y": 1698,
+						"w": 102,
+						"h": 312
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 50
+					},
+					"frame": {
+						"x": 1977,
+						"y": 797,
+						"w": 42,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 38,
+						"h": 38
+					},
+					"frame": {
+						"x": 1977,
+						"y": 849,
+						"w": 38,
+						"h": 38
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 14,
+						"w": 15,
+						"h": 18
+					},
+					"frame": {
+						"x": 1958,
+						"y": 1058,
+						"w": 15,
+						"h": 18
+					}
+				}
+			]
+		},
+		{
+			"image": "lake@4x-1.png?h=234a36d72e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1894
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lake/ground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1564,
+						"h": 996
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1564,
+						"h": 996
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1564,
+						"h": 996
+					}
+				},
+				{
+					"filename": "lake/bottom",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1547,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1547,
+						"h": 262
+					},
+					"frame": {
+						"x": 1,
+						"y": 999,
+						"w": 1547,
+						"h": 262
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1013,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1013,
+						"h": 126
+					},
+					"frame": {
+						"x": 1,
+						"y": 1263,
+						"w": 1013,
+						"h": 126
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 985,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 985,
+						"h": 116
+					},
+					"frame": {
+						"x": 1,
+						"y": 1391,
+						"w": 985,
+						"h": 116
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 955,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 955,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 1509,
+						"w": 955,
+						"h": 115
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 924,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 924,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 1626,
+						"w": 924,
+						"h": 107
+					}
+				},
+				{
+					"filename": "lake/door/dooroverlay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 258,
+						"h": 654
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 258,
+						"h": 654
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1,
+						"w": 258,
+						"h": 654
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 771,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 770,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 1735,
+						"w": 770,
+						"h": 70
+					}
+				},
+				{
+					"filename": "lake/left_corner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 345
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 345
+					},
+					"frame": {
+						"x": 1827,
+						"y": 1,
+						"w": 112,
+						"h": 345
+					}
+				},
+				{
+					"filename": "lake/door/door0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 115,
+						"w": 186,
+						"h": 266
+					},
+					"frame": {
+						"x": 1567,
+						"y": 657,
+						"w": 186,
+						"h": 266
+					}
+				},
+				{
+					"filename": "lake/door/door0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 115,
+						"w": 186,
+						"h": 266
+					},
+					"frame": {
+						"x": 1567,
+						"y": 657,
+						"w": 186,
+						"h": 266
+					}
+				},
+				{
+					"filename": "lake/water/water0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 337
+					},
+					"frame": {
+						"x": 1941,
+						"y": 1,
+						"w": 102,
+						"h": 337
+					}
+				},
+				{
+					"filename": "lake/inside",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 309,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 309,
+						"h": 133
+					},
+					"frame": {
+						"x": 1016,
+						"y": 1263,
+						"w": 309,
+						"h": 133
+					}
+				},
+				{
+					"filename": "lake/water/water0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 102,
+						"h": 316
+					},
+					"frame": {
+						"x": 1827,
+						"y": 348,
+						"w": 102,
+						"h": 316
+					}
+				},
+				{
+					"filename": "lake/door/door0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 68,
+						"w": 187,
+						"h": 257
+					},
+					"frame": {
+						"x": 1755,
+						"y": 666,
+						"w": 187,
+						"h": 257
+					}
+				},
+				{
+					"filename": "lake/water/water0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 102,
+						"h": 316
+					},
+					"frame": {
+						"x": 1931,
+						"y": 348,
+						"w": 102,
+						"h": 316
+					}
+				},
+				{
+					"filename": "lake/water/water0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 102,
+						"h": 257
+					},
+					"frame": {
+						"x": 1944,
+						"y": 666,
+						"w": 102,
+						"h": 257
+					}
+				},
+				{
+					"filename": "lake/door/door0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 60,
+						"w": 187,
+						"h": 257
+					},
+					"frame": {
+						"x": 1327,
+						"y": 1263,
+						"w": 187,
+						"h": 257
+					}
+				},
+				{
+					"filename": "lake/water/water0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 102,
+						"h": 294
+					},
+					"frame": {
+						"x": 1516,
+						"y": 1263,
+						"w": 102,
+						"h": 294
+					}
+				},
+				{
+					"filename": "lake/door/door0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 31,
+						"w": 187,
+						"h": 251
+					},
+					"frame": {
+						"x": 988,
+						"y": 1398,
+						"w": 187,
+						"h": 251
+					}
+				},
+				{
+					"filename": "lake/water/water0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 102,
+						"h": 306
+					},
+					"frame": {
+						"x": 1177,
+						"y": 1398,
+						"w": 102,
+						"h": 306
+					}
+				},
+				{
+					"filename": "lake/door/door0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 23,
+						"w": 187,
+						"h": 251
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1522,
+						"w": 187,
+						"h": 251
+					}
+				},
+				{
+					"filename": "lake/door/door0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 187,
+						"h": 250
+					},
+					"frame": {
+						"x": 1470,
+						"y": 1559,
+						"w": 187,
+						"h": 250
+					}
+				},
+				{
+					"filename": "lake/water/water0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 102,
+						"h": 253
+					},
+					"frame": {
+						"x": 1550,
+						"y": 999,
+						"w": 102,
+						"h": 253
+					}
+				},
+				{
+					"filename": "lake/door/door0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 186,
+						"h": 250
+					},
+					"frame": {
+						"x": 1654,
+						"y": 925,
+						"w": 186,
+						"h": 250
+					}
+				},
+				{
+					"filename": "lake/water/water0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 102,
+						"h": 270
+					},
+					"frame": {
+						"x": 1842,
+						"y": 925,
+						"w": 102,
+						"h": 270
+					}
+				},
+				{
+					"filename": "lake/water/water0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 102,
+						"h": 294
+					},
+					"frame": {
+						"x": 1620,
+						"y": 1254,
+						"w": 102,
+						"h": 294
+					}
+				},
+				{
+					"filename": "lake/water/water0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 102,
+						"h": 304
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1177,
+						"w": 102,
+						"h": 304
+					}
+				},
+				{
+					"filename": "lake/water/water0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 102,
+						"h": 287
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1197,
+						"w": 102,
+						"h": 287
+					}
+				},
+				{
+					"filename": "lake/water/water0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 293
+					},
+					"frame": {
+						"x": 1659,
+						"y": 1550,
+						"w": 102,
+						"h": 293
+					}
+				},
+				{
+					"filename": "lake/water/water0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 102,
+						"h": 241
+					},
+					"frame": {
+						"x": 1932,
+						"y": 1197,
+						"w": 102,
+						"h": 241
+					}
+				},
+				{
+					"filename": "lake/rockwithgold",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 187,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 187,
+						"h": 103
+					},
+					"frame": {
+						"x": 773,
+						"y": 1735,
+						"w": 187,
+						"h": 103
+					}
+				},
+				{
+					"filename": "lake/fall/fall0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 166,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 1807,
+						"w": 166,
+						"h": 55
+					}
+				},
+				{
+					"filename": "lake/fall/fall0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 166,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 1807,
+						"w": 166,
+						"h": 55
+					}
+				},
+				{
+					"filename": "lake/water/water0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 237
+					},
+					"frame": {
+						"x": 1763,
+						"y": 1486,
+						"w": 102,
+						"h": 237
+					}
+				},
+				{
+					"filename": "lake/water/water0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 219
+					},
+					"frame": {
+						"x": 1867,
+						"y": 1486,
+						"w": 102,
+						"h": 219
+					}
+				},
+				{
+					"filename": "lake/smallforeground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 157
+					},
+					"frame": {
+						"x": 1763,
+						"y": 1725,
+						"w": 144,
+						"h": 157
+					}
+				},
+				{
+					"filename": "lake/rock3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 184
+					},
+					"frame": {
+						"x": 1909,
+						"y": 1707,
+						"w": 129,
+						"h": 184
+					}
+				},
+				{
+					"filename": "lake/water/water0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 102,
+						"h": 209
+					},
+					"frame": {
+						"x": 962,
+						"y": 1651,
+						"w": 102,
+						"h": 209
+					}
+				},
+				{
+					"filename": "lake/rock1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 44
+					},
+					"frame": {
+						"x": 1932,
+						"y": 1440,
+						"w": 91,
+						"h": 44
+					}
+				},
+				{
+					"filename": "lake/rock2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 94
+					},
+					"frame": {
+						"x": 1946,
+						"y": 925,
+						"w": 80,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 81,
+						"h": 48
+					},
+					"frame": {
+						"x": 1567,
+						"y": 925,
+						"w": 81,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 81,
+						"h": 48
+					},
+					"frame": {
+						"x": 169,
+						"y": 1807,
+						"w": 81,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 80,
+						"h": 48
+					},
+					"frame": {
+						"x": 1066,
+						"y": 1651,
+						"w": 80,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 10,
+						"w": 79,
+						"h": 47
+					},
+					"frame": {
+						"x": 1946,
+						"y": 1021,
+						"w": 79,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 33,
+						"h": 35
+					},
+					"frame": {
+						"x": 1470,
+						"y": 1522,
+						"w": 33,
+						"h": 35
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 39,
+						"h": 49
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1398,
+						"w": 39,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 40,
+						"h": 47
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1177,
+						"w": 40,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 33,
+						"h": 40
+					},
+					"frame": {
+						"x": 927,
+						"y": 1626,
+						"w": 33,
+						"h": 40
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 27,
+						"w": 33,
+						"h": 30
+					},
+					"frame": {
+						"x": 927,
+						"y": 1668,
+						"w": 33,
+						"h": 30
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 31,
+						"w": 27,
+						"h": 24
+					},
+					"frame": {
+						"x": 1148,
+						"y": 1651,
+						"w": 27,
+						"h": 24
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 31,
+						"w": 21,
+						"h": 22
+					},
+					"frame": {
+						"x": 1567,
+						"y": 975,
+						"w": 21,
+						"h": 22
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 28,
+						"w": 32,
+						"h": 29
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1483,
+						"w": 32,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 28,
+						"w": 30,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 1864,
+						"w": 30,
+						"h": 29
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 10,
+						"w": 25,
+						"h": 27
+					},
+					"frame": {
+						"x": 1971,
+						"y": 1486,
+						"w": 25,
+						"h": 27
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 34,
+						"w": 14,
+						"h": 17
+					},
+					"frame": {
+						"x": 2028,
+						"y": 925,
+						"w": 14,
+						"h": 17
+					}
+				}
+			]
+		},
+		{
+			"image": "lake@4x-2.png?h=234a36d72e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2035,
+				"h": 1079
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lake/top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1557,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1557,
+						"h": 248
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1557,
+						"h": 248
+					}
+				},
+				{
+					"filename": "lake/waterthing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 249
+					},
+					"frame": {
+						"x": 1560,
+						"y": 1,
+						"w": 407,
+						"h": 249
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 38,
+						"h": 37
+					},
+					"frame": {
+						"x": 1969,
+						"y": 1,
+						"w": 38,
+						"h": 37
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 30,
+						"w": 25,
+						"h": 24
+					},
+					"frame": {
+						"x": 2009,
+						"y": 1,
+						"w": 25,
+						"h": 24
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 30,
+						"w": 23,
+						"h": 24
+					},
+					"frame": {
+						"x": 2009,
+						"y": 27,
+						"w": 23,
+						"h": 24
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 31,
+						"w": 23,
+						"h": 23
+					},
+					"frame": {
+						"x": 1969,
+						"y": 40,
+						"w": 23,
+						"h": 23
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 38,
+						"w": 11,
+						"h": 11
+					},
+					"frame": {
+						"x": 1994,
+						"y": 40,
+						"w": 11,
+						"h": 11
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 13,
+						"w": 18,
+						"h": 20
+					},
+					"frame": {
+						"x": 1994,
+						"y": 53,
+						"w": 18,
+						"h": 20
+					}
+				},
+				{
+					"filename": "lake/bigwater",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1159,
+						"h": 390
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1159,
+						"h": 390
+					},
+					"frame": {
+						"x": 1,
+						"y": 251,
+						"w": 1159,
+						"h": 390
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 869,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 869,
+						"h": 107
+					},
+					"frame": {
+						"x": 1162,
+						"y": 252,
+						"w": 869,
+						"h": 107
+					}
+				},
+				{
+					"filename": "lake/water/water0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 102,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 643,
+						"w": 102,
+						"h": 306
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 939,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 939,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 951,
+						"w": 939,
+						"h": 122
+					}
+				},
+				{
+					"filename": "lake/door/door0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 112,
+						"w": 186,
+						"h": 266
+					},
+					"frame": {
+						"x": 105,
+						"y": 643,
+						"w": 186,
+						"h": 266
+					}
+				},
+				{
+					"filename": "lake/door/door0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 112,
+						"w": 186,
+						"h": 266
+					},
+					"frame": {
+						"x": 105,
+						"y": 643,
+						"w": 186,
+						"h": 266
+					}
+				},
+				{
+					"filename": "lake/door/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 120,
+						"w": 186,
+						"h": 265
+					},
+					"frame": {
+						"x": 293,
+						"y": 643,
+						"w": 186,
+						"h": 265
+					}
+				},
+				{
+					"filename": "lake/door/door0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 120,
+						"w": 186,
+						"h": 265
+					},
+					"frame": {
+						"x": 293,
+						"y": 643,
+						"w": 186,
+						"h": 265
+					}
+				},
+				{
+					"filename": "lake/door/door0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 120,
+						"w": 186,
+						"h": 265
+					},
+					"frame": {
+						"x": 293,
+						"y": 643,
+						"w": 186,
+						"h": 265
+					}
+				},
+				{
+					"filename": "lake/door/door0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 120,
+						"w": 186,
+						"h": 265
+					},
+					"frame": {
+						"x": 293,
+						"y": 643,
+						"w": 186,
+						"h": 265
+					}
+				},
+				{
+					"filename": "lake/door/door0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 120,
+						"w": 186,
+						"h": 265
+					},
+					"frame": {
+						"x": 293,
+						"y": 643,
+						"w": 186,
+						"h": 265
+					}
+				},
+				{
+					"filename": "lake/door/door0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 90,
+						"w": 187,
+						"h": 261
+					},
+					"frame": {
+						"x": 481,
+						"y": 643,
+						"w": 187,
+						"h": 261
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 6,
+						"w": 76,
+						"h": 43
+					},
+					"frame": {
+						"x": 481,
+						"y": 906,
+						"w": 76,
+						"h": 43
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 15,
+						"w": 71,
+						"h": 43
+					},
+					"frame": {
+						"x": 559,
+						"y": 906,
+						"w": 71,
+						"h": 43
+					}
+				},
+				{
+					"filename": "lake/door/door0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 83,
+						"w": 187,
+						"h": 260
+					},
+					"frame": {
+						"x": 670,
+						"y": 643,
+						"w": 187,
+						"h": 260
+					}
+				},
+				{
+					"filename": "lake/door/door0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 53,
+						"w": 187,
+						"h": 255
+					},
+					"frame": {
+						"x": 859,
+						"y": 643,
+						"w": 187,
+						"h": 255
+					}
+				},
+				{
+					"filename": "lake/water/water0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 102,
+						"h": 178
+					},
+					"frame": {
+						"x": 942,
+						"y": 900,
+						"w": 102,
+						"h": 178
+					}
+				},
+				{
+					"filename": "lake/sparkle/sparkle0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 75,
+						"h": 46
+					},
+					"frame": {
+						"x": 859,
+						"y": 900,
+						"w": 75,
+						"h": 46
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 986,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 986,
+						"h": 110
+					},
+					"frame": {
+						"x": 1048,
+						"y": 643,
+						"w": 986,
+						"h": 110
+					}
+				},
+				{
+					"filename": "lake/door/door0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 45,
+						"w": 187,
+						"h": 255
+					},
+					"frame": {
+						"x": 1162,
+						"y": 361,
+						"w": 187,
+						"h": 255
+					}
+				},
+				{
+					"filename": "lake/door/door0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 38,
+						"w": 187,
+						"h": 253
+					},
+					"frame": {
+						"x": 1351,
+						"y": 361,
+						"w": 187,
+						"h": 253
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 961,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 961,
+						"h": 112
+					},
+					"frame": {
+						"x": 1048,
+						"y": 755,
+						"w": 961,
+						"h": 112
+					}
+				},
+				{
+					"filename": "lake/water/water0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 201
+					},
+					"frame": {
+						"x": 1048,
+						"y": 869,
+						"w": 102,
+						"h": 201
+					}
+				},
+				{
+					"filename": "lake/water/water0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 102,
+						"h": 192
+					},
+					"frame": {
+						"x": 1152,
+						"y": 869,
+						"w": 102,
+						"h": 192
+					}
+				},
+				{
+					"filename": "lake/door/door0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 193,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 185,
+						"h": 248
+					},
+					"frame": {
+						"x": 1540,
+						"y": 361,
+						"w": 185,
+						"h": 248
+					}
+				},
+				{
+					"filename": "lake/water/water0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 102,
+						"h": 337
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 102,
+						"h": 225
+					},
+					"frame": {
+						"x": 1727,
+						"y": 361,
+						"w": 102,
+						"h": 225
+					}
+				},
+				{
+					"filename": "lake/fall/fall0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 178,
+						"h": 62
+					},
+					"frame": {
+						"x": 1831,
+						"y": 361,
+						"w": 178,
+						"h": 62
+					}
+				},
+				{
+					"filename": "lake/fall/fall0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 178,
+						"h": 62
+					},
+					"frame": {
+						"x": 1831,
+						"y": 361,
+						"w": 178,
+						"h": 62
+					}
+				},
+				{
+					"filename": "lake/fall/fall0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 174,
+						"h": 61
+					},
+					"frame": {
+						"x": 1831,
+						"y": 425,
+						"w": 174,
+						"h": 61
+					}
+				},
+				{
+					"filename": "lake/fall/fall0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 174,
+						"h": 61
+					},
+					"frame": {
+						"x": 1831,
+						"y": 425,
+						"w": 174,
+						"h": 61
+					}
+				},
+				{
+					"filename": "lake/fall/fall0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 173,
+						"h": 64
+					},
+					"frame": {
+						"x": 1831,
+						"y": 488,
+						"w": 173,
+						"h": 64
+					}
+				},
+				{
+					"filename": "lake/fall/fall0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 173,
+						"h": 64
+					},
+					"frame": {
+						"x": 1831,
+						"y": 488,
+						"w": 173,
+						"h": 64
+					}
+				},
+				{
+					"filename": "lake/gold",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 63
+					},
+					"frame": {
+						"x": 1831,
+						"y": 554,
+						"w": 154,
+						"h": 63
+					}
+				},
+				{
+					"filename": "lake/water_pieces/water_piece10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 717,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 717,
+						"h": 92
+					},
+					"frame": {
+						"x": 1256,
+						"y": 869,
+						"w": 717,
+						"h": 92
+					}
+				},
+				{
+					"filename": "lake/barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 108
+					},
+					"frame": {
+						"x": 1256,
+						"y": 963,
+						"w": 157,
+						"h": 108
+					}
+				},
+				{
+					"filename": "lake/gold1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 98
+					},
+					"frame": {
+						"x": 1415,
+						"y": 963,
+						"w": 160,
+						"h": 98
+					}
+				},
+				{
+					"filename": "lake/fall/fall0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 161,
+						"h": 62
+					},
+					"frame": {
+						"x": 1577,
+						"y": 963,
+						"w": 161,
+						"h": 62
+					}
+				},
+				{
+					"filename": "lake/fall/fall0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 161,
+						"h": 62
+					},
+					"frame": {
+						"x": 1577,
+						"y": 963,
+						"w": 161,
+						"h": 62
+					}
+				},
+				{
+					"filename": "lake/fall/fall0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 170,
+						"h": 58
+					},
+					"frame": {
+						"x": 1740,
+						"y": 963,
+						"w": 170,
+						"h": 58
+					}
+				},
+				{
+					"filename": "lake/fall/fall0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 170,
+						"h": 58
+					},
+					"frame": {
+						"x": 1740,
+						"y": 963,
+						"w": 170,
+						"h": 58
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8596eb94103a4ccc1c8fa2e4321de7d9:1f3630d91e121836426a46a7bd0586a4:11f2110bb4b0b9f0657697a4d60e22ec$"
+	}
+}

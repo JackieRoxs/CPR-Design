@@ -1,0 +1,275 @@
+{
+    "anims": [
+        {
+            "key": "party1/party1/cannon/cannon",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "party1@4x",
+                    "frame": "party1/party1/cannon/cannon0043",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

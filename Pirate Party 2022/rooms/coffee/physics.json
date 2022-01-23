@@ -1,0 +1,111 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"town": {
+		"type": "fromPhysicsEditor",
+		"label": "town",
+		"isStatic": false,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":853, "y":313 }, { "x":688, "y":308 }, { "x":685, "y":403 }, { "x":843, "y":410 } ]
+				]
+			}
+		]
+	},
+	"book": {
+		"type": "fromPhysicsEditor",
+		"label": "book",
+		"isStatic": false,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1435, "y":815 }, { "x":1380, "y":680 }, { "x":1187, "y":695 }, { "x":1228, "y":826 } ]
+				]
+			}
+		]
+	},
+	"java": {
+		"type": "fromPhysicsEditor",
+		"label": "java",
+		"isStatic": false,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1142, "y":751 }, { "x":1143, "y":621 }, { "x":969, "y":622 }, { "x":969, "y":748 } ]
+				]
+			}
+		]
+	},
+	"walls": {
+		"type": "fromPhysicsEditor",
+		"label": "walls",
+		"isStatic": false,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":981, "y":534 }, { "x":1019, "y":574 }, { "x":1064, "y":590 }, { "x":984, "y":488 } ],
+					[ { "x":1171, "y":731 }, { "x":1237, "y":735 }, { "x":1064, "y":590 }, { "x":1119, "y":674 } ],
+					[ { "x":1064, "y":590 }, { "x":1237, "y":735 }, { "x":1239, "y":719 }, { "x":906, "y":371 }, { "x":984, "y":488 } ],
+					[ { "x":1239, "y":719 }, { "x":1335, "y":721 }, { "x":1570, "y":-103 }, { "x":906, "y":371 } ],
+					[ { "x":1551, "y":941 }, { "x":1570, "y":-103 }, { "x":1335, "y":721 }, { "x":1529, "y":924 } ],
+					[ { "x":1570, "y":-103 }, { "x":-14, "y":-100 }, { "x":845, "y":363 }, { "x":906, "y":371 } ],
+					[ { "x":845, "y":363 }, { "x":-14, "y":-100 }, { "x":631, "y":356 } ],
+					[ { "x":631, "y":356 }, { "x":-14, "y":-100 }, { "x":519, "y":364 } ],
+					[ { "x":519, "y":364 }, { "x":-14, "y":-100 }, { "x":423, "y":377 } ],
+					[ { "x":423, "y":377 }, { "x":-14, "y":-100 }, { "x":219, "y":580 } ],
+					[ { "x":219, "y":580 }, { "x":-14, "y":-100 }, { "x":53, "y":804 } ],
+					[ { "x":-14, "y":-100 }, { "x":-8, "y":980 }, { "x":17, "y":944 }, { "x":53, "y":804 } ],
+					[ { "x":-8, "y":980 }, { "x":1534, "y":976 }, { "x":1523, "y":945 }, { "x":17, "y":944 } ]
+				]
+			}
+		]
+	}
+}

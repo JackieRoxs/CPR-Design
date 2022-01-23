@@ -1,0 +1,586 @@
+{
+  "anims": [
+    {
+      "key": "plaza/smoke/smoke",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0001",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0002",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0003",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0004",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0005",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0006",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0007",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0008",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0009",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0010",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0011",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/smoke/smoke0012",
+          "duration": 0,
+          "keyframe": false
+        }
+      ],
+      "frameRate": 24,
+      "skipMissedFrames": true,
+      "repeat": -1
+    },
+    {
+      "key": "plaza/cfc/cfc_anim",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0001",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0002",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0003",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0004",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0005",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0006",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0007",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0008",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0009",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0010",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0011",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0012",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0013",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0014",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0015",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0016",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0017",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0018",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0019",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0020",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0021",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0022",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0023",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0024",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0025",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0026",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0027",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0028",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0029",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0030",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0031",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0032",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0033",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0034",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0035",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0036",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0037",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0038",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0039",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc_anim0040",
+          "duration": 0,
+          "keyframe": false
+        }
+      ],
+      "frameRate": 24,
+      "skipMissedFrames": true
+    },
+    {
+      "key": "plaza/cfc/cfc",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0001",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0002",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0003",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0004",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0005",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0006",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0007",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0008",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0009",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0010",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0011",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0012",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0013",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0014",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0015",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0016",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0017",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0018",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0019",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0020",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0021",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0022",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0023",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0024",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0025",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0026",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0027",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0028",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0029",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0030",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0031",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0032",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0033",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0034",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0035",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0036",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0037",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0038",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0039",
+          "duration": 0,
+          "keyframe": false
+        },
+        {
+          "key": "plaza",
+          "frame": "plaza/cfc/cfc0040",
+          "duration": 0,
+          "keyframe": false
+        }
+      ],
+      "frameRate": 24,
+      "skipMissedFrames": true
+    }
+  ],
+  "globalTimeScale": 1,
+  "meta": {
+    "app": "Phaser Editor 2D v3",
+    "contentType": "Phaser v3 Animations"
+  }
+}

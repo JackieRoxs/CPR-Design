@@ -1,0 +1,2688 @@
+{
+	"textures": [
+		{
+			"image": "mtn@4x-0.png?h=d78d72876e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 2046
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mtn/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1570,
+						"h": 1113
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 82,
+						"w": 1566,
+						"h": 1031
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1566,
+						"h": 1031
+					}
+				},
+				{
+					"filename": "mtn/mountain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1503,
+						"h": 756
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1503,
+						"h": 756
+					},
+					"frame": {
+						"x": 1,
+						"y": 1034,
+						"w": 1503,
+						"h": 756
+					}
+				},
+				{
+					"filename": "mtn/lift/base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 517,
+						"h": 421
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 517,
+						"h": 421
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1034,
+						"w": 517,
+						"h": 421
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 42,
+						"w": 537,
+						"h": 389
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1457,
+						"w": 537,
+						"h": 389
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 59,
+						"w": 472,
+						"h": 351
+					},
+					"frame": {
+						"x": 1569,
+						"y": 1,
+						"w": 472,
+						"h": 351
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 64,
+						"w": 458,
+						"h": 342
+					},
+					"frame": {
+						"x": 1569,
+						"y": 354,
+						"w": 458,
+						"h": 342
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 69,
+						"w": 445,
+						"h": 333
+					},
+					"frame": {
+						"x": 1569,
+						"y": 698,
+						"w": 445,
+						"h": 333
+					}
+				},
+				{
+					"filename": "mtn/stick2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 67
+					},
+					"frame": {
+						"x": 2016,
+						"y": 698,
+						"w": 25,
+						"h": 67
+					}
+				},
+				{
+					"filename": "mtn/buy_pin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 12,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 2016,
+						"y": 767,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 117,
+						"w": 322,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 1792,
+						"w": 322,
+						"h": 249
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 197,
+						"y": 123,
+						"w": 307,
+						"h": 239
+					},
+					"frame": {
+						"x": 325,
+						"y": 1792,
+						"w": 307,
+						"h": 239
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 128,
+						"w": 297,
+						"h": 230
+					},
+					"frame": {
+						"x": 634,
+						"y": 1792,
+						"w": 297,
+						"h": 230
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 211,
+						"y": 132,
+						"w": 286,
+						"h": 223
+					},
+					"frame": {
+						"x": 933,
+						"y": 1792,
+						"w": 286,
+						"h": 223
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 215,
+						"y": 107,
+						"w": 250,
+						"h": 252
+					},
+					"frame": {
+						"x": 1221,
+						"y": 1792,
+						"w": 250,
+						"h": 252
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 146,
+						"w": 255,
+						"h": 197
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1848,
+						"w": 255,
+						"h": 197
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 151,
+						"w": 245,
+						"h": 188
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1848,
+						"w": 245,
+						"h": 188
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 8,
+						"w": 65,
+						"h": 120
+					},
+					"frame": {
+						"x": 1977,
+						"y": 1848,
+						"w": 65,
+						"h": 120
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 4,
+						"w": 65,
+						"h": 120
+					},
+					"frame": {
+						"x": 1977,
+						"y": 1848,
+						"w": 65,
+						"h": 120
+					}
+				},
+				{
+					"filename": "mtn/buy_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 54
+					},
+					"frame": {
+						"x": 1977,
+						"y": 1970,
+						"w": 56,
+						"h": 54
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn@4x-1.png?h=d78d72876e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2013,
+				"h": 2041
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mtn/lift/lift_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 560,
+						"h": 436
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 560,
+						"h": 436
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 561,
+						"h": 429
+					},
+					"frame": {
+						"x": 563,
+						"y": 1,
+						"w": 561,
+						"h": 429
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 26,
+						"w": 550,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 439,
+						"w": 550,
+						"h": 421
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 27,
+						"w": 549,
+						"h": 414
+					},
+					"frame": {
+						"x": 1126,
+						"y": 1,
+						"w": 549,
+						"h": 414
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 39,
+						"w": 550,
+						"h": 397
+					},
+					"frame": {
+						"x": 1,
+						"y": 862,
+						"w": 550,
+						"h": 397
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 46,
+						"w": 526,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 1261,
+						"w": 526,
+						"h": 379
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 49,
+						"w": 512,
+						"h": 373
+					},
+					"frame": {
+						"x": 1,
+						"y": 1642,
+						"w": 512,
+						"h": 373
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 111,
+						"w": 335,
+						"h": 259
+					},
+					"frame": {
+						"x": 1677,
+						"y": 1,
+						"w": 335,
+						"h": 259
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 52,
+						"w": 499,
+						"h": 366
+					},
+					"frame": {
+						"x": 1126,
+						"y": 417,
+						"w": 499,
+						"h": 366
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 56,
+						"w": 485,
+						"h": 358
+					},
+					"frame": {
+						"x": 563,
+						"y": 432,
+						"w": 485,
+						"h": 358
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 73,
+						"w": 431,
+						"h": 325
+					},
+					"frame": {
+						"x": 553,
+						"y": 792,
+						"w": 431,
+						"h": 325
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 78,
+						"w": 418,
+						"h": 316
+					},
+					"frame": {
+						"x": 553,
+						"y": 1119,
+						"w": 418,
+						"h": 316
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 82,
+						"w": 404,
+						"h": 308
+					},
+					"frame": {
+						"x": 529,
+						"y": 1437,
+						"w": 404,
+						"h": 308
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 93,
+						"w": 377,
+						"h": 289
+					},
+					"frame": {
+						"x": 515,
+						"y": 1747,
+						"w": 377,
+						"h": 289
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 83,
+						"w": 321,
+						"h": 315
+					},
+					"frame": {
+						"x": 1677,
+						"y": 262,
+						"w": 321,
+						"h": 315
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 155,
+						"y": 99,
+						"w": 363,
+						"h": 279
+					},
+					"frame": {
+						"x": 1627,
+						"y": 579,
+						"w": 363,
+						"h": 279
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 184,
+						"y": 88,
+						"w": 307,
+						"h": 302
+					},
+					"frame": {
+						"x": 986,
+						"y": 792,
+						"w": 307,
+						"h": 302
+					}
+				},
+				{
+					"filename": "mtn/pole0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 247,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 247,
+						"h": 300
+					},
+					"frame": {
+						"x": 1295,
+						"y": 785,
+						"w": 247,
+						"h": 300
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 87,
+						"w": 390,
+						"h": 299
+					},
+					"frame": {
+						"x": 1544,
+						"y": 860,
+						"w": 390,
+						"h": 299
+					}
+				},
+				{
+					"filename": "mtn/pole0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 247,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 247,
+						"h": 300
+					},
+					"frame": {
+						"x": 935,
+						"y": 1437,
+						"w": 247,
+						"h": 300
+					}
+				},
+				{
+					"filename": "mtn/pole0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 247,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 247,
+						"h": 300
+					},
+					"frame": {
+						"x": 1295,
+						"y": 1087,
+						"w": 247,
+						"h": 300
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 165,
+						"y": 105,
+						"w": 349,
+						"h": 269
+					},
+					"frame": {
+						"x": 1544,
+						"y": 1161,
+						"w": 349,
+						"h": 269
+					}
+				},
+				{
+					"filename": "mtn/pole0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 247,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 247,
+						"h": 300
+					},
+					"frame": {
+						"x": 1184,
+						"y": 1389,
+						"w": 247,
+						"h": 300
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 112,
+						"w": 237,
+						"h": 240
+					},
+					"frame": {
+						"x": 1433,
+						"y": 1432,
+						"w": 237,
+						"h": 240
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 117,
+						"w": 223,
+						"h": 227
+					},
+					"frame": {
+						"x": 1672,
+						"y": 1432,
+						"w": 223,
+						"h": 227
+					}
+				},
+				{
+					"filename": "mtn/tree1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 220
+					},
+					"frame": {
+						"x": 894,
+						"y": 1747,
+						"w": 165,
+						"h": 220
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 122,
+						"w": 209,
+						"h": 217
+					},
+					"frame": {
+						"x": 1061,
+						"y": 1739,
+						"w": 209,
+						"h": 217
+					}
+				},
+				{
+					"filename": "mtn/tree2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 216
+					},
+					"frame": {
+						"x": 1272,
+						"y": 1691,
+						"w": 166,
+						"h": 216
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 127,
+						"w": 197,
+						"h": 207
+					},
+					"frame": {
+						"x": 1440,
+						"y": 1674,
+						"w": 197,
+						"h": 207
+					}
+				},
+				{
+					"filename": "mtn/buy2_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 126,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 1895,
+						"y": 1161,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 132,
+						"w": 183,
+						"h": 197
+					},
+					"frame": {
+						"x": 1639,
+						"y": 1674,
+						"w": 183,
+						"h": 197
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 206,
+						"w": 108,
+						"h": 82
+					},
+					"frame": {
+						"x": 1061,
+						"y": 1958,
+						"w": 108,
+						"h": 82
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 303,
+						"y": 171,
+						"w": 96,
+						"h": 123
+					},
+					"frame": {
+						"x": 1895,
+						"y": 1264,
+						"w": 96,
+						"h": 123
+					}
+				},
+				{
+					"filename": "mtn/bunnyhill0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 94
+					},
+					"frame": {
+						"x": 1897,
+						"y": 1389,
+						"w": 115,
+						"h": 94
+					}
+				},
+				{
+					"filename": "mtn/bunnyhill0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 94
+					},
+					"frame": {
+						"x": 1897,
+						"y": 1485,
+						"w": 115,
+						"h": 94
+					}
+				},
+				{
+					"filename": "mtn/bunnyhill0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 94
+					},
+					"frame": {
+						"x": 1897,
+						"y": 1581,
+						"w": 115,
+						"h": 94
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 282,
+						"y": 178,
+						"w": 181,
+						"h": 138
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1677,
+						"w": 181,
+						"h": 138
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 183,
+						"w": 170,
+						"h": 129
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1817,
+						"w": 170,
+						"h": 129
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 296,
+						"y": 187,
+						"w": 161,
+						"h": 121
+					},
+					"frame": {
+						"x": 1272,
+						"y": 1909,
+						"w": 161,
+						"h": 121
+					}
+				},
+				{
+					"filename": "mtn/stick1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 61
+					},
+					"frame": {
+						"x": 1544,
+						"y": 785,
+						"w": 81,
+						"h": 61
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 318,
+						"y": 201,
+						"w": 121,
+						"h": 92
+					},
+					"frame": {
+						"x": 1435,
+						"y": 1948,
+						"w": 121,
+						"h": 92
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 63,
+						"h": 119
+					},
+					"frame": {
+						"x": 1050,
+						"y": 432,
+						"w": 63,
+						"h": 119
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 63,
+						"h": 118
+					},
+					"frame": {
+						"x": 1050,
+						"y": 553,
+						"w": 63,
+						"h": 118
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 304,
+						"y": 192,
+						"w": 147,
+						"h": 111
+					},
+					"frame": {
+						"x": 986,
+						"y": 1096,
+						"w": 147,
+						"h": 111
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 311,
+						"y": 196,
+						"w": 134,
+						"h": 102
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1096,
+						"w": 134,
+						"h": 102
+					}
+				},
+				{
+					"filename": "mtn/buy2_0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 109
+					},
+					"frame": {
+						"x": 973,
+						"y": 1209,
+						"w": 126,
+						"h": 109
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 43,
+						"w": 96,
+						"h": 114
+					},
+					"frame": {
+						"x": 973,
+						"y": 1320,
+						"w": 96,
+						"h": 114
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 39,
+						"w": 96,
+						"h": 114
+					},
+					"frame": {
+						"x": 973,
+						"y": 1320,
+						"w": 96,
+						"h": 114
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 330,
+						"y": 211,
+						"w": 96,
+						"h": 72
+					},
+					"frame": {
+						"x": 1171,
+						"y": 1958,
+						"w": 96,
+						"h": 72
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 62,
+						"h": 104
+					},
+					"frame": {
+						"x": 1050,
+						"y": 673,
+						"w": 62,
+						"h": 104
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 62,
+						"h": 104
+					},
+					"frame": {
+						"x": 1050,
+						"y": 673,
+						"w": 62,
+						"h": 104
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 336,
+						"y": 210,
+						"w": 84,
+						"h": 68
+					},
+					"frame": {
+						"x": 894,
+						"y": 1969,
+						"w": 84,
+						"h": 68
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 335,
+						"y": 203,
+						"w": 79,
+						"h": 70
+					},
+					"frame": {
+						"x": 980,
+						"y": 1969,
+						"w": 79,
+						"h": 70
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 47,
+						"w": 96,
+						"h": 113
+					},
+					"frame": {
+						"x": 1101,
+						"y": 1209,
+						"w": 96,
+						"h": 113
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 168,
+						"y": 79,
+						"w": 93,
+						"h": 103
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1324,
+						"w": 93,
+						"h": 103
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 316,
+						"y": 184,
+						"w": 81,
+						"h": 99
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1200,
+						"w": 81,
+						"h": 99
+					}
+				},
+				{
+					"filename": "mtn/bunnyhill0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 94
+					},
+					"frame": {
+						"x": 1639,
+						"y": 1873,
+						"w": 115,
+						"h": 94
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 329,
+						"y": 197,
+						"w": 79,
+						"h": 76
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1883,
+						"w": 79,
+						"h": 76
+					}
+				},
+				{
+					"filename": "mtn/buy_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1936,
+						"y": 860,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "mtn/buy_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1936,
+						"y": 860,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "mtn/buy_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1756,
+						"y": 1873,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "mtn/buy_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1756,
+						"y": 1873,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "mtn/buy_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1184,
+						"y": 1691,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "mtn/buy_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1184,
+						"y": 1691,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "mtn/seat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 78
+					},
+					"frame": {
+						"x": 1756,
+						"y": 1948,
+						"w": 102,
+						"h": 78
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 322,
+						"y": 190,
+						"w": 81,
+						"h": 88
+					},
+					"frame": {
+						"x": 1860,
+						"y": 1948,
+						"w": 81,
+						"h": 88
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn@4x-2.png?h=d78d72876e",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1071,
+				"h": 1019
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mtn/lift/lift_0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 191,
+						"y": 93,
+						"w": 293,
+						"h": 290
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 293,
+						"h": 290
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 98,
+						"w": 279,
+						"h": 277
+					},
+					"frame": {
+						"x": 1,
+						"y": 293,
+						"w": 279,
+						"h": 277
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 103,
+						"w": 265,
+						"h": 264
+					},
+					"frame": {
+						"x": 1,
+						"y": 572,
+						"w": 265,
+						"h": 264
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 155,
+						"w": 234,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 838,
+						"w": 234,
+						"h": 180
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 160,
+						"w": 223,
+						"h": 171
+					},
+					"frame": {
+						"x": 237,
+						"y": 838,
+						"w": 223,
+						"h": 171
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 218,
+						"y": 137,
+						"w": 276,
+						"h": 214
+					},
+					"frame": {
+						"x": 268,
+						"y": 572,
+						"w": 276,
+						"h": 214
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 141,
+						"w": 266,
+						"h": 206
+					},
+					"frame": {
+						"x": 462,
+						"y": 788,
+						"w": 266,
+						"h": 206
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 164,
+						"w": 212,
+						"h": 163
+					},
+					"frame": {
+						"x": 282,
+						"y": 293,
+						"w": 212,
+						"h": 163
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 51,
+						"w": 95,
+						"h": 112
+					},
+					"frame": {
+						"x": 282,
+						"y": 458,
+						"w": 95,
+						"h": 112
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 55,
+						"w": 95,
+						"h": 111
+					},
+					"frame": {
+						"x": 379,
+						"y": 458,
+						"w": 95,
+						"h": 111
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 59,
+						"w": 95,
+						"h": 109
+					},
+					"frame": {
+						"x": 476,
+						"y": 458,
+						"w": 95,
+						"h": 109
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 138,
+						"w": 171,
+						"h": 186
+					},
+					"frame": {
+						"x": 546,
+						"y": 569,
+						"w": 171,
+						"h": 186
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 268,
+						"y": 169,
+						"w": 202,
+						"h": 155
+					},
+					"frame": {
+						"x": 296,
+						"y": 1,
+						"w": 202,
+						"h": 155
+					}
+				},
+				{
+					"filename": "mtn/express0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 121
+					},
+					"frame": {
+						"x": 296,
+						"y": 158,
+						"w": 143,
+						"h": 121
+					}
+				},
+				{
+					"filename": "mtn/express0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 121
+					},
+					"frame": {
+						"x": 441,
+						"y": 158,
+						"w": 143,
+						"h": 121
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 173,
+						"w": 192,
+						"h": 146
+					},
+					"frame": {
+						"x": 500,
+						"y": 1,
+						"w": 192,
+						"h": 146
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 148,
+						"w": 145,
+						"h": 166
+					},
+					"frame": {
+						"x": 496,
+						"y": 281,
+						"w": 145,
+						"h": 166
+					}
+				},
+				{
+					"filename": "mtn/express0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 121
+					},
+					"frame": {
+						"x": 586,
+						"y": 149,
+						"w": 143,
+						"h": 121
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 158,
+						"w": 119,
+						"h": 146
+					},
+					"frame": {
+						"x": 694,
+						"y": 1,
+						"w": 119,
+						"h": 146
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 137,
+						"y": 63,
+						"w": 95,
+						"h": 108
+					},
+					"frame": {
+						"x": 573,
+						"y": 449,
+						"w": 95,
+						"h": 108
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 283,
+						"y": 153,
+						"w": 132,
+						"h": 156
+					},
+					"frame": {
+						"x": 643,
+						"y": 272,
+						"w": 132,
+						"h": 156
+					}
+				},
+				{
+					"filename": "mtn/express0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 121
+					},
+					"frame": {
+						"x": 731,
+						"y": 149,
+						"w": 143,
+						"h": 121
+					}
+				},
+				{
+					"filename": "mtn/penguinrun0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 124
+					},
+					"frame": {
+						"x": 815,
+						"y": 1,
+						"w": 134,
+						"h": 124
+					}
+				},
+				{
+					"filename": "mtn/penguinrun0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 124
+					},
+					"frame": {
+						"x": 670,
+						"y": 430,
+						"w": 134,
+						"h": 124
+					}
+				},
+				{
+					"filename": "mtn/penguinrun0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 124
+					},
+					"frame": {
+						"x": 777,
+						"y": 272,
+						"w": 134,
+						"h": 124
+					}
+				},
+				{
+					"filename": "mtn/penguinrun0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 124
+					},
+					"frame": {
+						"x": 876,
+						"y": 127,
+						"w": 134,
+						"h": 124
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 67,
+						"w": 94,
+						"h": 107
+					},
+					"frame": {
+						"x": 951,
+						"y": 1,
+						"w": 94,
+						"h": 107
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 268,
+						"y": 142,
+						"w": 157,
+						"h": 177
+					},
+					"frame": {
+						"x": 719,
+						"y": 556,
+						"w": 157,
+						"h": 177
+					}
+				},
+				{
+					"filename": "mtn/ridgerun0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 137
+					},
+					"frame": {
+						"x": 806,
+						"y": 398,
+						"w": 114,
+						"h": 137
+					}
+				},
+				{
+					"filename": "mtn/ridgerun0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 137
+					},
+					"frame": {
+						"x": 913,
+						"y": 253,
+						"w": 114,
+						"h": 137
+					}
+				},
+				{
+					"filename": "mtn/ridgerun0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 137
+					},
+					"frame": {
+						"x": 878,
+						"y": 537,
+						"w": 114,
+						"h": 137
+					}
+				},
+				{
+					"filename": "mtn/ridgerun0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 137
+					},
+					"frame": {
+						"x": 922,
+						"y": 392,
+						"w": 114,
+						"h": 137
+					}
+				},
+				{
+					"filename": "mtn/buy_sled",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 111
+					},
+					"frame": {
+						"x": 994,
+						"y": 531,
+						"w": 76,
+						"h": 111
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 297,
+						"y": 165,
+						"w": 107,
+						"h": 134
+					},
+					"frame": {
+						"x": 878,
+						"y": 676,
+						"w": 107,
+						"h": 134
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 310,
+						"y": 178,
+						"w": 83,
+						"h": 110
+					},
+					"frame": {
+						"x": 987,
+						"y": 676,
+						"w": 83,
+						"h": 110
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 24,
+						"w": 82,
+						"h": 108
+					},
+					"frame": {
+						"x": 987,
+						"y": 788,
+						"w": 82,
+						"h": 108
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 20,
+						"w": 82,
+						"h": 108
+					},
+					"frame": {
+						"x": 987,
+						"y": 788,
+						"w": 82,
+						"h": 108
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 70,
+						"w": 94,
+						"h": 106
+					},
+					"frame": {
+						"x": 730,
+						"y": 898,
+						"w": 94,
+						"h": 106
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 160,
+						"y": 74,
+						"w": 94,
+						"h": 105
+					},
+					"frame": {
+						"x": 730,
+						"y": 735,
+						"w": 94,
+						"h": 105
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 37,
+						"w": 84,
+						"h": 108
+					},
+					"frame": {
+						"x": 826,
+						"y": 898,
+						"w": 84,
+						"h": 108
+					}
+				},
+				{
+					"filename": "mtn/lift/lift_0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 561,
+						"h": 457
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 33,
+						"w": 84,
+						"h": 108
+					},
+					"frame": {
+						"x": 912,
+						"y": 898,
+						"w": 84,
+						"h": 108
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1003ee9fb7d916169be1717303409a4f:e90aacbcad25762456607d5401122a1b:b26967f5bd698efafb79dc8b51f900ee$"
+	}
+}

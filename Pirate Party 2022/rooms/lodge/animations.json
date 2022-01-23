@@ -1,0 +1,1212 @@
+{
+    "anims": [
+        {
+            "key": "lodge/cam/cam",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/cam/cam0036",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "lodge/candle/flame",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flame_0014",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lodge/candle/flameoff",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/candle/flameoff_0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lodge/chairlight/chairlight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/chairlight/chairlight0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "lodge/flame/fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/flame/fire0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lodge/horse/nay",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lodge@4x",
+                    "frame": "lodge/horse/nay0070",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

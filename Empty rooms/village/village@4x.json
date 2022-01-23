@@ -1,0 +1,4546 @@
+{
+	"textures": [
+		{
+			"image": "village@4x-0.png?h=a9a3d2e723",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 2046
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "village/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2022,
+						"h": 1323
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 83,
+						"w": 2022,
+						"h": 1240
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2022,
+						"h": 1240
+					}
+				},
+				{
+					"filename": "village/bush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 596,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 596,
+						"h": 247
+					},
+					"frame": {
+						"x": 1,
+						"y": 1243,
+						"w": 596,
+						"h": 247
+					}
+				},
+				{
+					"filename": "village/ride/ride",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 563,
+						"h": 413
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 563,
+						"h": 413
+					},
+					"frame": {
+						"x": 599,
+						"y": 1243,
+						"w": 563,
+						"h": 413
+					}
+				},
+				{
+					"filename": "village/epf/epf_snow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 331,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 331,
+						"h": 276
+					},
+					"frame": {
+						"x": 1,
+						"y": 1492,
+						"w": 331,
+						"h": 276
+					}
+				},
+				{
+					"filename": "village/tour/tour_btn0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 248,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 248,
+						"h": 297
+					},
+					"frame": {
+						"x": 334,
+						"y": 1492,
+						"w": 248,
+						"h": 297
+					}
+				},
+				{
+					"filename": "village/chest/chest0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 204,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 204,
+						"h": 204
+					},
+					"frame": {
+						"x": 1,
+						"y": 1770,
+						"w": 204,
+						"h": 204
+					}
+				},
+				{
+					"filename": "village/ride/seats_0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 643,
+						"y": 393,
+						"w": 90,
+						"h": 172
+					},
+					"frame": {
+						"x": 207,
+						"y": 1770,
+						"w": 90,
+						"h": 172
+					}
+				},
+				{
+					"filename": "village/ride/seats_0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 637,
+						"y": 393,
+						"w": 90,
+						"h": 172
+					},
+					"frame": {
+						"x": 207,
+						"y": 1770,
+						"w": 90,
+						"h": 172
+					}
+				},
+				{
+					"filename": "village/palm",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 479,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 479,
+						"h": 663
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1243,
+						"w": 479,
+						"h": 663
+					}
+				},
+				{
+					"filename": "village/bush1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 421,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 421,
+						"h": 235
+					},
+					"frame": {
+						"x": 584,
+						"y": 1658,
+						"w": 421,
+						"h": 235
+					}
+				},
+				{
+					"filename": "village/chest/chest0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 57,
+						"w": 204,
+						"h": 147
+					},
+					"frame": {
+						"x": 299,
+						"y": 1791,
+						"w": 204,
+						"h": 147
+					}
+				},
+				{
+					"filename": "village/ride/seats_0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 682,
+						"y": 392,
+						"w": 67,
+						"h": 171
+					},
+					"frame": {
+						"x": 505,
+						"y": 1791,
+						"w": 67,
+						"h": 171
+					}
+				},
+				{
+					"filename": "village/epf/epf_logo0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 184,
+						"h": 87
+					},
+					"frame": {
+						"x": 299,
+						"y": 1940,
+						"w": 184,
+						"h": 87
+					}
+				},
+				{
+					"filename": "village/sign1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 99
+					},
+					"frame": {
+						"x": 207,
+						"y": 1944,
+						"w": 83,
+						"h": 99
+					}
+				},
+				{
+					"filename": "village/tour/tour_sign_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 206,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 191,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 1976,
+						"w": 191,
+						"h": 66
+					}
+				},
+				{
+					"filename": "village/ride/seats_0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 679,
+						"y": 392,
+						"w": 67,
+						"h": 171
+					},
+					"frame": {
+						"x": 1007,
+						"y": 1658,
+						"w": 67,
+						"h": 171
+					}
+				},
+				{
+					"filename": "village/ride/seats_0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 609,
+						"y": 389,
+						"w": 110,
+						"h": 169
+					},
+					"frame": {
+						"x": 1007,
+						"y": 1831,
+						"w": 110,
+						"h": 169
+					}
+				},
+				{
+					"filename": "village/ride/seats_0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 603,
+						"y": 389,
+						"w": 110,
+						"h": 169
+					},
+					"frame": {
+						"x": 1007,
+						"y": 1831,
+						"w": 110,
+						"h": 169
+					}
+				},
+				{
+					"filename": "village/epf/epf_door_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 194,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 86,
+						"w": 64,
+						"h": 158
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1658,
+						"w": 64,
+						"h": 158
+					}
+				},
+				{
+					"filename": "village/smoke/smoke_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 43,
+						"h": 126
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1818,
+						"w": 43,
+						"h": 126
+					}
+				},
+				{
+					"filename": "village/lodge/fence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 261,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 261,
+						"h": 71
+					},
+					"frame": {
+						"x": 574,
+						"y": 1895,
+						"w": 261,
+						"h": 71
+					}
+				},
+				{
+					"filename": "village/lodge/stairs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 61
+					},
+					"frame": {
+						"x": 485,
+						"y": 1964,
+						"w": 76,
+						"h": 61
+					}
+				},
+				{
+					"filename": "village/ride/seats_0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 689,
+						"y": 389,
+						"w": 143,
+						"h": 146
+					},
+					"frame": {
+						"x": 837,
+						"y": 1895,
+						"w": 143,
+						"h": 146
+					}
+				},
+				{
+					"filename": "village/ride/seats_0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 681,
+						"y": 391,
+						"w": 143,
+						"h": 146
+					},
+					"frame": {
+						"x": 837,
+						"y": 1895,
+						"w": 143,
+						"h": 146
+					}
+				},
+				{
+					"filename": "village/tour/tour_sign_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 206,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 206,
+						"h": 65
+					},
+					"frame": {
+						"x": 563,
+						"y": 1968,
+						"w": 206,
+						"h": 65
+					}
+				},
+				{
+					"filename": "village/tour/tour_btn0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 248,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 239,
+						"h": 284
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1243,
+						"w": 239,
+						"h": 284
+					}
+				},
+				{
+					"filename": "village/barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 196
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 196
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1529,
+						"w": 166,
+						"h": 196
+					}
+				},
+				{
+					"filename": "village/epf/epf_logo0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 167,
+						"h": 93
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1727,
+						"w": 167,
+						"h": 93
+					}
+				},
+				{
+					"filename": "village/ride/seats_0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 691,
+						"y": 394,
+						"w": 141,
+						"h": 124
+					},
+					"frame": {
+						"x": 1813,
+						"y": 1529,
+						"w": 141,
+						"h": 124
+					}
+				},
+				{
+					"filename": "village/tour/tour_sign_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 206,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 187,
+						"h": 69
+					},
+					"frame": {
+						"x": 1813,
+						"y": 1655,
+						"w": 187,
+						"h": 69
+					}
+				},
+				{
+					"filename": "village/tour/tour_sign_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 206,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 187,
+						"h": 69
+					},
+					"frame": {
+						"x": 1813,
+						"y": 1655,
+						"w": 187,
+						"h": 69
+					}
+				},
+				{
+					"filename": "village/ride/seats_0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 671,
+						"y": 391,
+						"w": 131,
+						"h": 168
+					},
+					"frame": {
+						"x": 1886,
+						"y": 1243,
+						"w": 131,
+						"h": 168
+					}
+				},
+				{
+					"filename": "village/ride/seats_0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 684,
+						"y": 399,
+						"w": 134,
+						"h": 101
+					},
+					"frame": {
+						"x": 1886,
+						"y": 1413,
+						"w": 134,
+						"h": 101
+					}
+				},
+				{
+					"filename": "village/ride/seats_0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 634,
+						"y": 339,
+						"w": 87,
+						"h": 137
+					},
+					"frame": {
+						"x": 1956,
+						"y": 1516,
+						"w": 87,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 669,
+						"y": 391,
+						"w": 131,
+						"h": 168
+					},
+					"frame": {
+						"x": 1814,
+						"y": 1726,
+						"w": 131,
+						"h": 168
+					}
+				},
+				{
+					"filename": "village/ride/seats_0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 569,
+						"y": 386,
+						"w": 137,
+						"h": 151
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1822,
+						"w": 137,
+						"h": 151
+					}
+				},
+				{
+					"filename": "village/epf/epf_logo0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 184,
+						"h": 70
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1896,
+						"w": 184,
+						"h": 70
+					}
+				},
+				{
+					"filename": "village/ride/seats_0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 642,
+						"y": 341,
+						"w": 87,
+						"h": 138
+					},
+					"frame": {
+						"x": 1947,
+						"y": 1726,
+						"w": 87,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/epf/epf_door_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 194,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 86,
+						"w": 64,
+						"h": 146
+					},
+					"frame": {
+						"x": 1970,
+						"y": 1866,
+						"w": 64,
+						"h": 146
+					}
+				},
+				{
+					"filename": "village/stairs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 77
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1968,
+						"w": 108,
+						"h": 77
+					}
+				},
+				{
+					"filename": "village/epf/epf_logo0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 167,
+						"h": 90
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1908,
+						"w": 167,
+						"h": 90
+					}
+				},
+				{
+					"filename": "village/lodge/lodge_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 80,
+						"w": 38,
+						"h": 84
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1946,
+						"w": 38,
+						"h": 84
+					}
+				},
+				{
+					"filename": "village/ride/seats_0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 691,
+						"y": 380,
+						"w": 139,
+						"h": 125
+					},
+					"frame": {
+						"x": 1333,
+						"y": 1908,
+						"w": 139,
+						"h": 125
+					}
+				},
+				{
+					"filename": "village/ride/seats_0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 670,
+						"y": 390,
+						"w": 127,
+						"h": 103
+					},
+					"frame": {
+						"x": 1474,
+						"y": 1908,
+						"w": 127,
+						"h": 103
+					}
+				},
+				{
+					"filename": "village/lodge/lodge_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 85,
+						"w": 38,
+						"h": 81
+					},
+					"frame": {
+						"x": 1603,
+						"y": 1908,
+						"w": 38,
+						"h": 81
+					}
+				}
+			]
+		},
+		{
+			"image": "village@4x-1.png?h=a9a3d2e723",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1450,
+				"h": 2036
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "village/epf/epf_building",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 746
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 439,
+						"h": 746
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 439,
+						"h": 746
+					}
+				},
+				{
+					"filename": "village/sand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 522,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 522,
+						"h": 157
+					},
+					"frame": {
+						"x": 442,
+						"y": 1,
+						"w": 522,
+						"h": 157
+					}
+				},
+				{
+					"filename": "village/boatoverlay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 475,
+						"h": 198
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 475,
+						"h": 198
+					},
+					"frame": {
+						"x": 442,
+						"y": 160,
+						"w": 475,
+						"h": 198
+					}
+				},
+				{
+					"filename": "village/ride/seats_0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 560,
+						"y": 385,
+						"w": 137,
+						"h": 151
+					},
+					"frame": {
+						"x": 1,
+						"y": 749,
+						"w": 137,
+						"h": 151
+					}
+				},
+				{
+					"filename": "village/ride/seats_0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 559,
+						"y": 382,
+						"w": 128,
+						"h": 142
+					},
+					"frame": {
+						"x": 966,
+						"y": 1,
+						"w": 128,
+						"h": 142
+					}
+				},
+				{
+					"filename": "village/ride/seats_0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 551,
+						"y": 379,
+						"w": 127,
+						"h": 142
+					},
+					"frame": {
+						"x": 442,
+						"y": 360,
+						"w": 127,
+						"h": 142
+					}
+				},
+				{
+					"filename": "village/ride/seats_0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 534,
+						"y": 374,
+						"w": 127,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 902,
+						"w": 127,
+						"h": 142
+					}
+				},
+				{
+					"filename": "village/ride/seats_0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 543,
+						"y": 377,
+						"w": 126,
+						"h": 141
+					},
+					"frame": {
+						"x": 140,
+						"y": 749,
+						"w": 126,
+						"h": 141
+					}
+				},
+				{
+					"filename": "village/ride/seats_0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 372,
+						"w": 126,
+						"h": 141
+					},
+					"frame": {
+						"x": 1096,
+						"y": 1,
+						"w": 126,
+						"h": 141
+					}
+				},
+				{
+					"filename": "village/ride/seats_0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 518,
+						"y": 369,
+						"w": 126,
+						"h": 141
+					},
+					"frame": {
+						"x": 442,
+						"y": 504,
+						"w": 126,
+						"h": 141
+					}
+				},
+				{
+					"filename": "village/ride/seats_0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 509,
+						"y": 367,
+						"w": 126,
+						"h": 141
+					},
+					"frame": {
+						"x": 571,
+						"y": 360,
+						"w": 126,
+						"h": 141
+					}
+				},
+				{
+					"filename": "village/ride/seats_0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 501,
+						"y": 364,
+						"w": 126,
+						"h": 141
+					},
+					"frame": {
+						"x": 1,
+						"y": 1046,
+						"w": 126,
+						"h": 141
+					}
+				},
+				{
+					"filename": "village/ride/seats_0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 493,
+						"y": 361,
+						"w": 126,
+						"h": 141
+					},
+					"frame": {
+						"x": 268,
+						"y": 749,
+						"w": 126,
+						"h": 141
+					}
+				},
+				{
+					"filename": "village/ride/seats_0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 485,
+						"y": 358,
+						"w": 126,
+						"h": 140
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1,
+						"w": 126,
+						"h": 140
+					}
+				},
+				{
+					"filename": "village/ride/seats_0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 477,
+						"y": 355,
+						"w": 126,
+						"h": 140
+					},
+					"frame": {
+						"x": 699,
+						"y": 360,
+						"w": 126,
+						"h": 140
+					}
+				},
+				{
+					"filename": "village/ride/seats_0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 470,
+						"y": 351,
+						"w": 125,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 1189,
+						"w": 125,
+						"h": 140
+					}
+				},
+				{
+					"filename": "village/ride/seats_0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 462,
+						"y": 348,
+						"w": 125,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 1331,
+						"w": 125,
+						"h": 140
+					}
+				},
+				{
+					"filename": "village/ride/seats_0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 454,
+						"y": 345,
+						"w": 125,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 1473,
+						"w": 125,
+						"h": 139
+					}
+				},
+				{
+					"filename": "village/ride/seats_0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 446,
+						"y": 342,
+						"w": 125,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 1614,
+						"w": 125,
+						"h": 139
+					}
+				},
+				{
+					"filename": "village/ride/seats_0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 438,
+						"y": 338,
+						"w": 125,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 1755,
+						"w": 125,
+						"h": 139
+					}
+				},
+				{
+					"filename": "village/ride/seats_0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 430,
+						"y": 335,
+						"w": 125,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 1896,
+						"w": 125,
+						"h": 139
+					}
+				},
+				{
+					"filename": "village/ride/seats_0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 422,
+						"y": 332,
+						"w": 125,
+						"h": 139
+					},
+					"frame": {
+						"x": 827,
+						"y": 360,
+						"w": 125,
+						"h": 139
+					}
+				},
+				{
+					"filename": "village/ride/seats_0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 679,
+						"y": 395,
+						"w": 127,
+						"h": 100
+					},
+					"frame": {
+						"x": 442,
+						"y": 647,
+						"w": 127,
+						"h": 100
+					}
+				},
+				{
+					"filename": "village/ride/seats_0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 407,
+						"y": 325,
+						"w": 124,
+						"h": 139
+					},
+					"frame": {
+						"x": 396,
+						"y": 749,
+						"w": 124,
+						"h": 139
+					}
+				},
+				{
+					"filename": "village/ride/seats_0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 650,
+						"y": 344,
+						"w": 87,
+						"h": 138
+					},
+					"frame": {
+						"x": 1352,
+						"y": 1,
+						"w": 87,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 415,
+						"y": 329,
+						"w": 124,
+						"h": 138
+					},
+					"frame": {
+						"x": 522,
+						"y": 749,
+						"w": 124,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/smoke/smoke_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 138
+					},
+					"frame": {
+						"x": 919,
+						"y": 160,
+						"w": 45,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 399,
+						"y": 322,
+						"w": 124,
+						"h": 138
+					},
+					"frame": {
+						"x": 966,
+						"y": 145,
+						"w": 124,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 391,
+						"y": 318,
+						"w": 124,
+						"h": 138
+					},
+					"frame": {
+						"x": 130,
+						"y": 902,
+						"w": 124,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 384,
+						"y": 314,
+						"w": 123,
+						"h": 138
+					},
+					"frame": {
+						"x": 256,
+						"y": 892,
+						"w": 123,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 376,
+						"y": 311,
+						"w": 123,
+						"h": 138
+					},
+					"frame": {
+						"x": 381,
+						"y": 892,
+						"w": 123,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 368,
+						"y": 307,
+						"w": 123,
+						"h": 138
+					},
+					"frame": {
+						"x": 506,
+						"y": 890,
+						"w": 123,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 658,
+						"y": 348,
+						"w": 86,
+						"h": 138
+					},
+					"frame": {
+						"x": 631,
+						"y": 889,
+						"w": 86,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 665,
+						"y": 348,
+						"w": 86,
+						"h": 138
+					},
+					"frame": {
+						"x": 1092,
+						"y": 145,
+						"w": 86,
+						"h": 138
+					}
+				},
+				{
+					"filename": "village/ride/seats_0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 360,
+						"y": 304,
+						"w": 123,
+						"h": 137
+					},
+					"frame": {
+						"x": 1180,
+						"y": 144,
+						"w": 123,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 352,
+						"y": 301,
+						"w": 123,
+						"h": 137
+					},
+					"frame": {
+						"x": 1305,
+						"y": 143,
+						"w": 123,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 344,
+						"y": 298,
+						"w": 123,
+						"h": 137
+					},
+					"frame": {
+						"x": 129,
+						"y": 1046,
+						"w": 123,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 327,
+						"y": 293,
+						"w": 123,
+						"h": 137
+					},
+					"frame": {
+						"x": 128,
+						"y": 1189,
+						"w": 123,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 336,
+						"y": 295,
+						"w": 122,
+						"h": 137
+					},
+					"frame": {
+						"x": 128,
+						"y": 1328,
+						"w": 122,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 319,
+						"y": 291,
+						"w": 122,
+						"h": 137
+					},
+					"frame": {
+						"x": 128,
+						"y": 1467,
+						"w": 122,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 311,
+						"y": 288,
+						"w": 122,
+						"h": 137
+					},
+					"frame": {
+						"x": 128,
+						"y": 1606,
+						"w": 122,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 303,
+						"y": 286,
+						"w": 122,
+						"h": 136
+					},
+					"frame": {
+						"x": 128,
+						"y": 1745,
+						"w": 122,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 279,
+						"y": 276,
+						"w": 122,
+						"h": 136
+					},
+					"frame": {
+						"x": 128,
+						"y": 1883,
+						"w": 122,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 595,
+						"y": 326,
+						"w": 86,
+						"h": 137
+					},
+					"frame": {
+						"x": 570,
+						"y": 504,
+						"w": 86,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 668,
+						"y": 388,
+						"w": 115,
+						"h": 103
+					},
+					"frame": {
+						"x": 571,
+						"y": 643,
+						"w": 115,
+						"h": 103
+					}
+				},
+				{
+					"filename": "village/ride/seats_0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 603,
+						"y": 329,
+						"w": 86,
+						"h": 137
+					},
+					"frame": {
+						"x": 658,
+						"y": 503,
+						"w": 86,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 611,
+						"y": 331,
+						"w": 86,
+						"h": 137
+					},
+					"frame": {
+						"x": 746,
+						"y": 502,
+						"w": 86,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 295,
+						"y": 283,
+						"w": 121,
+						"h": 136
+					},
+					"frame": {
+						"x": 834,
+						"y": 501,
+						"w": 121,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 619,
+						"y": 334,
+						"w": 86,
+						"h": 137
+					},
+					"frame": {
+						"x": 648,
+						"y": 748,
+						"w": 86,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 627,
+						"y": 336,
+						"w": 86,
+						"h": 137
+					},
+					"frame": {
+						"x": 719,
+						"y": 887,
+						"w": 86,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/sign2w",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 92
+					},
+					"frame": {
+						"x": 688,
+						"y": 642,
+						"w": 73,
+						"h": 92
+					}
+				},
+				{
+					"filename": "village/ride/seats_0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 273,
+						"w": 122,
+						"h": 135
+					},
+					"frame": {
+						"x": 763,
+						"y": 641,
+						"w": 122,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 572,
+						"y": 319,
+						"w": 85,
+						"h": 137
+					},
+					"frame": {
+						"x": 887,
+						"y": 639,
+						"w": 85,
+						"h": 137
+					}
+				},
+				{
+					"filename": "village/ride/seats_0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 267,
+						"w": 121,
+						"h": 136
+					},
+					"frame": {
+						"x": 807,
+						"y": 778,
+						"w": 121,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 287,
+						"y": 280,
+						"w": 121,
+						"h": 135
+					},
+					"frame": {
+						"x": 807,
+						"y": 916,
+						"w": 121,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/smoke/smoke_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 44,
+						"h": 136
+					},
+					"frame": {
+						"x": 930,
+						"y": 778,
+						"w": 44,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 264,
+						"y": 270,
+						"w": 121,
+						"h": 135
+					},
+					"frame": {
+						"x": 930,
+						"y": 916,
+						"w": 121,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 587,
+						"y": 324,
+						"w": 86,
+						"h": 136
+					},
+					"frame": {
+						"x": 252,
+						"y": 1328,
+						"w": 86,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 549,
+						"y": 311,
+						"w": 85,
+						"h": 136
+					},
+					"frame": {
+						"x": 252,
+						"y": 1466,
+						"w": 85,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 556,
+						"y": 314,
+						"w": 85,
+						"h": 136
+					},
+					"frame": {
+						"x": 252,
+						"y": 1604,
+						"w": 85,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 564,
+						"y": 317,
+						"w": 85,
+						"h": 136
+					},
+					"frame": {
+						"x": 252,
+						"y": 1742,
+						"w": 85,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 580,
+						"y": 322,
+						"w": 85,
+						"h": 136
+					},
+					"frame": {
+						"x": 252,
+						"y": 1880,
+						"w": 85,
+						"h": 136
+					}
+				},
+				{
+					"filename": "village/ride/seats_0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 264,
+						"w": 121,
+						"h": 135
+					},
+					"frame": {
+						"x": 966,
+						"y": 285,
+						"w": 121,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 259,
+						"w": 121,
+						"h": 135
+					},
+					"frame": {
+						"x": 1089,
+						"y": 285,
+						"w": 121,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 263,
+						"w": 120,
+						"h": 135
+					},
+					"frame": {
+						"x": 1212,
+						"y": 283,
+						"w": 120,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 61,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 1334,
+						"y": 282,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 56,
+						"w": 115,
+						"h": 129
+					},
+					"frame": {
+						"x": 1334,
+						"y": 413,
+						"w": 115,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 251,
+						"w": 120,
+						"h": 135
+					},
+					"frame": {
+						"x": 1212,
+						"y": 420,
+						"w": 120,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 52,
+						"w": 115,
+						"h": 128
+					},
+					"frame": {
+						"x": 1334,
+						"y": 544,
+						"w": 115,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 244,
+						"w": 120,
+						"h": 134
+					},
+					"frame": {
+						"x": 957,
+						"y": 422,
+						"w": 120,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 217,
+						"y": 240,
+						"w": 120,
+						"h": 134
+					},
+					"frame": {
+						"x": 1079,
+						"y": 422,
+						"w": 120,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 210,
+						"y": 236,
+						"w": 120,
+						"h": 134
+					},
+					"frame": {
+						"x": 974,
+						"y": 558,
+						"w": 120,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 203,
+						"y": 231,
+						"w": 120,
+						"h": 134
+					},
+					"frame": {
+						"x": 1096,
+						"y": 558,
+						"w": 120,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 48,
+						"w": 113,
+						"h": 128
+					},
+					"frame": {
+						"x": 1218,
+						"y": 557,
+						"w": 113,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 118,
+						"w": 116,
+						"h": 131
+					},
+					"frame": {
+						"x": 1333,
+						"y": 674,
+						"w": 116,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 196,
+						"y": 225,
+						"w": 120,
+						"h": 134
+					},
+					"frame": {
+						"x": 976,
+						"y": 694,
+						"w": 120,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 219,
+						"w": 119,
+						"h": 134
+					},
+					"frame": {
+						"x": 1098,
+						"y": 694,
+						"w": 119,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 482,
+						"y": 278,
+						"w": 85,
+						"h": 135
+					},
+					"frame": {
+						"x": 1219,
+						"y": 687,
+						"w": 85,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 213,
+						"w": 120,
+						"h": 133
+					},
+					"frame": {
+						"x": 1053,
+						"y": 830,
+						"w": 120,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 207,
+						"w": 119,
+						"h": 133
+					},
+					"frame": {
+						"x": 1053,
+						"y": 965,
+						"w": 119,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 201,
+						"w": 119,
+						"h": 133
+					},
+					"frame": {
+						"x": 1175,
+						"y": 830,
+						"w": 119,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 164,
+						"y": 195,
+						"w": 119,
+						"h": 133
+					},
+					"frame": {
+						"x": 1174,
+						"y": 965,
+						"w": 119,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 504,
+						"y": 290,
+						"w": 85,
+						"h": 135
+					},
+					"frame": {
+						"x": 1296,
+						"y": 824,
+						"w": 85,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/smoke/smoke_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 43,
+						"h": 117
+					},
+					"frame": {
+						"x": 1383,
+						"y": 807,
+						"w": 43,
+						"h": 117
+					}
+				},
+				{
+					"filename": "village/ride/seats_0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 511,
+						"y": 294,
+						"w": 85,
+						"h": 135
+					},
+					"frame": {
+						"x": 339,
+						"y": 1466,
+						"w": 85,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 526,
+						"y": 301,
+						"w": 85,
+						"h": 135
+					},
+					"frame": {
+						"x": 339,
+						"y": 1603,
+						"w": 85,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 541,
+						"y": 308,
+						"w": 85,
+						"h": 135
+					},
+					"frame": {
+						"x": 339,
+						"y": 1740,
+						"w": 85,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 475,
+						"y": 274,
+						"w": 84,
+						"h": 135
+					},
+					"frame": {
+						"x": 339,
+						"y": 1877,
+						"w": 84,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 282,
+						"w": 84,
+						"h": 135
+					},
+					"frame": {
+						"x": 425,
+						"y": 1877,
+						"w": 84,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 158,
+						"y": 189,
+						"w": 119,
+						"h": 133
+					},
+					"frame": {
+						"x": 1295,
+						"y": 965,
+						"w": 119,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 497,
+						"y": 286,
+						"w": 84,
+						"h": 135
+					},
+					"frame": {
+						"x": 254,
+						"y": 1042,
+						"w": 84,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 183,
+						"w": 118,
+						"h": 133
+					},
+					"frame": {
+						"x": 340,
+						"y": 1032,
+						"w": 118,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 519,
+						"y": 298,
+						"w": 84,
+						"h": 135
+					},
+					"frame": {
+						"x": 460,
+						"y": 1032,
+						"w": 84,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 534,
+						"y": 305,
+						"w": 84,
+						"h": 135
+					},
+					"frame": {
+						"x": 546,
+						"y": 1030,
+						"w": 84,
+						"h": 135
+					}
+				},
+				{
+					"filename": "village/ride/seats_0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 453,
+						"y": 263,
+						"w": 84,
+						"h": 134
+					},
+					"frame": {
+						"x": 632,
+						"y": 1029,
+						"w": 84,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 177,
+						"w": 118,
+						"h": 132
+					},
+					"frame": {
+						"x": 718,
+						"y": 1053,
+						"w": 118,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 171,
+						"w": 118,
+						"h": 132
+					},
+					"frame": {
+						"x": 838,
+						"y": 1053,
+						"w": 118,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 461,
+						"y": 267,
+						"w": 84,
+						"h": 134
+					},
+					"frame": {
+						"x": 958,
+						"y": 1053,
+						"w": 84,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 165,
+						"w": 118,
+						"h": 132
+					},
+					"frame": {
+						"x": 1044,
+						"y": 1100,
+						"w": 118,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 159,
+						"w": 117,
+						"h": 132
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1100,
+						"w": 117,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 154,
+						"w": 118,
+						"h": 131
+					},
+					"frame": {
+						"x": 1283,
+						"y": 1100,
+						"w": 118,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 468,
+						"y": 271,
+						"w": 84,
+						"h": 134
+					},
+					"frame": {
+						"x": 253,
+						"y": 1189,
+						"w": 84,
+						"h": 134
+					}
+				},
+				{
+					"filename": "village/ride/seats_0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 424,
+						"y": 248,
+						"w": 84,
+						"h": 133
+					},
+					"frame": {
+						"x": 339,
+						"y": 1189,
+						"w": 84,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 431,
+						"y": 252,
+						"w": 84,
+						"h": 133
+					},
+					"frame": {
+						"x": 340,
+						"y": 1324,
+						"w": 84,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 148,
+						"w": 118,
+						"h": 131
+					},
+					"frame": {
+						"x": 425,
+						"y": 1169,
+						"w": 118,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 142,
+						"w": 117,
+						"h": 131
+					},
+					"frame": {
+						"x": 426,
+						"y": 1302,
+						"w": 117,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 136,
+						"w": 117,
+						"h": 131
+					},
+					"frame": {
+						"x": 426,
+						"y": 1435,
+						"w": 117,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 130,
+						"w": 117,
+						"h": 131
+					},
+					"frame": {
+						"x": 426,
+						"y": 1568,
+						"w": 117,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 124,
+						"w": 117,
+						"h": 131
+					},
+					"frame": {
+						"x": 426,
+						"y": 1701,
+						"w": 117,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 446,
+						"y": 260,
+						"w": 84,
+						"h": 133
+					},
+					"frame": {
+						"x": 545,
+						"y": 1169,
+						"w": 84,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 402,
+						"y": 246,
+						"w": 83,
+						"h": 133
+					},
+					"frame": {
+						"x": 545,
+						"y": 1304,
+						"w": 83,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 410,
+						"y": 244,
+						"w": 83,
+						"h": 133
+					},
+					"frame": {
+						"x": 545,
+						"y": 1439,
+						"w": 83,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 417,
+						"y": 244,
+						"w": 83,
+						"h": 133
+					},
+					"frame": {
+						"x": 545,
+						"y": 1574,
+						"w": 83,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 439,
+						"y": 256,
+						"w": 83,
+						"h": 133
+					},
+					"frame": {
+						"x": 545,
+						"y": 1709,
+						"w": 83,
+						"h": 133
+					}
+				},
+				{
+					"filename": "village/ride/seats_0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 112,
+						"w": 116,
+						"h": 130
+					},
+					"frame": {
+						"x": 511,
+						"y": 1844,
+						"w": 116,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 106,
+						"w": 116,
+						"h": 130
+					},
+					"frame": {
+						"x": 631,
+						"y": 1187,
+						"w": 116,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 100,
+						"w": 116,
+						"h": 130
+					},
+					"frame": {
+						"x": 749,
+						"y": 1187,
+						"w": 116,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 94,
+						"w": 116,
+						"h": 129
+					},
+					"frame": {
+						"x": 630,
+						"y": 1319,
+						"w": 116,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 88,
+						"w": 116,
+						"h": 129
+					},
+					"frame": {
+						"x": 630,
+						"y": 1450,
+						"w": 116,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 82,
+						"w": 116,
+						"h": 129
+					},
+					"frame": {
+						"x": 748,
+						"y": 1319,
+						"w": 116,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0173",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 76,
+						"w": 116,
+						"h": 129
+					},
+					"frame": {
+						"x": 630,
+						"y": 1581,
+						"w": 116,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0174",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 71,
+						"w": 116,
+						"h": 129
+					},
+					"frame": {
+						"x": 748,
+						"y": 1450,
+						"w": 116,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0175",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 66,
+						"w": 116,
+						"h": 129
+					},
+					"frame": {
+						"x": 630,
+						"y": 1712,
+						"w": 116,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 382,
+						"y": 223,
+						"w": 83,
+						"h": 132
+					},
+					"frame": {
+						"x": 748,
+						"y": 1581,
+						"w": 83,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 385,
+						"y": 231,
+						"w": 83,
+						"h": 132
+					},
+					"frame": {
+						"x": 867,
+						"y": 1187,
+						"w": 83,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 388,
+						"y": 238,
+						"w": 83,
+						"h": 132
+					},
+					"frame": {
+						"x": 866,
+						"y": 1321,
+						"w": 83,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 394,
+						"y": 244,
+						"w": 83,
+						"h": 132
+					},
+					"frame": {
+						"x": 748,
+						"y": 1715,
+						"w": 83,
+						"h": 132
+					}
+				},
+				{
+					"filename": "village/ride/seats_0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 356,
+						"y": 203,
+						"w": 83,
+						"h": 131
+					},
+					"frame": {
+						"x": 952,
+						"y": 1189,
+						"w": 83,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 376,
+						"y": 218,
+						"w": 83,
+						"h": 131
+					},
+					"frame": {
+						"x": 951,
+						"y": 1322,
+						"w": 83,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 336,
+						"y": 188,
+						"w": 82,
+						"h": 131
+					},
+					"frame": {
+						"x": 866,
+						"y": 1455,
+						"w": 82,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 343,
+						"y": 193,
+						"w": 82,
+						"h": 131
+					},
+					"frame": {
+						"x": 950,
+						"y": 1455,
+						"w": 82,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 350,
+						"y": 198,
+						"w": 82,
+						"h": 131
+					},
+					"frame": {
+						"x": 833,
+						"y": 1588,
+						"w": 82,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 363,
+						"y": 208,
+						"w": 82,
+						"h": 131
+					},
+					"frame": {
+						"x": 917,
+						"y": 1588,
+						"w": 82,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 213,
+						"w": 82,
+						"h": 131
+					},
+					"frame": {
+						"x": 833,
+						"y": 1721,
+						"w": 82,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 323,
+						"y": 178,
+						"w": 81,
+						"h": 131
+					},
+					"frame": {
+						"x": 917,
+						"y": 1721,
+						"w": 81,
+						"h": 131
+					}
+				},
+				{
+					"filename": "village/ride/seats_0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 155,
+						"w": 82,
+						"h": 130
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1234,
+						"w": 82,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 309,
+						"y": 169,
+						"w": 82,
+						"h": 130
+					},
+					"frame": {
+						"x": 1121,
+						"y": 1234,
+						"w": 82,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 329,
+						"y": 183,
+						"w": 82,
+						"h": 130
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1234,
+						"w": 82,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 282,
+						"y": 150,
+						"w": 81,
+						"h": 130
+					},
+					"frame": {
+						"x": 1289,
+						"y": 1233,
+						"w": 81,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 294,
+						"y": 161,
+						"w": 82,
+						"h": 129
+					},
+					"frame": {
+						"x": 1036,
+						"y": 1366,
+						"w": 82,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 316,
+						"y": 174,
+						"w": 81,
+						"h": 130
+					},
+					"frame": {
+						"x": 1120,
+						"y": 1366,
+						"w": 81,
+						"h": 130
+					}
+				},
+				{
+					"filename": "village/ride/seats_0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 137,
+						"w": 81,
+						"h": 129
+					},
+					"frame": {
+						"x": 1203,
+						"y": 1366,
+						"w": 81,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 268,
+						"y": 142,
+						"w": 81,
+						"h": 129
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1497,
+						"w": 81,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 146,
+						"w": 81,
+						"h": 129
+					},
+					"frame": {
+						"x": 1117,
+						"y": 1498,
+						"w": 81,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/smoke/smoke_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 45,
+						"h": 110
+					},
+					"frame": {
+						"x": 1372,
+						"y": 1233,
+						"w": 45,
+						"h": 110
+					}
+				},
+				{
+					"filename": "village/ride/seats_0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 165,
+						"w": 81,
+						"h": 129
+					},
+					"frame": {
+						"x": 1001,
+						"y": 1628,
+						"w": 81,
+						"h": 129
+					}
+				},
+				{
+					"filename": "village/ride/seats_0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 122,
+						"w": 81,
+						"h": 128
+					},
+					"frame": {
+						"x": 1084,
+						"y": 1629,
+						"w": 81,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 129,
+						"w": 81,
+						"h": 128
+					},
+					"frame": {
+						"x": 1000,
+						"y": 1759,
+						"w": 81,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 132,
+						"w": 81,
+						"h": 128
+					},
+					"frame": {
+						"x": 1083,
+						"y": 1759,
+						"w": 81,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 95,
+						"w": 80,
+						"h": 128
+					},
+					"frame": {
+						"x": 1167,
+						"y": 1629,
+						"w": 80,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 102,
+						"w": 80,
+						"h": 128
+					},
+					"frame": {
+						"x": 1166,
+						"y": 1759,
+						"w": 80,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 115,
+						"w": 80,
+						"h": 128
+					},
+					"frame": {
+						"x": 1286,
+						"y": 1366,
+						"w": 80,
+						"h": 128
+					}
+				},
+				{
+					"filename": "village/ride/seats_0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 71,
+						"w": 80,
+						"h": 127
+					},
+					"frame": {
+						"x": 1200,
+						"y": 1498,
+						"w": 80,
+						"h": 127
+					}
+				},
+				{
+					"filename": "village/ride/seats_0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 210,
+						"y": 77,
+						"w": 80,
+						"h": 127
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1627,
+						"w": 80,
+						"h": 127
+					}
+				},
+				{
+					"filename": "village/ride/seats_0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 214,
+						"y": 84,
+						"w": 80,
+						"h": 127
+					},
+					"frame": {
+						"x": 1368,
+						"y": 1365,
+						"w": 80,
+						"h": 127
+					}
+				},
+				{
+					"filename": "village/ride/seats_0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 221,
+						"y": 89,
+						"w": 80,
+						"h": 127
+					},
+					"frame": {
+						"x": 1282,
+						"y": 1497,
+						"w": 80,
+						"h": 127
+					}
+				},
+				{
+					"filename": "village/ride/seats_0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 109,
+						"w": 80,
+						"h": 127
+					},
+					"frame": {
+						"x": 1331,
+						"y": 1626,
+						"w": 80,
+						"h": 127
+					}
+				},
+				{
+					"filename": "village/ride/seats_0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 193,
+						"y": 59,
+						"w": 80,
+						"h": 126
+					},
+					"frame": {
+						"x": 1364,
+						"y": 1496,
+						"w": 80,
+						"h": 126
+					}
+				},
+				{
+					"filename": "village/ride/seats_0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 159,
+						"y": 23,
+						"w": 79,
+						"h": 126
+					},
+					"frame": {
+						"x": 629,
+						"y": 1844,
+						"w": 79,
+						"h": 126
+					}
+				},
+				{
+					"filename": "village/ride/seats_0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 41,
+						"w": 79,
+						"h": 126
+					},
+					"frame": {
+						"x": 710,
+						"y": 1849,
+						"w": 79,
+						"h": 126
+					}
+				},
+				{
+					"filename": "village/ride/seats_0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 47,
+						"w": 79,
+						"h": 126
+					},
+					"frame": {
+						"x": 791,
+						"y": 1854,
+						"w": 79,
+						"h": 126
+					}
+				},
+				{
+					"filename": "village/ride/seats_0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 188,
+						"y": 53,
+						"w": 79,
+						"h": 126
+					},
+					"frame": {
+						"x": 872,
+						"y": 1854,
+						"w": 79,
+						"h": 126
+					}
+				},
+				{
+					"filename": "village/ride/seats_0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 65,
+						"w": 79,
+						"h": 126
+					},
+					"frame": {
+						"x": 1248,
+						"y": 1759,
+						"w": 79,
+						"h": 126
+					}
+				},
+				{
+					"filename": "village/ride/seats_0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 12,
+						"w": 79,
+						"h": 125
+					},
+					"frame": {
+						"x": 953,
+						"y": 1889,
+						"w": 79,
+						"h": 125
+					}
+				},
+				{
+					"filename": "village/ride/seats_0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 165,
+						"y": 29,
+						"w": 79,
+						"h": 125
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1889,
+						"w": 79,
+						"h": 125
+					}
+				},
+				{
+					"filename": "village/ride/seats_0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 35,
+						"w": 79,
+						"h": 125
+					},
+					"frame": {
+						"x": 1115,
+						"y": 1889,
+						"w": 79,
+						"h": 125
+					}
+				},
+				{
+					"filename": "village/ride/seats_0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 7,
+						"w": 78,
+						"h": 125
+					},
+					"frame": {
+						"x": 1196,
+						"y": 1889,
+						"w": 78,
+						"h": 125
+					}
+				},
+				{
+					"filename": "village/ride/seats_0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 17,
+						"w": 78,
+						"h": 125
+					},
+					"frame": {
+						"x": 1276,
+						"y": 1887,
+						"w": 78,
+						"h": 125
+					}
+				},
+				{
+					"filename": "village/ride/seats_0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 3,
+						"w": 78,
+						"h": 124
+					},
+					"frame": {
+						"x": 1329,
+						"y": 1756,
+						"w": 78,
+						"h": 124
+					}
+				},
+				{
+					"filename": "village/ride/seats_0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 832,
+						"h": 565
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 0,
+						"w": 78,
+						"h": 123
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1882,
+						"w": 78,
+						"h": 123
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5d0eda64edcd1175fae4566e46cb09b1:2f2f19d94a139b17a79256fcba1b7871:a26edfffd94b3a74d8fcc0206dac40e3$"
+	}
+}

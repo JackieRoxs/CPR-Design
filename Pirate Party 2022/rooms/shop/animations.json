@@ -1,0 +1,2114 @@
+{
+    "anims": [
+        {
+            "key": "shop/train/train",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0150",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0151",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0152",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0153",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0154",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0155",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0156",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0157",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0158",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0159",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0160",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0161",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0162",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0163",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0164",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0165",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0166",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0167",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0168",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0169",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0170",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0171",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0172",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0173",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0174",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0175",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0176",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0177",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0178",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0179",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0180",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0181",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0182",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0183",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0184",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0185",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0186",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0187",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0188",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0189",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0190",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0191",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0192",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0193",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0194",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0195",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0196",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0197",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0198",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0199",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0200",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0201",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0202",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0203",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0204",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0205",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0206",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0207",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0208",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0209",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0210",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0211",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0212",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0213",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0214",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0215",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0216",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0217",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0218",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0219",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0220",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0221",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0222",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0223",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0224",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0225",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0226",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0227",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0228",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0229",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0230",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0231",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0232",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0233",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0234",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0235",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0236",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0237",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0238",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0239",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0240",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0241",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0242",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0243",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0244",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0245",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0246",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0247",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0248",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0249",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0250",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0251",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0252",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0253",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0254",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0255",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0256",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0257",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0258",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0259",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0260",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0261",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0262",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0263",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0264",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0265",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0266",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0267",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0268",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0269",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0270",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0271",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0272",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0273",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0274",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0275",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0276",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0277",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0278",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0279",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0280",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0281",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0282",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0283",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0284",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0285",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0286",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0287",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0288",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0289",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0290",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0291",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0292",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0293",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0294",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0295",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0296",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0297",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0298",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0299",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0300",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0301",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0302",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0303",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0304",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0305",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0306",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0307",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0308",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0309",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0310",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0311",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0312",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0313",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0314",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0315",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0316",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0317",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0318",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0319",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0320",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0321",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0322",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0323",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0324",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0325",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0326",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0327",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0328",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0329",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0330",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0331",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0332",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0333",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0334",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0335",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0336",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0337",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0338",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0339",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0340",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0341",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0342",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0343",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0344",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0345",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0346",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0347",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0348",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop",
+                    "frame": "shop/train/train0349",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showOnStart": true,
+            "hideOnComplete": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

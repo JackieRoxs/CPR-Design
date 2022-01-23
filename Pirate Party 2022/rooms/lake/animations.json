@@ -1,0 +1,620 @@
+{
+    "anims": [
+        {
+            "key": "lake/door/door",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/door/door0027",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "lake/fall/fall",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/fall/fall0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake/water/water",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/water/water0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake/sparkle/sparkle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake@4x",
+                    "frame": "lake/sparkle/sparkle0052",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

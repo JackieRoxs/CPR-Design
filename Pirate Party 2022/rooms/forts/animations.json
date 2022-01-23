@@ -1,0 +1,459 @@
+{
+    "anims": [
+        {
+            "key": "fort/rightship_flag/flag",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/rightship_flag/flag0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "fort/smallboat_flag/flag",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat_flag/flag0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "fort/smallboat/smallboat",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/smallboat/smallboat0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "fort/blueflag/blue",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fort",
+                    "frame": "fort/blueflag/blue0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

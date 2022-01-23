@@ -1,0 +1,1370 @@
+{
+	"textures": [
+		{
+			"image": "coffee-0.png?h=3c45ba76f5",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2021,
+				"h": 2009
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "coffee/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1564,
+						"h": 987
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1564,
+						"h": 987
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1564,
+						"h": 987
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 917,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 917,
+						"h": 342
+					},
+					"frame": {
+						"x": 1,
+						"y": 990,
+						"w": 917,
+						"h": 342
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 849
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 849
+					},
+					"frame": {
+						"x": 920,
+						"y": 990,
+						"w": 429,
+						"h": 849
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/desk",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 377,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 377,
+						"h": 169
+					},
+					"frame": {
+						"x": 1,
+						"y": 1334,
+						"w": 377,
+						"h": 169
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 398
+					},
+					"frame": {
+						"x": 380,
+						"y": 1334,
+						"w": 215,
+						"h": 398
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 398
+					},
+					"frame": {
+						"x": 1,
+						"y": 1505,
+						"w": 215,
+						"h": 398
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/ceiling_lamp1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 363
+					},
+					"frame": {
+						"x": 218,
+						"y": 1505,
+						"w": 90,
+						"h": 363
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 398
+					},
+					"frame": {
+						"x": 597,
+						"y": 1334,
+						"w": 215,
+						"h": 398
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 321,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 321,
+						"h": 80
+					},
+					"frame": {
+						"x": 310,
+						"y": 1734,
+						"w": 321,
+						"h": 80
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 222
+					},
+					"frame": {
+						"x": 633,
+						"y": 1734,
+						"w": 278,
+						"h": 222
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/secondtable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 143
+					},
+					"frame": {
+						"x": 310,
+						"y": 1816,
+						"w": 300,
+						"h": 143
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/sign_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 120
+					},
+					"frame": {
+						"x": 218,
+						"y": 1870,
+						"w": 90,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/smoke.png/smoke0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 44,
+						"h": 138
+					},
+					"frame": {
+						"x": 310,
+						"y": 1505,
+						"w": 44,
+						"h": 138
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 67,
+						"h": 75
+					},
+					"frame": {
+						"x": 310,
+						"y": 1645,
+						"w": 67,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 67,
+						"h": 75
+					},
+					"frame": {
+						"x": 310,
+						"y": 1645,
+						"w": 67,
+						"h": 75
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/hang",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 100
+					},
+					"frame": {
+						"x": 1,
+						"y": 1905,
+						"w": 120,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 76,
+						"h": 87
+					},
+					"frame": {
+						"x": 123,
+						"y": 1905,
+						"w": 76,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 76,
+						"h": 87
+					},
+					"frame": {
+						"x": 123,
+						"y": 1905,
+						"w": 76,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/machine",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 215
+					},
+					"frame": {
+						"x": 814,
+						"y": 1334,
+						"w": 95,
+						"h": 215
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/smoke.png/smoke0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 44,
+						"h": 135
+					},
+					"frame": {
+						"x": 814,
+						"y": 1551,
+						"w": 44,
+						"h": 135
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/bottomcahir",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 44
+					},
+					"frame": {
+						"x": 814,
+						"y": 1688,
+						"w": 56,
+						"h": 44
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/smoke.png/smoke0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 42,
+						"h": 127
+					},
+					"frame": {
+						"x": 860,
+						"y": 1551,
+						"w": 42,
+						"h": 127
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 215,
+						"h": 397
+					},
+					"frame": {
+						"x": 1351,
+						"y": 990,
+						"w": 215,
+						"h": 397
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 215,
+						"h": 395
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1389,
+						"w": 215,
+						"h": 395
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/gold",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 120
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1786,
+						"w": 189,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/secondgold",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 112
+					},
+					"frame": {
+						"x": 913,
+						"y": 1841,
+						"w": 169,
+						"h": 112
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/sign_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 146
+					},
+					"frame": {
+						"x": 1084,
+						"y": 1841,
+						"w": 132,
+						"h": 146
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/counter_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 166
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 166
+					},
+					"frame": {
+						"x": 1218,
+						"y": 1841,
+						"w": 129,
+						"h": 166
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/door/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 117,
+						"h": 222
+					},
+					"frame": {
+						"x": 1542,
+						"y": 1786,
+						"w": 117,
+						"h": 222
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 96
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1908,
+						"w": 115,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 74,
+						"h": 83
+					},
+					"frame": {
+						"x": 1466,
+						"y": 1908,
+						"w": 74,
+						"h": 83
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 74,
+						"h": 83
+					},
+					"frame": {
+						"x": 1466,
+						"y": 1908,
+						"w": 74,
+						"h": 83
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 215,
+						"h": 395
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1,
+						"w": 215,
+						"h": 395
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 214,
+						"h": 393
+					},
+					"frame": {
+						"x": 1567,
+						"y": 398,
+						"w": 214,
+						"h": 393
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/java/java2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 117,
+						"h": 122
+					},
+					"frame": {
+						"x": 1567,
+						"y": 793,
+						"w": 117,
+						"h": 122
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 214,
+						"h": 393
+					},
+					"frame": {
+						"x": 1568,
+						"y": 917,
+						"w": 214,
+						"h": 393
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 212,
+						"h": 390
+					},
+					"frame": {
+						"x": 1783,
+						"y": 398,
+						"w": 212,
+						"h": 390
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 212,
+						"h": 390
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1,
+						"w": 212,
+						"h": 390
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/table2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 116
+					},
+					"frame": {
+						"x": 1783,
+						"y": 790,
+						"w": 102,
+						"h": 116
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/chest",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 107
+					},
+					"frame": {
+						"x": 1686,
+						"y": 793,
+						"w": 92,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 209,
+						"h": 385
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1312,
+						"w": 209,
+						"h": 385
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/counter_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 289
+					},
+					"frame": {
+						"x": 1661,
+						"y": 1699,
+						"w": 194,
+						"h": 289
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1699,
+						"w": 74,
+						"h": 74
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1699,
+						"w": 74,
+						"h": 74
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/board.png/board0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 209,
+						"h": 385
+					},
+					"frame": {
+						"x": 1779,
+						"y": 1312,
+						"w": 209,
+						"h": 385
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/door/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 117,
+						"h": 247
+					},
+					"frame": {
+						"x": 1857,
+						"y": 1699,
+						"w": 117,
+						"h": 247
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/door/door0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 117,
+						"h": 247
+					},
+					"frame": {
+						"x": 1857,
+						"y": 1699,
+						"w": 117,
+						"h": 247
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/door/door0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 248
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 117,
+						"h": 247
+					},
+					"frame": {
+						"x": 1857,
+						"y": 1699,
+						"w": 117,
+						"h": 247
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/table1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 297
+					},
+					"frame": {
+						"x": 1784,
+						"y": 908,
+						"w": 174,
+						"h": 297
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/java/java1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 171,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 102,
+						"h": 115
+					},
+					"frame": {
+						"x": 1887,
+						"y": 790,
+						"w": 102,
+						"h": 115
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 69,
+						"h": 72
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1207,
+						"w": 69,
+						"h": 72
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/flame/flame0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 69,
+						"h": 72
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1207,
+						"w": 69,
+						"h": 72
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/smoke.png/smoke0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 44,
+						"h": 117
+					},
+					"frame": {
+						"x": 1976,
+						"y": 1699,
+						"w": 44,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "coffee/smoke.png/smoke0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 31,
+						"w": 45,
+						"h": 109
+					},
+					"frame": {
+						"x": 1960,
+						"y": 907,
+						"w": 45,
+						"h": 109
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:84f2fb49d487b3b365cefedd42e01987:8902d64aac03c53535e5c5d562fdcea3:8a15513234f70175f8f7afb894859d8e$"
+	}
+}

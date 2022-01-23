@@ -1,0 +1,660 @@
+{
+    "anims": [
+        {
+            "key": "village/bigsmoke/bigsmoke",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/bigsmoke/bigsmoke0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "village/littlesmoke/little",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/littlesmoke/little0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "village/start/star",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village@4x",
+                    "frame": "village/start/star0080",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

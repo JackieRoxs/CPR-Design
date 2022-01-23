@@ -1,0 +1,372 @@
+{
+    "anims": [
+        {
+            "key": "berg/box/box",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg",
+                    "frame": "berg/box/box0059",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

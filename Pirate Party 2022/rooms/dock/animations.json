@@ -1,0 +1,78 @@
+{
+    "anims": [
+        {
+            "key": "dock/flame/fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dock",
+                    "frame": "dock/flame/fire0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "anims": [
+        {
+            "key": "coffee/flame/flame",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffee/flame/flame0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

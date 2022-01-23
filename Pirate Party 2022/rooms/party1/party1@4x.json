@@ -1,0 +1,1428 @@
+{
+	"textures": [
+		{
+			"image": "party1@4x-0.png?h=dd3a8bccc1",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2038,
+				"h": 2032
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party1/party1/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1877,
+						"h": 744
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1877,
+						"h": 744
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1877,
+						"h": 744
+					}
+				},
+				{
+					"filename": "party1/party1/flagflag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 149,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 461
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1,
+						"w": 149,
+						"h": 461
+					}
+				},
+				{
+					"filename": "party1/party1/thing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 149,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 149,
+						"h": 461
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1,
+						"w": 149,
+						"h": 461
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 85,
+						"w": 123,
+						"h": 124
+					},
+					"frame": {
+						"x": 1880,
+						"y": 464,
+						"w": 123,
+						"h": 124
+					}
+				},
+				{
+					"filename": "party1/party1/wheel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 135
+					},
+					"frame": {
+						"x": 1880,
+						"y": 590,
+						"w": 91,
+						"h": 135
+					}
+				},
+				{
+					"filename": "party1/party1/barrier",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 73
+					},
+					"frame": {
+						"x": 1973,
+						"y": 590,
+						"w": 59,
+						"h": 73
+					}
+				},
+				{
+					"filename": "party1/party1/icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 73
+					},
+					"frame": {
+						"x": 1973,
+						"y": 665,
+						"w": 46,
+						"h": 73
+					}
+				},
+				{
+					"filename": "party1/party1/pole",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 427
+					},
+					"frame": {
+						"x": 1880,
+						"y": 727,
+						"w": 90,
+						"h": 427
+					}
+				},
+				{
+					"filename": "party1/party1/background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1649,
+						"h": 1188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 84,
+						"w": 1649,
+						"h": 1104
+					},
+					"frame": {
+						"x": 1,
+						"y": 747,
+						"w": 1649,
+						"h": 1104
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 385,
+						"h": 196
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1156,
+						"w": 385,
+						"h": 196
+					}
+				},
+				{
+					"filename": "party1/party1/door/door0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 207
+					},
+					"frame": {
+						"x": 1652,
+						"y": 747,
+						"w": 226,
+						"h": 207
+					}
+				},
+				{
+					"filename": "party1/party1/door/door0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 207
+					},
+					"frame": {
+						"x": 1652,
+						"y": 747,
+						"w": 226,
+						"h": 207
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 30,
+						"w": 773,
+						"h": 178
+					},
+					"frame": {
+						"x": 1,
+						"y": 1853,
+						"w": 773,
+						"h": 178
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 762,
+						"h": 177
+					},
+					"frame": {
+						"x": 776,
+						"y": 1853,
+						"w": 762,
+						"h": 177
+					}
+				},
+				{
+					"filename": "party1/party1/rightpole",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 87,
+						"h": 184
+					},
+					"frame": {
+						"x": 1652,
+						"y": 956,
+						"w": 87,
+						"h": 184
+					}
+				},
+				{
+					"filename": "party1/party1/leftpart",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 184
+					},
+					"frame": {
+						"x": 1741,
+						"y": 956,
+						"w": 83,
+						"h": 184
+					}
+				},
+				{
+					"filename": "party1/party1/banner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 86
+					},
+					"frame": {
+						"x": 1540,
+						"y": 1853,
+						"w": 164,
+						"h": 86
+					}
+				},
+				{
+					"filename": "party1/party1/flags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 288
+					},
+					"frame": {
+						"x": 1706,
+						"y": 1354,
+						"w": 275,
+						"h": 288
+					}
+				},
+				{
+					"filename": "party1/party1/flag",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 243,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 44,
+						"w": 182,
+						"h": 206
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1644,
+						"w": 182,
+						"h": 206
+					}
+				}
+			]
+		},
+		{
+			"image": "party1@4x-1.png?h=dd3a8bccc1",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2035,
+				"h": 2011
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party1/walls",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 676
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 676
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 446,
+						"h": 205
+					},
+					"frame": {
+						"x": 1534,
+						"y": 1,
+						"w": 446,
+						"h": 205
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 28,
+						"w": 322,
+						"h": 182
+					},
+					"frame": {
+						"x": 1534,
+						"y": 208,
+						"w": 322,
+						"h": 182
+					}
+				},
+				{
+					"filename": "party1/party1/wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 317,
+						"h": 286
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 317,
+						"h": 286
+					},
+					"frame": {
+						"x": 1534,
+						"y": 392,
+						"w": 317,
+						"h": 286
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 69,
+						"w": 178,
+						"h": 141
+					},
+					"frame": {
+						"x": 1853,
+						"y": 392,
+						"w": 178,
+						"h": 141
+					}
+				},
+				{
+					"filename": "party1/ref",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1481,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 679,
+						"w": 1481,
+						"h": 967
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 550,
+						"h": 210
+					},
+					"frame": {
+						"x": 1484,
+						"y": 680,
+						"w": 550,
+						"h": 210
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 501,
+						"h": 210
+					},
+					"frame": {
+						"x": 1484,
+						"y": 892,
+						"w": 501,
+						"h": 210
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 595,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 1648,
+						"w": 595,
+						"h": 209
+					}
+				},
+				{
+					"filename": "party1/party1/door/door0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 54,
+						"w": 192,
+						"h": 151
+					},
+					"frame": {
+						"x": 1,
+						"y": 1859,
+						"w": 192,
+						"h": 151
+					}
+				},
+				{
+					"filename": "party1/party1/toptop",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 220,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 148
+					},
+					"frame": {
+						"x": 195,
+						"y": 1859,
+						"w": 220,
+						"h": 148
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 7,
+						"w": 634,
+						"h": 202
+					},
+					"frame": {
+						"x": 598,
+						"y": 1648,
+						"w": 634,
+						"h": 202
+					}
+				},
+				{
+					"filename": "party1/party1/door/door0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 227,
+						"h": 207
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 48,
+						"w": 191,
+						"h": 157
+					},
+					"frame": {
+						"x": 598,
+						"y": 1852,
+						"w": 191,
+						"h": 157
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 28,
+						"w": 782,
+						"h": 181
+					},
+					"frame": {
+						"x": 1234,
+						"y": 1648,
+						"w": 782,
+						"h": 181
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 29,
+						"w": 780,
+						"h": 179
+					},
+					"frame": {
+						"x": 1234,
+						"y": 1831,
+						"w": 780,
+						"h": 179
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 46,
+						"w": 254,
+						"h": 164
+					},
+					"frame": {
+						"x": 1484,
+						"y": 1104,
+						"w": 254,
+						"h": 164
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 30,
+						"w": 250,
+						"h": 179
+					},
+					"frame": {
+						"x": 1740,
+						"y": 1104,
+						"w": 250,
+						"h": 179
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 28,
+						"w": 249,
+						"h": 181
+					},
+					"frame": {
+						"x": 1484,
+						"y": 1270,
+						"w": 249,
+						"h": 181
+					}
+				}
+			]
+		},
+		{
+			"image": "party1@4x-2.png?h=dd3a8bccc1",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1989,
+				"h": 812
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party1/party1/toppole0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 619,
+						"h": 810
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 619,
+						"h": 810
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 619,
+						"h": 810
+					}
+				},
+				{
+					"filename": "party1/party1/toppole0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 619,
+						"h": 810
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 79,
+						"w": 619,
+						"h": 731
+					},
+					"frame": {
+						"x": 622,
+						"y": 1,
+						"w": 619,
+						"h": 731
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 32,
+						"w": 745,
+						"h": 176
+					},
+					"frame": {
+						"x": 1243,
+						"y": 1,
+						"w": 745,
+						"h": 176
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 32,
+						"w": 725,
+						"h": 176
+					},
+					"frame": {
+						"x": 1243,
+						"y": 179,
+						"w": 725,
+						"h": 176
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 23,
+						"w": 699,
+						"h": 185
+					},
+					"frame": {
+						"x": 1243,
+						"y": 357,
+						"w": 699,
+						"h": 185
+					}
+				},
+				{
+					"filename": "party1/party1/cannon/cannon0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 792,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 14,
+						"w": 669,
+						"h": 194
+					},
+					"frame": {
+						"x": 1243,
+						"y": 544,
+						"w": 669,
+						"h": 194
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:eda56f8bbc77da25cf3f687adb51dbbc:bead2715bb9a763e2341154c78e650c6:f128131e064a3e1efe001ba038c030d1$"
+	}
+}

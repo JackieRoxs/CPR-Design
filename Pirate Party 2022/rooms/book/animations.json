@@ -1,0 +1,60 @@
+{
+    "anims": [
+        {
+            "key": "book/flash/flash",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "book@4x",
+                    "frame": "book/flash/flash0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book@4x",
+                    "frame": "book/flash/flash0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book@4x",
+                    "frame": "book/flash/flash0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book@4x",
+                    "frame": "book/flash/flash0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book@4x",
+                    "frame": "book/flash/flash0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book@4x",
+                    "frame": "book/flash/flash0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book@4x",
+                    "frame": "book/flash/flash0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "delay": 700
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

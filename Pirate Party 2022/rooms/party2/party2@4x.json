@@ -1,0 +1,283 @@
+{
+	"textures": [
+		{
+			"image": "party2@4x-0.png?h=95d50bc564",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2012,
+				"h": 1738
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party2/party2/background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1888,
+						"h": 1135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1888,
+						"h": 1135
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1888,
+						"h": 1135
+					}
+				},
+				{
+					"filename": "party2/party2/cobweb",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 105,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 105,
+						"h": 97
+					},
+					"frame": {
+						"x": 1891,
+						"y": 1,
+						"w": 105,
+						"h": 97
+					}
+				},
+				{
+					"filename": "party2/party2/chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 67
+					},
+					"frame": {
+						"x": 1891,
+						"y": 100,
+						"w": 82,
+						"h": 67
+					}
+				},
+				{
+					"filename": "party2/party2/chair1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 67
+					},
+					"frame": {
+						"x": 1891,
+						"y": 169,
+						"w": 82,
+						"h": 67
+					}
+				},
+				{
+					"filename": "party2/party2/stairs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 328,
+						"h": 599
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 328,
+						"h": 599
+					},
+					"frame": {
+						"x": 1,
+						"y": 1138,
+						"w": 328,
+						"h": 599
+					}
+				},
+				{
+					"filename": "party2/party2/foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1680,
+						"h": 435
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1680,
+						"h": 435
+					},
+					"frame": {
+						"x": 331,
+						"y": 1138,
+						"w": 1680,
+						"h": 435
+					}
+				}
+			]
+		},
+		{
+			"image": "party2@4x-1.png?h=95d50bc564",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1533,
+				"h": 1684
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "party2/walls",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1531,
+						"h": 967
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1531,
+						"h": 967
+					}
+				},
+				{
+					"filename": "party2/ref",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1531,
+						"h": 967
+					},
+					"spriteSourceSize": {
+						"x": 520,
+						"y": 254,
+						"w": 817,
+						"h": 713
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 817,
+						"h": 713
+					}
+				},
+				{
+					"filename": "party2/party2/barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 264,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 264,
+						"h": 204
+					},
+					"frame": {
+						"x": 820,
+						"y": 970,
+						"w": 264,
+						"h": 204
+					}
+				},
+				{
+					"filename": "party2/party2/prison",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 159,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 159,
+						"h": 236
+					},
+					"frame": {
+						"x": 1086,
+						"y": 970,
+						"w": 159,
+						"h": 236
+					}
+				},
+				{
+					"filename": "party2/party2/table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 214
+					},
+					"frame": {
+						"x": 820,
+						"y": 1176,
+						"w": 181,
+						"h": 214
+					}
+				},
+				{
+					"filename": "party2/party2/table2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 244,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 244,
+						"h": 170
+					},
+					"frame": {
+						"x": 1003,
+						"y": 1208,
+						"w": 244,
+						"h": 170
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0028a93634b1ab33004cf1c34b70e68a:de251297cdf6a6a01d34a0007d709f60:6925b841c3d5b7116e75f874b4204b35$"
+	}
+}
