@@ -3,8 +3,8 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/content/global/rooms/town/town.json?v=1.7.49-beta",
-                "path": "assets/content/global/rooms/town/",
+                "url": "https://raw.githubusercontent.com/JackieRoxs/CPR-Design/refs/heads/main/Halloween%202021/rooms/town/town.json?v=1.7.49-beta",
+                "path": "https://raw.githubusercontent.com/JackieRoxs/CPR-Design/refs/heads/main/Halloween%202021/rooms/town/",
                 "key": "town"
             }
         ]
